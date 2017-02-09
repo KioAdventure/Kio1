@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/sceen/logo.unity
+  - enabled: 1
+    path: Assets/sceen/entrance.unity
+  - enabled: 1
+    path: Assets/sceen/E/E08.unity
+  - enabled: 1
+    path: Assets/sceen/A/A01.unity
+  - enabled: 1
+    path: Assets/sceen/A/A14.unity
+  - enabled: 1
+    path: Assets/sceen/A/A03.unity
+  - enabled: 1
+    path: Assets/sceen/A/A04.unity
+  - enabled: 1
+    path: Assets/sceen/I/hidden01.unity
+  - enabled: 1
+    path: Assets/sceen/A/A093.unity
+  - enabled: 1
+    path: Assets/sceen/A/A15.unity
+  - enabled: 1
+    path: Assets/sceen/fake entrance.unity
+  - enabled: 1
+    path: Assets/sceen/D/D03.unity
+  - enabled: 1
+    path: Assets/sceen/I/I05.unity
+  - enabled: 1
+    path: Assets/sceen/D/D05.unity
+  - enabled: 1
+    path: Assets/sceen/D/D04.unity
+  - enabled: 1
+    path: Assets/sceen/view.unity
+  - enabled: 1
+    path: Assets/sceen/D/D06.unity
+  - enabled: 1
+    path: Assets/sceen/D/D07.unity
+  - enabled: 1
+    path: Assets/sceen/A/AC01.unity
+  - enabled: 1
+    path: Assets/sceen/A/AC02.unity
+  - enabled: 1
+    path: Assets/sceen/A/A05.unity
+  - enabled: 1
+    path: Assets/sceen/A/A06.unity
+  - enabled: 1
+    path: Assets/sceen/A/A08.unity
+  - enabled: 1
+    path: Assets/sceen/A/A07.unity
+  - enabled: 1
+    path: Assets/sceen/A/stair01.unity
+  - enabled: 1
+    path: Assets/sceen/A/AC03.unity
+  - enabled: 1
+    path: Assets/sceen/A/A11.unity
+  - enabled: 1
+    path: Assets/sceen/A/AC04.unity
+  - enabled: 1
+    path: Assets/sceen/A/A12.unity
+  - enabled: 1
+    path: Assets/sceen/A/AC05.unity
+  - enabled: 1
+    path: Assets/sceen/A/A13.unity
+  - enabled: 1
+    path: Assets/sceen/A/A10.unity
+  - enabled: 1
+    path: Assets/sceen/D/Astreet.unity
+  - enabled: 1
+    path: Assets/sceen/B/BC02.unity
+  - enabled: 1
+    path: Assets/sceen/B/B02.unity
+  - enabled: 1
+    path: Assets/sceen/B/B08.unity
+  - enabled: 1
+    path: Assets/sceen/B/B11.unity
+  - enabled: 1
+    path: Assets/sceen/B/B03.unity
+  - enabled: 1
+    path: Assets/sceen/B/B04.unity
+  - enabled: 1
+    path: Assets/sceen/B/B05.unity
+  - enabled: 1
+    path: Assets/sceen/B/BC04.unity
+  - enabled: 1
+    path: Assets/sceen/B/B06.unity
+  - enabled: 1
+    path: Assets/sceen/B/BC03.unity
+  - enabled: 1
+    path: Assets/sceen/B/BC01.unity
+  - enabled: 1
+    path: Assets/sceen/B/B07.unity
+  - enabled: 1
+    path: Assets/sceen/B/B09.unity
+  - enabled: 1
+    path: Assets/sceen/B/B10.unity
+  - enabled: 1
+    path: Assets/sceen/C/Cstreet.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03a.unity
+  - enabled: 1
+    path: Assets/sceen/E/E02.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03b.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03c.unity
+  - enabled: 1
+    path: Assets/sceen/E/E07.unity
+  - enabled: 1
+    path: Assets/sceen/E/E09b.unity
+  - enabled: 1
+    path: Assets/sceen/E/E09.unity
+  - enabled: 1
+    path: Assets/sceen/E/E11.unity
+  - enabled: 1
+    path: Assets/sceen/C/Bstreet.unity
+  - enabled: 1
+    path: Assets/sceen/C/711.unity
+  - enabled: 1
+    path: Assets/sceen/C/qi miao.unity
+  - enabled: 1
+    path: Assets/sceen/D/DD03.unity
+  - enabled: 1
+    path: Assets/sceen/D/DD02.unity
+  - enabled: 1
+    path: Assets/sceen/D/DD01.unity
+  - enabled: 1
+    path: Assets/sceen/D/DN02.unity
+  - enabled: 1
+    path: Assets/sceen/D/DN01.unity
+  - enabled: 1
+    path: Assets/sceen/I/I02.unity
+  - enabled: 1
+    path: Assets/sceen/G/G01.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03d.unity
+  - enabled: 1
+    path: Assets/sceen/E/E12.unity
+  - enabled: 1
+    path: Assets/sceen/E/E17.unity
+  - enabled: 1
+    path: Assets/sceen/E/E01.unity
+  - enabled: 1
+    path: Assets/sceen/F/F01.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03g.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03h.unity
+  - enabled: 1
+    path: Assets/sceen/E/E13.unity
+  - enabled: 1
+    path: Assets/sceen/E/E15.unity
+  - enabled: 1
+    path: Assets/sceen/E/E14.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03e.unity
+  - enabled: 1
+    path: Assets/sceen/E/E03f.unity
+  - enabled: 1
+    path: Assets/sceen/E/E10.unity
+  - enabled: 1
+    path: Assets/sceen/I/I03.unity
+  - enabled: 1
+    path: Assets/sceen/I/I04.unity
+  - enabled: 1
+    path: Assets/sceen/C/tx.unity
+  - enabled: 1
+    path: Assets/sceen/C/txlift.unity
+  - enabled: 1
+    path: Assets/sceen/C/tx2.unity
+  - enabled: 1
+    path: Assets/sceen/A/A16.unity
+  - enabled: 0
+    path: Assets/sceen/test.unity
+  - enabled: 1
+    path: Assets/sceen/G/Gice.unity
+  - enabled: 1
+    path: Assets/sceen/G/G02.unity
+  - enabled: 1
+    path: Assets/sceen/G/G03.unity
+  - enabled: 1
+    path: Assets/sceen/A/A00.unity
+  - enabled: 1
+    path: Assets/sceen/F/F02.unity
+  - enabled: 1
+    path: Assets/sceen/F/F03.unity
+  - enabled: 1
+    path: Assets/sceen/H/Hboss.unity
+  - enabled: 1
+    path: Assets/sceen/H/H01.unity
+  - enabled: 1
+    path: Assets/sceen/H/H02.unity
+  - enabled: 1
+    path: Assets/sceen/H/H03.unity
+  - enabled: 1
+    path: Assets/sceen/H/H04.unity
+  - enabled: 1
+    path: Assets/sceen/H/H05.unity
+  - enabled: 1
+    path: Assets/sceen/C/ji he.unity
+  - enabled: 1
+    path: Assets/sceen/C/al/AL1.unity
+  - enabled: 1
+    path: Assets/sceen/C/al/AL2.unity
+  - enabled: 1
+    path: Assets/sceen/C/al/AL3.unity
+  - enabled: 1
+    path: Assets/sceen/C/al/LL1.unity
+  - enabled: 1
+    path: Assets/sceen/C/ar/AR1.unity
+  - enabled: 1
+    path: Assets/sceen/C/ar/AR2.unity
+  - enabled: 1
+    path: Assets/sceen/C/ar/RR1.unity
+  - enabled: 1
+    path: Assets/sceen/C/al/LL2.unity
+  - enabled: 1
+    path: Assets/sceen/G/G00.unity
+  - enabled: 1
+    path: Assets/sceen/G/Gdown.unity
+  - enabled: 1
+    path: Assets/sceen/D/Dream.unity
+  - enabled: 1
+    path: Assets/sceen/H/End.unity
+  - enabled: 1
+    path: Assets/sceen/C/ji he out.unity
+  - enabled: 1
+    path: Assets/sceen/C/Dream2.unity
+  - enabled: 1
+    path: Assets/sceen/H/H06.unity
+  - enabled: 1
+    path: Assets/sceen/G/G06.unity
+  - enabled: 1
+    path: Assets/sceen/G/G05.unity
+  - enabled: 1
+    path: Assets/sceen/I/I06.unity
+  - enabled: 1
+    path: Assets/sceen/I/I07.unity
+  - enabled: 1
+    path: Assets/sceen/I/I08.unity
+  - enabled: 1
+    path: Assets/sceen/I/I09.unity
+  - enabled: 1
+    path: Assets/sceen/I/I10.unity
+  - enabled: 1
+    path: Assets/sceen/G/G07.unity
+  - enabled: 1
+    path: Assets/sceen/I/I11.unity
