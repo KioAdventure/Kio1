@@ -1,0 +1,788 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 42938266, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier: 
+  variables:
+    floatVariables:
+    - useVariable: 1
+      name: mask fade time
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0.8
+    - useVariable: 1
+      name: "\u4E00\u822C\u73A9\u5BB6\u884C\u8D70\u901F\u5EA6"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0.6
+    - useVariable: 1
+      name: "\u73A9\u5BB6\u6301\u67AA\u884C\u8D70\u901F\u5EA6"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0.35
+    - useVariable: 1
+      name: "\u9ED8\u8BA4\u73A9\u5BB6\u884C\u8D70\u901F\u5EA6"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0.7
+    intVariables:
+    - useVariable: 1
+      name: counting time
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 80
+    - useVariable: 1
+      name: menu selected id
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: player deads
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: player enter direction
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: "stan\u7684\u7B7E\u540D\u7167id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 23
+    - useVariable: 1
+      name: who kill
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: -1
+    - useVariable: 1
+      name: "\u4E8C\u53F7\u94A5\u5319id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 5
+    - useVariable: 1
+      name: "\u4F4F\u5B85\u94A5\u5319id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 9
+    - useVariable: 1
+      name: "\u521B\u53EF\u8D34id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 18
+    - useVariable: 1
+      name: "\u56FE\u4E66\u9986\u5927\u95E8\u94A5\u5319id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 17
+    - useVariable: 1
+      name: "\u5C11\u5973\u7684\u5934id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 10
+    - useVariable: 1
+      name: "\u5C11\u5973\u7684\u5FC3\u810Fid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 11
+    - useVariable: 1
+      name: "\u6025\u6551\u5305id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
+      name: "\u624B\u673Aid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 24
+    - useVariable: 1
+      name: "\u624B\u67AAid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: "\u624B\u67AA\u5B50\u5F39id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 2
+    - useVariable: 1
+      name: "\u652F\u914D\u8005\u7684\u795D\u798Fid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 29
+    - useVariable: 1
+      name: "\u6563\u5F39\u67AAid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 4
+    - useVariable: 1
+      name: "\u6563\u5F39\u67AA\u5B50\u5F39id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 3
+    - useVariable: 1
+      name: "\u673A\u6838\u7F51\u94A5\u5319id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 30
+    - useVariable: 1
+      name: "\u6C27\u6C14\u7B52id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 14
+    - useVariable: 1
+      name: "\u6C7D\u6C34id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 26
+    - useVariable: 1
+      name: "\u78C1\u5361id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 21
+    - useVariable: 1
+      name: "\u7EB8\u6761A id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 19
+    - useVariable: 1
+      name: "\u7EB8\u6761b id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 20
+    - useVariable: 1
+      name: "\u84DD\u8272\u7684\u4E66id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 22
+    - useVariable: 1
+      name: "\u85AF\u7247id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 27
+    - useVariable: 1
+      name: "\u8840\u67D3\u7684\u94A5\u5319id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 8
+    - useVariable: 1
+      name: "\u8BC5\u5492\u7684\u5730\u56FEid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 25
+    - useVariable: 1
+      name: "\u8FA3\u6761id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 28
+    - useVariable: 1
+      name: "\u94A5\u5319b03 id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13
+    - useVariable: 1
+      name: "\u94A5\u5319\u7F29\u5C0F\u67AAid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 6
+    - useVariable: 1
+      name: "\u94C1\u94A5\u5319a03 id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 7
+    - useVariable: 1
+      name: "\u9632\u6BD2\u5957\u88C5id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 16
+    - useVariable: 1
+      name: "\u9632\u6BD2\u9762\u5177id"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 15
+    - useVariable: 1
+      name: "\u9F7F\u8F6Eid"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 12
+    boolVariables:
+    - useVariable: 1
+      name: 80
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: can call menus
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: have menu
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
+      name: load the scene
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: lock and show story
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: player die
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: stop time counting
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: "\u73A9\u5BB6\u80FD\u6361\u7269\u54C1\u4E0D"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
+      name: "\u73A9\u5BB6\u80FD\u884C\u8D70\u4E0D"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    stringVariables:
+    - useVariable: 1
+      name: .dat
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: .dat
+    - useVariable: 1
+      name: base save data name
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: savedata
+    - useVariable: 1
+      name: down key
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: s
+    - useVariable: 1
+      name: left key
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: a
+    - useVariable: 1
+      name: right key
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: d
+    - useVariable: 1
+      name: space room hold level
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
+      name: up key
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: w
+    - useVariable: 1
+      name: "\u4E00\u822C\u7EC4\u5408\u9519\u8BEF"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: "\u6CA1\u6709\u53CD\u5E94"
+    - useVariable: 1
+      name: "\u4E0A\u5B50\u5F39\u6309\u952E"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: r
+    - useVariable: 1
+      name: "\u4ED3\u5E93\u6EE1\u4E86\u7684\u63D0\u793A"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: "\u4ED3\u5E93\u5DF2\u7ECF\u6EE1\u4E86"
+    - useVariable: 1
+      name: "\u53D6\u6D88\u6309\u952E"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: k
+    - useVariable: 1
+      name: "\u6253\u5F00\u83DC\u5355\u6309\u94AE"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: i
+    - useVariable: 1
+      name: "\u6301\u67AA\u6309\u952E"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: space
+    - useVariable: 1
+      name: "\u653B\u51FB\u786E\u8BA4\u6309\u94AE"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: j
+    - useVariable: 1
+      name: "\u7EC4\u5408\u914D\u65B9\u9519\u8BEF\u65F6\u63D0\u793A"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
+      name: "\u81EA\u5DF1\u7EC4\u5408\u81EA\u5DF1\u65F6\u9519\u8BEF\u63D0\u793A"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: "\u4E0D\u80FD\u548C\u81EA\u5DF1\u5408\u4F53"
+    - useVariable: 1
+      name: "\u88C5\u586B\u6EE1\u7684\u65F6\u5019"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: "\u5B50\u5F39\u5DF2\u7ECF\u6EE1\u4E86"
+    - useVariable: 1
+      name: "\u8EAB\u4E0A\u88C5\u6EE1\u4E86"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: "\u7269\u54C1\u680F\u6EE1\u4E86"
+    - useVariable: 1
+      name: "\u9053\u5177\u6309\u952E"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: i
+    vector2Variables: []
+    vector3Variables:
+    - useVariable: 1
+      name: space room hold position
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0, z: 0}
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables:
+    - useVariable: 1
+      name: bgm player
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: black mask
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: debug label
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: die mask
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: enemies counter
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: first combine object
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: game profile
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: hint for object
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: joystick
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: main dialog
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: main locker
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: main menu
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: main saver
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: menu container
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: menu selected item
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: object picker
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: opening hint
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: opening sub menu
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: player
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: player interact item
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: room
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: second combine object
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: showing thing
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    - useVariable: 1
+      name: time counter
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    objectVariables: []
+    materialVariables: []
+    textureVariables: []
+    arrayVariables:
+    - useVariable: 1
+      name: dead names
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 4
+      objectTypeName: UnityEngine.Object
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues:
+      - death0
+      - death1
+      - death2
+      - death3
+      - death4
+      - death5
+      - death6
+      - death7
+      - death8
+      - death9
+      - death10
+      - death11
+      - death12
+      - death13
+      - death14
+      - death15
+      vector4Values: []
+      objectReferences: []
+    - useVariable: 1
+      name: death pictures
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 12
+      objectTypeName: UnityEngine.Sprite
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues: []
+      vector4Values: []
+      objectReferences:
+      - {fileID: 21300000, guid: 53272954bc256ad4e8f942fc3ff53ce8, type: 3}
+      - {fileID: 21300000, guid: c96ecd7b9ab13b94c86545420cdeaf01, type: 3}
+      - {fileID: 21300000, guid: cb9dc4ba4a93537439260e58988a7fe0, type: 3}
+      - {fileID: 21300000, guid: c2c426fa7ab8d82458f6831fdccb32ce, type: 3}
+      - {fileID: 21300000, guid: d32b2281ee3d748429374ff37fcd2103, type: 3}
+      - {fileID: 21300000, guid: 57669cc53f1c14e49ba86a313cf5e2df, type: 3}
+      - {fileID: 21300000, guid: 153da2eb1130d204c8d15ffe19b48267, type: 3}
+      - {fileID: 21300000, guid: 065a4701fee147f468452d22c51f971f, type: 3}
+      - {fileID: 21300000, guid: 938525064dde0324da3ffe434fb8bd74, type: 3}
+      - {fileID: 21300000, guid: 9e5740ab3cb738d4faab4ec1caf25275, type: 3}
+      - {fileID: 21300000, guid: 74a167f4f153d9b4b9bd3c77e8827ffb, type: 3}
+      - {fileID: 21300000, guid: bf8021cc6d50f48429677624536a4b33, type: 3}
+      - {fileID: 21300000, guid: 397284f4a9db017428607943570395a3, type: 3}
+      - {fileID: 21300000, guid: 93549e20f52edaf4b875fef130fc4817, type: 3}
+      - {fileID: 21300000, guid: 215593f3cc8159b49bbbce2b24bd106b, type: 3}
+      - {fileID: 21300000, guid: 78c7d8658fbef724686813a76af4cb48, type: 3}
+    - useVariable: 1
+      name: found hidden room
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 2
+      objectTypeName: UnityEngine.Object
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues: []
+      vector4Values: []
+      objectReferences: []
+    - useVariable: 1
+      name: hidden room name
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 4
+      objectTypeName: UnityEngine.Object
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues:
+      - hidden0
+      - hidden1
+      - hidden2
+      - hidden3
+      - hidden4
+      - hidden5
+      - hidden6
+      - hidden7
+      - hidden8
+      - hidden9
+      - hidden10
+      vector4Values: []
+      objectReferences: []
+    - useVariable: 1
+      name: item prefab
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 3
+      objectTypeName: UnityEngine.Object
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues: []
+      vector4Values: []
+      objectReferences:
+      - {fileID: 175940, guid: c76b9658cb1f37c41be77eb8bf1965c3, type: 2}
+      - {fileID: 136746, guid: 87a84651077d8d247891f1149be0ab42, type: 2}
+      - {fileID: 195616, guid: af196370d0da3bb47a6fc8b2c365bd1b, type: 2}
+      - {fileID: 195616, guid: 68c5d5a0c47aa3e46a3d11b0a5b5e248, type: 2}
+      - {fileID: 175940, guid: eedfe961b8bfa874dacab89691f230f2, type: 2}
+      - {fileID: 136746, guid: c77d2ab7cc1ca9940a940f1744c17bf9, type: 2}
+      - {fileID: 136746, guid: 35f8b0fe96cad2a4bb735d27e9db0500, type: 2}
+      - {fileID: 136746, guid: 7a59ffe6be37c81498775a1aea5abc3c, type: 2}
+      - {fileID: 136746, guid: 116ed28f6730d3d4d96fb9e6a0b3ec2e, type: 2}
+      - {fileID: 136746, guid: 0c08767b4c3949e4a817870e9d5cb2b2, type: 2}
+      - {fileID: 136746, guid: 3b2de9306d0ccae4b8170d52547f3190, type: 2}
+      - {fileID: 136746, guid: 2e611dafa9d53924897696dce4f0b3e9, type: 2}
+      - {fileID: 136746, guid: 4b5e9ad2f7cd9d648ad2b42fb868a32c, type: 2}
+      - {fileID: 136746, guid: f5c6d5d7995e0ce40b384b33ee4d846a, type: 2}
+      - {fileID: 136746, guid: e676b990c50841d41b3399456d39f87d, type: 2}
+      - {fileID: 136746, guid: fdd1e2c907fe3f9478498c121f603f3a, type: 2}
+      - {fileID: 136746, guid: 4ced576db262dde4081af5c43ed781d5, type: 2}
+      - {fileID: 136746, guid: 780fa6b6242ffdf4e8dc9a574441ca9d, type: 2}
+      - {fileID: 136746, guid: a61c812d302eadf46b664282f7c2dc48, type: 2}
+      - {fileID: 136746, guid: 69e4a9b71b636bb47afb11877f3af7e1, type: 2}
+      - {fileID: 136746, guid: ffa466e609370884f94b8f1c0c1d8d79, type: 2}
+      - {fileID: 136746, guid: db17b37b048f99a4cae6b8947230e05b, type: 2}
+      - {fileID: 136746, guid: a0309b4e3e4a22e49a16bf1fbcc9a29a, type: 2}
+      - {fileID: 136746, guid: 22c7032cdbd2d62468552dd847a17063, type: 2}
+      - {fileID: 136746, guid: d577f6bac71974f4dab40c8e81f3983c, type: 2}
+      - {fileID: 136746, guid: b69d7aa56ba4dfc4185ef1cdc89d88ce, type: 2}
+      - {fileID: 136746, guid: 38eb024b2e02cec499a78b2a182cf9ac, type: 2}
+      - {fileID: 136746, guid: d3152c44ba6519741be294f043e88617, type: 2}
+      - {fileID: 136746, guid: e55db5a2329768e489378743cef3965e, type: 2}
+      - {fileID: 136746, guid: 22cb7f46b35bf304c86eedf46a632f50, type: 2}
+      - {fileID: 136746, guid: ee4600ceaec1a874196640b85dec17b2, type: 2}
+    enumVariables: []
+    categories:
+    - 
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  events:
+  - down
+  - left
+  - right
+  - up
+  - stand
+  - hurt
+  - switch gun
+  - hurt return
+  - damage
+  - die
+  - push
+  - interact
+  - set typer
+  - type done
+  - move on
+  - interact return
+  - pick
+  - pick item
+  - change room
+  - leave item
+  - rearrange
+  - return
+  - use
+  - combine
+  - remove item
+  - equip
+  - find equipment
+  - change mark
+  - check fail
+  - check pass
+  - reload
+  - quit
+  - change amount
+  - search
+  - hold
+  - unknown use
+  - walk
+  - surprise
+  - hint
+  - save
+  - load
+  - put in
+  - take out
+  - box
+  - put box
+  - take box
+  - force stand
+  - delete
+  - start
+  - stop
+  - fire
+  - hand gun
+  - hide gun
+  - TRIGGER ENTER 2D
+  - item click
+  - combine click
+  - menu click
+  - open
