@@ -9996,7 +9996,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 562277558}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 402d5547f36a68c47a0d558fda4f63d8, type: 3}
   m_Name: 
@@ -19141,7 +19141,6 @@ GameObject:
   m_Component:
   - component: {fileID: 954508617}
   - component: {fileID: 954508618}
-  - component: {fileID: 954508619}
   m_Layer: 0
   m_Name: tester
   m_TagString: Untagged
@@ -19674,19 +19673,6 @@ MonoBehaviour:
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 0
---- !u!114 &954508619
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 954508616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8d7972c568b50940a54c7f599af66c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _Language: Chinese (PRC)
-  mSource: {fileID: 0}
 --- !u!1 &956153151
 GameObject:
   m_ObjectHideFlags: 0
@@ -31530,6 +31516,8 @@ GameObject:
   - component: {fileID: 1414499878}
   - component: {fileID: 1414499877}
   - component: {fileID: 1414499876}
+  - component: {fileID: 1414499881}
+  - component: {fileID: 1414499882}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -31605,6 +31593,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1414499881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1414499875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d7972c568b50940a54c7f599af66c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Language: Chinese (PRC)
+  mSource: {fileID: 0}
+--- !u!114 &1414499882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1414499875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef069fbbdb68ca4d914f4b710531415, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1444507415
 GameObject:
   m_ObjectHideFlags: 0
@@ -51612,7 +51624,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -967566669
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b00e146863173ca46b9d34b756e285cc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8fc186392c8e0ad47bd7ea0988a144dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -51646,7 +51658,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2134814136
 MonoBehaviour:
   m_ObjectHideFlags: 0

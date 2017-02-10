@@ -1497,11 +1497,17 @@ d06/f2,Text,," Kio
 d06/f3,Text,," Kio
 【Does he want to do to me in this way?】"," Kio
 【难道本来也打算把我这样处置吗？】",,
+d06/f3[touch],Text,," Kio
+【Does he want to do it in this way?】"," Kio
+【难道本来也打算把我这样处置吗？】",,
 d06/f4,Text,," Kio
 【Hold on. There is a key.】"," Kio
 【等等，好像有把钥匙。】",,
 d06/f99,Text,," Kio
 【I have to free my hands before getting the key.】"," Kio
+【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】",,
+d06/f99[touch],Text,," Kio
+【I have to free my hand before getting the key.】"," Kio
 【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】",,
 d06/f,Text,," Kio
 【!!!!!!!!】"," Kio
