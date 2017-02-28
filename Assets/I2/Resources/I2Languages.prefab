@@ -5,10 +5,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 469642}
-  - 114: {fileID: 11498450}
+  - component: {fileID: 469642}
+  - component: {fileID: 11498450}
   m_Layer: 0
   m_Name: I2Languages
   m_TagString: Untagged
@@ -25,10 +25,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &11498450
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1155,7 +1155,7 @@ MonoBehaviour:
     Description: 
     Languages:
     - Pick the shotgun ammo?
-    - "\u6709\u4E00\u76D2\u6563\u5F39\u67AA\u5B50\u5F39\uFF0C\u662F\u5426\u62FE\u53D6\uFF1F"
+    - "\u6709\u4E00\u76D2\u9730\u5F39\u67AA\u5B50\u5F39\uFF0C\u662F\u5426\u62FE\u53D6\uFF1F"
     - 
     - 
     Languages_Touch:
@@ -1169,7 +1169,7 @@ MonoBehaviour:
     Description: 
     Languages:
     - Get the shotgun ammo
-    - "\u62FE\u53D6\u4E86\u4E00\u76D2\u6563\u5F39\u67AA\u5B50\u5F39"
+    - "\u62FE\u53D6\u4E86\u4E00\u76D2\u9730\u5F39\u67AA\u5B50\u5F39"
     - 
     - 
     Languages_Touch:
@@ -1663,7 +1663,7 @@ MonoBehaviour:
     - 
     - 
     Languages_Touch:
-    - Anti-gas suit, the necessary in a trip
+    - 
     - 
     - 
     - 
@@ -2013,7 +2013,7 @@ MonoBehaviour:
     - 
     - 
     Languages_Touch:
-    - " Kio\n\u3010Oh, here you are.\u3011"
+    - 
     - 
     - 
     - 
@@ -16139,8 +16139,8 @@ MonoBehaviour:
     - 
     - 
     Languages_Touch:
-    - Try the ID card to open?
-    - "\u8981\u4F7F\u7528\u78C1\u5361\u5F00\u95E8\u5417\uFF1F"
+    - 
+    - 
     - 
     - 
     Flags: 00000000
