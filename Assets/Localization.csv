@@ -1,48 +1,48 @@
 ﻿Key,Type,Desc,English,Chinese (PRC),Chinese (Traditional),Japanese
-entrance/new game,Text,,New Game,新游戏,,
-entrance/load game,Text,,Load Game,读取进度,,
-entrance/collection,Text,,Gallery,鉴赏模式,,
-entrance/collection[touch],Text,,Collection,鉴赏模式,,
-entrance/credit,Text,,Credits,制作团队,,
-方正像素12,Font,,方正像素12,方正像素12,,
-entrance/death view,Text,,death,死亡插图,,
-entrance/hidden rooms,Text,,hidden,隐藏房间,,
-deaths/death0,Text,,Zombie,僵尸咬死,,
-deaths/death1,Text,,Giant,巨婴玩死,,
-deaths/death2,Text,,Worm,肉虫吸死,,
-deaths/death3,Text,,Ghost,幽灵吊死,,
-deaths/death4,Text,,Squeeze,钉墙陷阱,,
-deaths/death5,Text,,Spike,穿刺陷阱,,
-deaths/death6,Text,,Poison,毒气毒死,,
-deaths/death7,Text,,Saw,电锯分尸,,
-deaths/death8,Text,,Murder,波波虐死,,
-deaths/death9,Text,,Big Worm,巨虫杀死,,
-deaths/death10,Text,,Rabbit,兔子啃光,,
-deaths/death11,Text,,Monster,无名咬死,,
-deaths/death12,Text,,Falled Rock,落石砸死,,
-deaths/death13,Text,,Fly Sword,飞刺扎死,,
-deaths/death14,Text,,Laser,激光射死,,
-deaths/death15,Text,,Creeper,爬行者杀死,,
-entrance/leaders,Text,,Leaders,主制作,,
-entrance/artwork,Text,,Artworks,美术,,
-entrance/thx,Text,,Thanks,特别鸣谢,,
-entrance/director,Text,,Director,制作人,,
-entrance/program,Text,,Program,程序员,,
-entrance/Music,Text,,Music,音乐音效,,
-hiddens/hidden0,Text,,Sperm Land,精液乐园,,
-hiddens/hidden1,Text,,Ten Members,工口十人,,
-hiddens/hidden2,Text,,C's live,C菌直播,,
-hiddens/hidden3,Text,,Lazy Sun,孙渣好懒,,
-hiddens/hidden4,Text,,Lovely Stan,Stan女神,,
-hiddens/hidden5,Text,,Crocodile,鳄鱼同学,,
-hiddens/hidden6,Text,,Qian Dao,千岛酱,,
-hiddens/hidden7,Text,,Space,史悲,,
-hiddens/hidden8,Text,,Light,支配者Light,,
-hiddens/hidden9,Text,,Chairman,会长小白,,
-hiddens/hidden10,Text,,Art Room,美术室,,
-menus/item,Text,,Item,道具,,
-menus/status,Text,,Status,状态,,
-menus/quit,Text,,Quit,退出,,
+entrance/new game,Text,,New Game,新游戏,新遊戲,
+entrance/load game,Text,,Load Game,读取进度,讀取進度,
+entrance/collection,Text,,Gallery,鉴赏模式,鑒賞模式,
+entrance/collection[touch],Text,,Collection,鉴赏模式,鑒賞模式,
+entrance/credit,Text,,Credits,制作团队,製作團隊,
+方正像素12,Font,,方正像素12,方正像素12,方正像素12,
+entrance/death view,Text,,death,死亡插图,死亡插圖,
+entrance/hidden rooms,Text,,hidden,隐藏房间,隱藏房間,
+deaths/death0,Text,,Zombie,僵尸咬死,僵屍咬死,
+deaths/death1,Text,,Giant,巨婴玩死,巨嬰玩死,
+deaths/death2,Text,,Worm,肉虫吸死,肉蟲吸死,
+deaths/death3,Text,,Ghost,幽灵吊死,幽靈吊死,
+deaths/death4,Text,,Squeeze,钉墙陷阱,釘牆陷阱,
+deaths/death5,Text,,Spike,穿刺陷阱,穿刺陷阱,
+deaths/death6,Text,,Poison,毒气毒死,毒氣毒死,
+deaths/death7,Text,,Saw,电锯分尸,電鋸分屍,
+deaths/death8,Text,,Murder,波波虐死,波波虐死,
+deaths/death9,Text,,Big Worm,巨虫杀死,巨蟲殺死,
+deaths/death10,Text,,Rabbit,兔子啃光,兔子啃光,
+deaths/death11,Text,,Monster,无名咬死,無名咬死,
+deaths/death12,Text,,Falled Rock,落石砸死,落石砸死,
+deaths/death13,Text,,Fly Sword,飞刺扎死,飛刺紮死,
+deaths/death14,Text,,Laser,激光射死,鐳射射死,
+deaths/death15,Text,,Creeper,爬行者杀死,爬行者殺死,
+entrance/leaders,Text,,Leaders,主制作,主製作,
+entrance/artwork,Text,,Artworks,美术,美術,
+entrance/thx,Text,,Thanks,特别鸣谢,特別鳴謝,
+entrance/director,Text,,Director,制作人,製作人,
+entrance/program,Text,,Program,程序员,程式師,
+entrance/Music,Text,,Music,音乐音效,音樂音效,
+hiddens/hidden0,Text,,Sperm Land,精液乐园,精液樂園,
+hiddens/hidden1,Text,,Ten Members,工口十人,工口十人,
+hiddens/hidden2,Text,,C's live,C菌直播,C菌直播,
+hiddens/hidden3,Text,,Lazy Sun,孙渣好懒,孫渣好懶,
+hiddens/hidden4,Text,,Lovely Stan,Stan女神,Stan女神,
+hiddens/hidden5,Text,,Crocodile,鳄鱼同学,鱷魚同學,
+hiddens/hidden6,Text,,Qian Dao,千岛酱,千島醬,
+hiddens/hidden7,Text,,Space,史悲,史悲,
+hiddens/hidden8,Text,,Light,支配者Light,支配者Light,
+hiddens/hidden9,Text,,Chairman,会长小白,會長小白,
+hiddens/hidden10,Text,,Art Room,美术室,美術室,
+menus/item,Text,,Item,道具,道具,
+menus/status,Text,,Status,状态,狀態,
+menus/quit,Text,,Quit,退出,退出,
 menus/status labels,Text,,"Play Time:
 Save Times:
 Use First-aid packets:
@@ -52,2956 +52,3885 @@ Find Hidden Places:
 保存次数：
 使用医疗包次数：
 杀死敌人数：
-发现隐藏房间数：",,
-menus/use,Text,,Use,使用,,
-menus/combine,Text,,Combine,组合,,
-menus/hint,Text,,Hint,说明,,
-menus/equip,Text,,Equip,装备,,
-menus/yes,Text,,Yes,是,,
-menus/no,Text,,No,否,,
-menus/replace pants?,Text,,Replace the pants?,是否覆盖之前的内裤？,,
+发现隐藏房间数：","遊戲時間：
+保存次數：
+使用醫療包次數：
+殺死敵人數：
+發現隱藏房間數：",
+menus/use,Text,,Use,使用,使用,
+menus/combine,Text,,Combine,组合,組合,
+menus/hint,Text,,Hint,说明,說明,
+menus/equip,Text,,Equip,装备,裝備,
+menus/yes,Text,,Yes,是,是,
+menus/no,Text,,No,否,否,
+menus/replace pants?,Text,,Replace the pants?,是否覆盖之前的内裤？,是否覆蓋之前的內褲？,
 menus/save data,Text,,"Play Time:
 HP:","游戏时间：
-HP：",,
-menus/take,Text,,Take,取出,,
-menus/put in,Text,,Put in,存入,,
-menus/save done,Text,,Save Done,更换成功,,
+HP：","遊戲時間：
+HP：",
+menus/take,Text,,Take,取出,取出,
+menus/put in,Text,,Put in,存入,存入,
+menus/save done,Text,,Save Done,更换成功,更換成功,
 savepants/text0,Text,," Kio
 【!?!!????!?】"," Kio
-【！？！？？！？？！】",,
+【！？！？？！？？！】"," Kio
+【！？！？？！？？！】",
 savepants/text1,Text,," Kio
 【Is there a pair of  underpants!?】"," Kio
-【怎么这里有一条内裤！？】",,
+【怎么这里有一条内裤！？】"," Kio
+【怎麼這裡有一條內褲！？】",
 savepants/text2,Text,," Kio
 【It seems to be quite  tidy ..........】"," Kio
-【而且好像还蛮干净的。。。。。】",,
+【而且好像还蛮干净的。。。。。】"," Kio
+【而且好像還蠻幹淨的。。。。。】",
 decroration/flower pot,Text,," Kio
 【A flower pot.】"," Kio
-【普通的盆栽。】",,
-items/bullet,Text,,Pick up the pistol ammo?,有一盒手枪子弹，是否拾取？,,
-items/pick bullet,Text,,Get the pistol ammo,拾取了一盒子弹,,
-items/blink,Text,,Pick up the key?,有一把铁钥匙，是否拾取？,,
-items/pick blink,Text,,Get a key,拾取了钥匙,,
-menus/nothing happened,Text,,Nothing happened,没有反应,,
-menus/combine self,Text,,Can not combine with itself,不能和自己合体,,
-menus/inventory is full,Text,,Inventory is full,物品满了，不能拾取,,
-items/gear,Text,,Pick up the gear?,有一个齿轮，是否拾取？,,
-items/pick gear,Text,,Get a gear,拾取了齿轮,,
-items/first aid,Text,,Pick the first-aid packet?,有一个急救包，是否拾取？,,
-items/pick first aid,Text,,Get a first-aid packet,拾取了医疗包,,
-items/key03,Text,,Pick up the key?,有一把钥匙，是否拾取？,,
-items/pick key03,Text,,Get a key,拾取了钥匙,,
-items/ox tank,Text,,Pick up the oxygen tank?,有一个氧气筒，是否拾取？,,
-items/pick ox tank,Text,,Get an oxygen tank,拾取了氧气筒,,
-items/Band-Aid,Text,,Pick up the band-aid?,有一块创可贴，是否拾取？,,
-items/pick band aid,Text,,Get a band-aid,拾取了一块创可贴,,
-items/shot gun,Text,,Pick up the shotgun?,有一支霰弹枪，是否拾取？,,
-items/pick shotgun,Text,,Get a shotgun,拾取了霰弹枪,,
-items/shotgun ammo,Text,,Pick the shotgun ammo?,有一盒散弹枪子弹，是否拾取？,,
-items/pick shotgun ammo,Text,,Get the shotgun ammo,拾取了一盒散弹枪子弹,,
-items/blue book,Text,,Pick up the book?,有一本蓝色的书，是否拾取？,,
-items/pick blue book,Text,,Get a blue book,拾取了蓝色的书,,
-items/chip,Text,,Pick up the bag of chips?,有一包薯片，是否拾取？,,
-items/pick chips,Text,,Get a bag of chips,拾取了一包佛山薯片,,
-items/spicy,Text,,Pick up the bag of chili?,有一包辣条，是否拾取？,,
-items/pick chili,Text,,Get a bag of chili,拾取了一包法国辣条,,
-item hint/phone,Text,,Brand new Pear phone! Great reception!,最新款雪梨手机，双卡双待，信号超强。,,
+【普通的盆栽。】"," Kio
+【普通的盆栽。】",
+items/bullet,Text,,Pick up the pistol ammo?,有一盒手枪子弹，是否拾取？,有一盒手槍子彈，是否拾取？,
+items/pick bullet,Text,,Get the pistol ammo,拾取了一盒子弹,拾取了一盒子彈,
+items/blink,Text,,Pick up the key?,有一把铁钥匙，是否拾取？,有一把鐵鑰匙，是否拾取？,
+items/pick blink,Text,,Get a key,拾取了钥匙,拾取了鑰匙,
+menus/nothing happened,Text,,Nothing happened,没有反应,沒有反應,
+menus/combine self,Text,,Can not combine with itself,不能和自己合体,不能和自己合體,
+menus/inventory is full,Text,,Inventory is full,物品满了，不能拾取,物品滿了，不能拾取,
+items/gear,Text,,Pick up the gear?,有一个齿轮，是否拾取？,有一個齒輪，是否拾取？,
+items/pick gear,Text,,Get a gear,拾取了齿轮,拾取了齒輪,
+items/first aid,Text,,Pick the first-aid packet?,有一个急救包，是否拾取？,有一個急救包，是否拾取？,
+items/pick first aid,Text,,Get a first-aid packet,拾取了医疗包,拾取了醫療包,
+items/key03,Text,,Pick up the key?,有一把钥匙，是否拾取？,有一把鑰匙，是否拾取？,
+items/pick key03,Text,,Get a key,拾取了钥匙,拾取了鑰匙,
+items/ox tank,Text,,Pick up the oxygen tank?,有一个氧气筒，是否拾取？,有一個氧氣筒，是否拾取？,
+items/pick ox tank,Text,,Get an oxygen tank,拾取了氧气筒,拾取了氧氣筒,
+items/Band-Aid,Text,,Pick up the band-aid?,有一块创可贴，是否拾取？,有一塊創可貼，是否拾取？,
+items/pick band aid,Text,,Get a band-aid,拾取了一块创可贴,拾取了一塊創可貼,
+items/shot gun,Text,,Pick up the shotgun?,有一支霰弹枪，是否拾取？,有一支霰彈槍，是否拾取？,
+items/pick shotgun,Text,,Get a shotgun,拾取了霰弹枪,拾取了霰彈槍,
+items/shotgun ammo,Text,,Pick the shotgun ammo?,有一盒霰弹枪子弹，是否拾取？,有一盒霰彈槍子彈，是否拾取？,
+items/pick shotgun ammo,Text,,Get the shotgun ammo,拾取了一盒霰弹枪子弹,拾取了一盒霰彈槍子彈,
+items/blue book,Text,,Pick up the book?,有一本蓝色的书，是否拾取？,有一本藍色的書，是否拾取？,
+items/pick blue book,Text,,Get a blue book,拾取了蓝色的书,拾取了藍色的書,
+items/chip,Text,,Pick up the bag of chips?,有一包薯片，是否拾取？,有一包薯片，是否拾取？,
+items/pick chips,Text,,Get a bag of chips,拾取了一包佛山薯片,拾取了一包佛山薯片,
+items/spicy,Text,,Pick up the bag of chili?,有一包辣条，是否拾取？,有一包辣條，是否拾取？,
+items/pick chili,Text,,Get a bag of chili,拾取了一包法国辣条,拾取了一包法國辣條,
+item hint/phone,Text,,Brand new Pear phone! Great reception!,最新款雪梨手机，双卡双待，信号超强。,最新款雪梨手機，雙卡雙待，信號超強。,
 item use/phone0,Text,," Kio
 【（do.....do....）】"," Kio
-【（嘟。。。。。。。嘟。。。。。。。。）】",,
+【（嘟。。。。。。。嘟。。。。。。。。）】"," Kio
+【（嘟。。。。。。。嘟。。。。。。。。）】",
 item use/phone1,Text,," Kio
 【Can't receive any signal!!】"," Kio
-【完全没有信号！！】",,
-item hint/blue book,Text,,Blue instruction,蓝色说明书。,,
-item hint/chili,Text,,French chili,法国辣条。,,
+【完全没有信号！！】"," Kio
+【完全沒有信號！！】",
+item hint/blue book,Text,,Blue instruction,蓝色说明书。,藍色說明書。,
+item hint/chili,Text,,French chili,法国辣条。,法國辣條。,
 item use/chili0,Text,," Kio
 【This is the LAST BAG I eat...】"," Kio
-【我就吃最后一包。。。】",,
+【我就吃最后一包。。。】"," Kio
+【我就吃最後一包。。。】",
 item use/chili1,Text,," Kio
 【My mom said eating too much chili causes a stomachache.】"," Kio
-【妈妈说吃太辣会拉肚子。。。。】",,
-item hint/chip,Text,,Foshan chips,佛山薯片。,,
+【妈妈说吃太辣会拉肚子。。。。】"," Kio
+【媽媽說吃太辣會拉肚子。。。。】",
+item hint/chip,Text,,Foshan chips,佛山薯片。,佛山薯片。,
 item use/chip0,Text,," Kio
 【Ba da ba da...】"," Kio
-【吧唧吧唧。。。】",,
+【吧唧吧唧。。。】"," Kio
+【吧唧吧唧。。。】",
 item use/chip1,Text,," Kio
 【It's perfect if I drink some coke at the same time!!】"," Kio
-【配上可乐的话就完美了！！】",,
-item hint/can,Text,,Guangzhou soda,广州汽水。,,
+【配上可乐的话就完美了！！】"," Kio
+【配上可樂的話就完美了！！】",
+item hint/can,Text,,Guangzhou soda,广州汽水。,廣州汽水。,
 item use/can0,Text,," Kio
 【This can of stuff..】"," Kio
-【这罐东西。。。】",,
+【这罐东西。。。】"," Kio
+【這罐東西。。。】",
 item use/can1,Text,," Kio
 【Really delicious!!】"," Kio
-【实在是太好喝了！！！】",,
-item hint/ci ka,Text,,An ID card,一块磁卡。,,
-item hint/curse map,Text,,A cursed map,被诅咒的地图。,,
+【实在是太好喝了！！！】"," Kio
+【實在是太好喝了！！！】",
+item hint/ci ka,Text,,An ID card,一块磁卡。,一塊磁卡。,
+item hint/curse map,Text,,A cursed map,被诅咒的地图。,被詛咒的地圖。,
 item use/map0,Text,," Kio
 【!!!!!!!!!!!!!!!!】"," Kio
-【！！！！！！！！！！！！！！！！】",,
+【！！！！！！！！！！！！！！！！】"," Kio
+【！！！！！！！！！！！！！！！！】",
 item use/map1,Text,," Kio
 【Scary!!!!】"," Kio
-【吓死我了！！！！！！！！！！】",,
+【吓死我了！！！！！！！！！！】"," Kio
+【嚇死我了！！！！！！！！！！】",
 item use/map2,Text,," Kio
 【It seems that I can't keep looking at it too long..】"," Kio
-【看来这个诅咒的地图不能盯太久。】",,
-item hint/gear,Text,,A mysterious gear,一颗迷之小齿轮。,,
-item hint/girl's head,Text,,Illusion's head,Illusion的头。,,
-item hint/girl's heart,Text,,A girl's heart,一颗美少女的心脏。,,
-item hint/first aid pack,Text,,"Love yourself, heal yourself by 45 HP",爱护自己，就要懂得医疗。一次能回复45HP。,,
-item hint/key2,Text,,A mysterious key,一把神秘的钥匙。,,
-item hint/keya3,Text,,An metal key,一把铁钥匙。,,
-item hint/key b02,Text,,Key for library gate,图书馆大门钥匙。,,
-item hint/key b03,Text,,A key,一把钥匙。,,
-item hint/key blood,Text,,A key with blood on,一把染血的钥匙。,,
-item hint/mask,Text,,A gas mask,一个防毒面具。,,
-item hint/gas suit,Text,,"Anti-gas suit, the necessary in a trip",防毒套装，附带氧气筒设计，是居家旅行必备良品。,,
-item hint/ox tank,Text,,An oxygen tank,一个氧气筒。,,
-item hint/paper a,Text,,Half of paper,只有半张的小纸片，上面貌似写了些什么。,,
-item hint/paste,Text,,"Love yourself, help yourself by 10 HP",爱护自己，就要懂得医疗。一次能回复10HP。,,
-item hint/gun,Text,,"Beretta 92FS gun, easy to use",伯莱塔92FS半自动手枪，结构简单，精确耐用。,,
-item hint/ammo,Text,,Ammo for pistol,9×19mm鲁格弹，现在广泛被使用的手枪子弹。,,
-item hint/shit,Text,,Carrying this make you much stronger than before,支配者的祝福，带在身上你会变得比平时强力3倍！,,
-item hint/shortgun,Text,,A powerful shotgun,约翰·勃朗宁设计的经典杠杆式霰弹枪，近距离威力大。,,
-item hint/shotgun ammo,Text,,Ammo for shotgun,12号霰弹枪子弹，省着用哦。,,
-item hint/shrink gun,Text,,Keys-shrinking gun,全称钥匙缩小枪，能把钥匙缩小。,,
-item hint/stan,Text,,Lovely signature,字很漂亮。,,
+【看来这个诅咒的地图不能盯太久。】"," Kio
+【看來這個詛咒的地圖不能盯太久。】",
+item hint/gear,Text,,A mysterious gear,一颗迷之小齿轮。,一顆迷之小齒輪。,
+item hint/girl's head,Text,,Illusion's head,Illusion的头。,Illusion的頭。,
+item hint/girl's heart,Text,,A girl's heart,一颗美少女的心脏。,一顆美少女的心臟。,
+item hint/first aid pack,Text,,"Love yourself, heal yourself by 45 HP",爱护自己，就要懂得医疗。一次能回复45HP。,愛護自己，就要懂得醫療。一次能回復45HP。,
+item hint/key2,Text,,A mysterious key,一把神秘的钥匙。,一把神秘的鑰匙。,
+item hint/keya3,Text,,An metal key,一把铁钥匙。,一把鐵鑰匙。,
+item hint/key b02,Text,,Key for library gate,图书馆大门钥匙。,圖書館大門鑰匙。,
+item hint/key b03,Text,,A key,一把钥匙。,一把鑰匙。,
+item hint/key blood,Text,,A key with blood on,一把染血的钥匙。,一把染血的鑰匙。,
+item hint/mask,Text,,A gas mask,一个防毒面具。,一個防毒面具。,
+item hint/gas suit,Text,,"Anti-gas suit, the necessary in a trip",防毒套装，附带氧气筒设计，是居家旅行必备良品。,防毒套裝，附帶氧氣筒設計，是居家旅行必備良品。,
+item hint/ox tank,Text,,An oxygen tank,一个氧气筒。,一個氧氣筒。,
+item hint/paper a,Text,,Half of paper,只有半张的小纸片，上面貌似写了些什么。,只有半張的小紙片，上面貌似寫了些什麼。,
+item hint/paste,Text,,"Love yourself, help yourself by 10 HP",爱护自己，就要懂得医疗。一次能回复10HP。,愛護自己，就要懂得醫療。一次能回復10HP。,
+item hint/gun,Text,,"Beretta 92FS gun, easy to use",伯莱塔92FS半自动手枪，结构简单，精确耐用。,伯萊塔92FS半自動手槍，結構簡單，精確耐用。,
+item hint/ammo,Text,,Ammo for pistol,9×19mm鲁格弹，现在广泛被使用的手枪子弹。,9×19mm魯格彈，現在廣泛被使用的手槍子彈。,
+item hint/shit,Text,,Carrying this make you much stronger than before,支配者的祝福，带在身上你会变得比平时强力3倍！,支配者的祝福，帶在身上你會變得比平時強力3倍！,
+item hint/shortgun,Text,,A powerful shotgun,约翰·勃朗宁设计的经典杠杆式霰弹枪，近距离威力大。,約翰·勃朗寧設計的經典杠杆式霰彈槍，近距離威力大。,
+item hint/shotgun ammo,Text,,Ammo for shotgun,12号霰弹枪子弹，省着用哦。,12號霰彈槍子彈，省著用哦。,
+item hint/shrink gun,Text,,Keys-shrinking gun,全称钥匙缩小枪，能把钥匙缩小。,全稱鑰匙縮小槍，能把鑰匙縮小。,
+item hint/stan,Text,,Lovely signature,字很漂亮。,字很漂亮。,
 a00/a0,Text,," Kio
 【Hello guys. I am Kio!】"," Kio
-【大家好，我是Kio ！】",,
+【大家好，我是Kio ！】"," Kio
+【大家好，我是Kio ！】",
 a00/a1,Text,," Kio
-【I am 15 years old. And I will study in the high school this year.】"," Kio
-【今年15岁，刚刚升上高中。】",,
+【I am 16 years old. And I will study in the high school this year.】"," Kio
+【今年15岁，刚刚升上高中。】"," Kio
+【今年15歲，剛剛升上高中。】",
 a00/a2,Text,," Kio
-【Green tea ice cream is my favorite snack.】"," Kio
-【我最喜欢吃的是抹茶雪糕。】",,
+【Green tea ice cream is my love.】"," Kio
+【我最喜欢吃的是抹茶雪糕。】"," Kio
+【我最喜歡吃的是抹茶雪糕。】",
 a00/a3,Text,," Kio
-【And I hate bitter cucumber.】"," Kio
-【最讨厌的是苦瓜。】",,
+【But I hate bitter cucumber.】"," Kio
+【最讨厌的是苦瓜。】"," Kio
+【最討厭的是苦瓜。】",
 a00/a4,Text,," Kio
 【Because it's bitter.】"," Kio
-【因为很苦。】",,
+【因为很苦。】"," Kio
+【因為很苦。】",
 a00/a5,Text,," Kio
-【I am going to hang out with my two friends.】"," Kio
-【今天约了两个初中的好朋友出来吃饭。】",,
+【I am going to hang out with my two friends today.】"," Kio
+【今天约了两个初中的好朋友出来吃饭。】"," Kio
+【今天約了兩個初中的好朋友出來吃飯。】",
 a00/a6,Text,," Kio
 【It's good news that we will start our new lives in the same school.】"," Kio
-【因为我们都考上同一所高中了。】",,
+【因为我们都考上同一所高中了。】"," Kio
+【因為我們都考上同一所高中了。】",
 a00/a7,Text,," Kio
 【A happy beginning.】"," Kio
-【真的很开心。】",,
+【真的很开心。】"," Kio
+【真的很開心。】",
 a00/a8,Text,," Kio
 【Oh, it's time to move!】"," Kio
-【不说了，我要出门了！】",,
+【不说了，我要出门了！】"," Kio
+【不說了，我要出門了！】",
 a00/b0,Text,," Kio
 【It's hot outside.】"," Kio
-【呼，外面好热啊。】",,
+【呼，外面好热啊。】"," Kio
+【呼，外面好熱啊。】",
 a00/b2,Text,," Kio
 【Otherwise it burns me.】"," Kio
-【要不然热死了。】",,
+【要不然热死了。】"," Kio
+【要不然熱死了。】",
 a00/b1,Text,," Kio
-【Lukily there is air conditioned in the Mcdondon.】"," Kio
-【幸好麦当当里面有空调。】",,
+【Lukily there is air conditioned inside the Mcdondon.】"," Kio
+【幸好麦当当里面有空调。】"," Kio
+【幸好麥當當裡面有空調。】",
 a00/c0,Text,," Kio
-【Did they get here?】"," Kio
-【不知道她们两个到了没有。】",,
+【Well, where are my friends?】"," Kio
+【不知道她们两个到了没有。】"," Kio
+【不知道她們兩個到了沒有。】",
 a00/c1,Text,," Domini
 【Kio! We are here!】"," 多明妮
-【Kio！在这里！】",,
+【Kio！在这里！】"," 多明妮
+【Kio！在這裡！】",
 a00/c2,Text,," Kio
-【Oh, here you are.】"," Kio
-【啊，你们原来已经到了！】",,
+【Oh, coming.】"," Kio
+【啊，你们原来已经到了！】"," Kio
+【啊，你們原來已經到了！】",
 a00/d0,Text,," Domini
 【Yes, we've got here for long.】"," 多明妮
-【对啊，我们到了很久啦！】",,
+【对啊，我们到了很久啦！】"," 多明妮
+【對啊，我們到了很久啦！】",
 a00/d1,Text,," Domini
 【About one hour ago.】"," 多明妮
-【等了你一个多小时了。】",,
+【等了你一个多小时了。】"," 多明妮
+【等了你一個多小時了。】",
 a00/d3,Text,," Illusion
 【She is joking. We just arrive.】"," Illusion
-【她开玩笑的，我们也是刚到而已。】",,
+【她开玩笑的，我们也是刚到而已。】"," Illusion
+【她開玩笑的，我們也是剛到而已。】",
 a00/d4,Text,," Domini
 【You...expose me....】"," 多明妮
-【你你你，干嘛揭穿我！】",,
+【你你你，干嘛揭穿我！】"," 多明妮
+【你你你，幹嘛揭穿我！】",
 a00/d2,Text,," Domini
 【We are about to leave!】"," 多明妮
-【我们都准备要走了！】",,
+【我们都准备要走了！】"," 多明妮
+【我們都準備要走了！】",
 a00/d5,Text,," Domini
 【Isn't it funny?】"," 多明妮
-【开个玩笑嘛。】",,
+【开个玩笑嘛。】"," 多明妮
+【開個玩笑嘛。】",
 a00/d6,Text,," Kio
 【I already know you were not telling the truth!】"," Kio
-【我才不信你两这么早到呢！】",,
+【我才不信你两这么早到呢！】"," Kio
+【我才不信你兩這麼早到呢！】",
 a00/d7,Text,," Kio
 【Eh!?】"," Kio
-【咦！？】",,
+【咦！？】"," Kio
+【咦！？】",
 a00/d8,Text,," Kio
 【You've already ordered your foods before I come here.】"," Kio
-【你们怎么都已经点餐了啊。】",,
+【你们怎么都已经点餐了啊。】"," Kio
+【你們怎麼都已經點餐了啊。】",
 a00/d9,Text,," Illusion
 【Sorry for that......】"," Illusion
-【因为。。。。。。】",,
+【因为。。。。。。】"," Illusion
+【因為。。。。。。】",
 a00/d10,Text,," Illusion
 【We feel a bit hungry.】"," Illusion
-【因为有点饿了，不好意思。】",,
+【因为有点饿了，不好意思。】"," Illusion
+【因為有點餓了，不好意思。】",
 a00/d11,Text,," Domini
 【Kio, go ahead to order yours.】"," 多明妮
-【Kio你快点去点餐吧。】",,
+【Kio你快点去点餐吧。】"," 多明妮
+【Kio你快點去點餐吧。】",
 a00/d12,Text,," Kio
 【No worries. I am OK, will make it later.】"," Kio
-【没事啦，我还不饿，待会再去点。】",,
+【没事啦，我还不饿，待会再去点。】"," Kio
+【沒事啦，我還不餓，待會再去點。】",
 a00/d13,Text,," Kio
 【Well, I can't still  believe..】"," Kio
-【对了，多明妮，还有Illusion。想不到我们。。】",,
+【对了，多明妮，还有Illusion。想不到我们。。】"," Kio
+【對了，多明妮，還有Illusion。想不到我們。。】",
 a00/d14,Text,," Kio
 【We will study at the same high school!】"," Kio
-【能考上同一所高中！】",,
+【能考上同一所高中！】"," Kio
+【能考上同一所高中！】",
 a00/d15,Text,," Kio
 【That's awesome!!】"," Kio
-【真是太好了！！】",,
+【真是太好了！！】"," Kio
+【真是太好了！！】",
 a00/d16,Text,," Domini
 【Yes. We will start our school lives together in the next three years!】"," 多明妮
-【对啊！对啊！高中三年我们又能在一起了！】",,
+【对啊！对啊！高中三年我们又能在一起了！】"," 多明妮
+【對啊！對啊！高中三年我們又能在一起了！】",
 a00/d17,Text,," Illusion
 【Cool. It's great to be with you two.】"," Illusion
-【是呢，能跟你们一起我也很开心。】",,
+【是呢，能跟你们一起我也很开心。】"," Illusion
+【是呢，能跟你們一起我也很開心。】",
 a00/d18,Text,," Domini
-【Hey hey, have you heard that there would be some handsome guys in our class?】"," 多明妮
-【嘿嘿嘿！Kio你知道吗！听说我们班有几个超级大帅哥！】",,
+【Hey, have you heard that there would be some handsome guys in our class?】"," 多明妮
+【嘿嘿嘿！Kio你知道吗！听说我们班有几个超级大帅哥！】"," 多明妮
+【嘿嘿嘿！Kio你知道嗎！聽說我們班有幾個超級大帥哥！】",
 a00/d19,Text,," Kio
 【Really?】"," Kio
-【真的吗！？】",,
+【真的吗！？】"," Kio
+【真的嗎！？】",
 a00/d20,Text,," Domini
 【Certainly! They are like hot stars!】"," 多明妮
-【对啊！听说帅到像明星一样呢！！】",,
+【对啊！听说帅到像明星一样呢！！】"," 多明妮
+【對啊！聽說帥到像明星一樣呢！！】",
 a00/d21,Text,," Domini
 【I look foward to date with all of them! Don't compete with me!】"," 多明妮
-【所以开学之后，我看中的你们不要跟我抢哦！】",,
+【所以开学之后，我看中的你们不要跟我抢哦！】"," 多明妮
+【所以開學之後，我看中的你們不要跟我搶哦！】",
 a00/d22,Text,," Kio
 【If I was a handsome boy..】"," Kio
-【这么帅的话。。】",,
+【这么帅的话。。】"," Kio
+【這麼帥的話。。】",
 a00/d23,Text,," Kio
 【I will date with other girls.】"," Kio
-【一定不会看上你呢。】",,
+【一定不会看上你呢。】"," Kio
+【一定不會看上你呢。】",
 a00/d24,Text,," Domini
 【Hey!!!!!】"," 多明妮
-【！！！！！】",,
+【！！！！！】"," 多明妮
+【！！！！！】",
 a00/d25,Text,," Domini
 【Who are the other girls? Like you!?】"," 多明妮
-【不看上我！难道看上你哦！】",,
+【不看上我！难道看上你哦！】"," 多明妮
+【不看上我！難道看上你哦！】",
 a00/d26,Text,," Illusion
 【Stop it please.】"," Illusion
-【你们两个不要吵啦。】",,
+【你们两个不要吵啦。】"," Illusion
+【你們兩個不要吵啦。】",
 a00/d27,Text,," Domini
 【Illusion! Are you going to compete with us at dating!?】"," 多明妮
-【Illusion难道你也要跟我抢！】",,
+【Illusion难道你也要跟我抢！】"," 多明妮
+【Illusion難道你也要跟我搶！】",
 a00/d28,Text,," Illusion
 【No. I will focus on  studying at the new school.】"," Illusion
-【不是啦，高中我还是打算认真学习的。】 ",,
+【不是啦，高中我还是打算认真学习的。】 "," Illusion
+【不是啦，高中我還是打算認真學習的。】",
 a00/d29,Text,," Kio
 【Too bored if I study too much.】"," Kio
-【整天学习好无聊哦。】",,
+【整天学习好无聊哦。】"," Kio
+【整天學習好無聊哦。】",
 a00/d30,Text,," Kio
 【Well, I can copy your homeworks again!】"," Kio
-【不过也好，之后我的作业靠你了！】",,
+【不过也好，之后我的作业靠你了！】"," Kio
+【不過也好，之後我的作業靠你了！】",
 a00/d31,Text,," Domini
 【Cool, count on me!!】"," 多明妮
-【我的作业也靠你了！！】",,
+【我的作业也靠你了！！】"," 多明妮
+【我的作業也靠你了！！】",
 a00/d32,Text,," Illusion
 【It can't be like this....】"," Illusion
-【你们不要这样。。。。。。】",,
+【你们不要这样。。。。。。】"," Illusion
+【你們不要這樣。。。。。。】",
 a00/d33,Text,," Kio
 【Ha ha, I am going to order my food. Please wait.】"," Kio
-【哈哈，我去点餐了，你们等等吧。】",,
+【哈哈，我去点餐了，你们等等吧。】"," Kio
+【哈哈，我去點餐了，你們等等吧。】",
 a00/e0,Text,," Seller
 【How are you!】"," 服务员
-【你好，欢迎光临。】",,
+【你好，欢迎光临。】"," 服務員
+【你好，歡迎光臨。】",
 a00/e1,Text,," Seller
 【What can I do for you?】"," 服务员
-【请问需要点什么吗？】",,
+【请问需要点什么吗？】"," 服務員
+【請問需要點什麼嗎？】",
 a00/e2,Text,," Kio
 【Hello! A beef buger. A coke.】"," Kio
-【一个牛肉汉堡，一杯中可乐。】",,
+【一个牛肉汉堡，一杯中可乐。】"," Kio
+【一個牛肉漢堡，一杯中可樂。】",
 a00/e3,Text,," Kio
 【And a potato chips please.】"," Kio
-【再来一份薯条吧。】",,
+【再来一份薯条吧。】"," Kio
+【再來一份薯條吧。】",
 a00/e4,Text,," Seller
-【OK. Please wait.】"," 服务员
-【好的，请稍等。】",,
+【OK. A few seconds.】"," 服务员
+【好的，请稍等。】"," 服務員
+【好的，請稍等。】",
 a00/e5,Text,," Kio
 【!?!?!?】"," Kio
-【！？！？！？】",,
+【！？！？！？】"," Kio
+【！？！？！？】",
 a00/e6,Text,," Domini
 【Ahhhhhh!!!!】"," 多明妮
-【啊啊啊啊啊啊啊啊！！！】",,
+【啊啊啊啊啊啊啊啊！！！】"," 多明妮
+【啊啊啊啊啊啊啊啊！！！】",
 a00/e7,Text,," Illusion
 【Earthquake!! Run!!】"," Illusion
-【地震了！！快逃出去外面啊！！】",,
+【地震了！！快逃出去外面啊！！】"," Illusion
+【地震了！！快逃出去外面啊！！】",
 a00/e8,Text,," Kio
 【Ahhhhhh!!!】"," Kio
-【啊啊啊啊啊啊！】",,
+【啊啊啊啊啊啊！】"," Kio
+【啊啊啊啊啊啊！】",
 a01/a0,Text,," Kio
 【..........】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 a01/a1,Text,," Kio
 【Um..?】"," Kio
-【嗯。。。。。？】",,
+【嗯。。。。。？】"," Kio
+【嗯。。。。。？】",
 a01/a3,Text,," Kio
 【How long have I got unconscious....?】"," Kio
-【我昏迷了多久了。。。】",,
+【我昏迷了多久了。。。】"," Kio
+【我昏迷了多久了。。。】",
 a01/a4,Text,," Kio
 【How long...?】"," Kio
-【我在这里睡了多久了？】",,
+【我在这里睡了多久了？】"," Kio
+【我在這裡睡了多久了？】",
 a01/a2,Text,," Kio
 【Horrible headache....】"," Kio
-【头好痛。。。。】",,
+【头好痛。。。。】"," Kio
+【頭好痛。。。。】",
 a01/a5,Text,," Kio
 【I remember that was an earthquake....】"," Kio
-【地震之后好像晕过去了。】",,
+【地震之后好像晕过去了。】"," Kio
+【地震之後好像暈過去了。】",
 a01/a6,Text,," Kio
 【Where am I?】"," Kio
-【这里是什么地方？】",,
+【这里是什么地方？】"," Kio
+【這裡是什麼地方？】",
 a01/a7,Text,," Kio
 【Domini!!!】"," Kio
-【多明妮！！！！！】",,
+【多明妮！！！！！】"," Kio
+【多明妮！！！！！】",
 a01/a8,Text,," Kio
 【Illusion!!!!!】"," Kio
-【Illusion！！！！！！】",,
+【Illusion！！！！！！】"," Kio
+【Illusion！！！！！！】",
 a01/a9,Text,," Kio
 【Where are you?】"," Kio
-【你们在哪？！？！】",,
+【你们在哪？！？！】"," Kio
+【你們在哪？！？！】",
 a01/a10,Text,," Kio
 【Oh, I can use my cell phone!】"," Kio
-【用手机联络一下她们吧。】",,
+【用手机联络一下她们吧。】"," Kio
+【用手機聯絡一下她們吧。】",
 a01/a11,Text,," Kio
 【........】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 a01/a12,Text,," Kio
 【It can't receive any signal....】"," Kio
-【完全没有信号。。。。】",,
+【完全没有信号。。。。】"," Kio
+【完全沒有信號。。。。】",
 a01/a13,Text,," Kio
 【How weird is it!?】"," Kio
-【不过这里怎么这么诡异？】",,
+【不过这里怎么这么诡异？】"," Kio
+【不過這裡怎麼這麼詭異？】",
 a01/a14,Text,," Kio
 【Anyhow, I have to get out of here at first.】"," Kio
-【先离开这里再说吧。】",,
-a01/a dial phone,Text,,Dial the cell phone,尝试拨打了手机,,
-menus/door is lock,Text,,Door is locked,门是锁着的,,
-a01/p0,Text,,"Find a button, Press it?",画框下有个按钮，要按一下？,,
-a01/p2,Text,,A weird painting,一幅诡异的画,,
-a01/p3,Text,,Voice comes from door,门开了的声音,,
+【先离开这里再说吧。】"," Kio
+【先離開這裡再說吧。】",
+a01/a dial phone,Text,,Dial the cell phone,尝试拨打了手机,嘗試撥打了手機,
+menus/door is lock,Text,,Door is locked,门是锁着的,門是鎖著的,
+a01/p0,Text,,"Find a button, Press it?",画框下有个按钮，要按一下？,畫框下有個按鈕，要按一下？,
+a01/p2,Text,,A weird painting,一幅诡异的画,一幅詭異的畫,
+a01/p3,Text,,Voice comes from door,门开了的声音,門開了的聲音,
 a03/a0,Text,," Kio
 【Um!? Who locked the door!?】"," Kio
-【咦！？怎。。。。。。怎么门锁上了！？】",,
+【咦！？怎。。。。。。怎么门锁上了！？】"," Kio
+【咦！？怎。。。。。。怎麼門鎖上了！？】",
 a03/a2,Text,," Kio
 【It seems like be locked from another side!?】"," Kio
-【似乎感觉从外边被锁上了！？】",,
+【似乎感觉从外边被锁上了！？】"," Kio
+【似乎感覺從外邊被鎖上了！？】",
 a03/a3,Text,," Kio
 【.......】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 a03/a4,Text,," Kio
 【What actually happened....】"," Kio
-【到底怎么回事了。。。。。。】",,
+【到底怎么回事了。。。。。。】"," Kio
+【到底怎麼回事了。。。。。。】",
 a03/a5,Text,," Kio
 【It sounds like something is switch on?】"," Kio
-【好像有什么东西启动的声音？】",,
+【好像有什么东西启动的声音？】"," Kio
+【好像有什麼東西啟動的聲音？】",
 a03/wall,Text,," Kio
 【Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah Ah!】"," Kio
-【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！】",,
-menus/to open door?,Text,,Try this key to open the door?,要使用钥匙开门吗？,,
-menus/door opened,Text,,Door is opened,门开了,,
+【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！】"," Kio
+【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！】",
+menus/to open door?,Text,,Try this key to open the door?,要使用钥匙开门吗？,要使用鑰匙開門嗎？,
+menus/door opened,Text,,Door is opened,门开了,門開了,
 a04/a0,Text,," Illusion
 【Kio....】"," Illusion
-【Kio。。。】",,
+【Kio。。。】"," Illusion
+【Kio。。。】",
 a04/a1,Text,," Kio
 【Ah!! What happened to you!!?】"," Kio
-【啊！！你怎么了！！！】",,
+【啊！！你怎么了！！！】"," Kio
+【啊！！你怎麼了！！！】",
 a04/a2,Text,," Illusion
 【Take my head. It can help you out of here.】"," Illusion
-【Kio你取走我的头吧，这样你才能出去。】",,
+【Kio你取走我的头吧，这样你才能出去。】"," Illusion
+【Kio你取走我的頭吧，這樣你才能出去。】",
 a04/a3,Text,," Kio
 【What? What do you mean?】"," Kio
-【什。。。什么意思！？】",,
+【什。。。什么意思！？】"," Kio
+【什。。。什麼意思！？】",
 a04/a4,Text,," Kio
 【Ah ah ah ah ah ah ah!!!】"," Kio
-【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！】 ",,
+【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！】 "," Kio
+【啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！】",
 a04/a5,Text,," Kio
 【No!!!!!!!!!】"," Kio
-【不！！！！！！！！！！！！！】",,
+【不！！！！！！！！！！！！！】"," Kio
+【不！！！！！！！！！！！！！】",
 a04/a6,Text,," Kio
 【What's going on!!!!!!】"," Kio
-【发生什么事情了！！！】",,
+【发生什么事情了！！！】"," Kio
+【發生什麼事情了！！！】",
 a04/a7,Text,," Kio
 【It shouldn't be!! It shouldn't be real!!】"," Kio
-【我不信，我不信，这不是真的！】",,
+【我不信，我不信，这不是真的！】"," Kio
+【我不信，我不信，這不是真的！】",
 a04/a8,Text,," Kio
 【Everything is fine just a moment ago!!】"," Kio
-【刚刚明明还是好好的！！】",,
+【刚刚明明还是好好的！！】"," Kio
+【剛剛明明還是好好的！！】",
 a04/a9,Text,," Kio
 【!!!!!】"," Kio
-【。。。。。】",,
+【。。。。。】"," Kio
+【。。。。。】",
 a04/a10,Text,," Kio
 【It should be a nightmare...】"," Kio
-【这一定是在做梦。。。】",,
+【这一定是在做梦。。。】"," Kio
+【這一定是在做夢。。。】",
 a04/a11,Text,," Kio
 【Wake me up... Please...】"," Kio
-【我要怎样才能醒来呢。。。】",,
-a04/b0,Text,,Pick Illusion's head?,Illusion的头，是否拾取？,,
+【我要怎样才能醒来呢。。。】"," Kio
+【我要怎樣才能醒來呢。。。】",
+a04/b0,Text,,Pick Illusion's head?,Illusion的头，是否拾取？,Illusion的頭，是否拾取？,
 a04/b1,Text,," Kio
 【It's cruel!】"," Kio
-【好残忍！】",,
+【好残忍！】"," Kio
+【好殘忍！】",
 a04/b2,Text,," Kio
 【Where am I!?】"," Kio
-【这里到底是什么地方！？】",,
-a04/b3,Text,,Get Illusion's head,拾取了Illusion的头,,
+【这里到底是什么地方！？】"," Kio
+【這裡到底是什麼地方！？】",
+a04/b3,Text,,Get Illusion's head,拾取了Illusion的头,拾取了Illusion的頭,
 a05/a0,Text,," Girl
 【Take my heart.】"," 少女
-【把我的心脏取走吧。】",,
+【把我的心脏取走吧。】"," 少女
+【把我的心臟取走吧。】",
 a05/a2,Text,," Girl
 【It's helpful to you.】"," 少女
-【对你有帮助的。】",,
+【对你有帮助的。】"," 少女
+【對你有幫助的。】",
 a05/a3,Text,," Kio
 【Ah!?】"," Kio
-【啊！？！？】",,
+【啊！？！？】"," Kio
+【啊！？！？】",
 a05/a4,Text,," Kio
 【It's....】"," Kio
-【太。。。。】",,
+【太。。。。】"," Kio
+【太。。。。】",
 a05/a5,Text,," Kio
 【Horrible....】"," Kio
-【太残忍了。。。。】",,
-a05/b0,Text,,Pick the girl's heart?,少女的心脏，是否拾取？,,
-a05/b1,Text,,Get a heart,拾取了少女的心脏,,
+【太残忍了。。。。】"," Kio
+【太殘忍了。。。。】",
+a05/b0,Text,,Pick the girl's heart?,少女的心脏，是否拾取？,少女的心臟，是否拾取？,
+a05/b1,Text,,Get a heart,拾取了少女的心脏,拾取了少女的心臟,
 a06/a0,Text,," Kio
 【Ahhhhh!!!】"," Kio
-【啊啊啊啊啊啊！！！】",,
+【啊啊啊啊啊啊！！！】"," Kio
+【啊啊啊啊啊啊！！！】",
 a06/a2,Text,," Kio
 【disgusting...!!】"," Kio
-【好。。。。。好恶心！！】",,
+【好。。。。。好恶心！！】"," Kio
+【好。。。。。好噁心！！】",
 a06/a3,Text,," Kio
 【Where is it!?】"," Kio
-【这里到底是什么地方啊。】",,
+【这里到底是什么地方啊。】"," Kio
+【這裡到底是什麼地方啊。】",
 a06/a4,Text,," Kio
 【Why am I here!?】"," Kio
-【为什么我会在这里！】",,
+【为什么我会在这里！】"," Kio
+【為什麼我會在這裡！】",
 a06/a5,Text,," Kio
 【Help me!】"," Kio
-【呜呜呜呜呜呜！！】 ",,
+【呜呜呜呜呜呜！！】 "," Kio
+【嗚嗚嗚嗚嗚嗚！！】",
 a06/b0,Text,," Kio
 【I feel sick..】"," Kio
-【好可怕。】",,
-a07/a0,Text,,Turn the switcher on?,是否按下开关？,,
+【好可怕。】"," Kio
+【好可怕。】",
+a07/a0,Text,,Turn the switcher on?,是否按下开关？,是否按下開關？,
 a07/a1,Text,," Kio
 【Eh!?!?】"," Kio
-【咦！？！？】 ",,
+【咦！？！？】 "," Kio
+【咦！？！？】",
 a07/a2,Text,," Kio
 【Gas!?】"," Kio
-【毒气！？！？】",,
+【毒气！？！？】"," Kio
+【毒氣！？！？】",
 a07/b0,Text,," Kio
 【It locks!!!】"," Kio
-【门被锁上了打不开！！】",,
+【门被锁上了打不开！！】"," Kio
+【門被鎖上了打不開！！】",
 a07/c0,Text,," Kio
 【Ahhh!! Somebody helps me!】"," Kio
-【啊啊啊啊，快来人救我！】",,
+【啊啊啊啊，快来人救我！】"," Kio
+【啊啊啊啊，快來人救我！】",
 a07/c2,Text,," Kio
 【Terrible...I am going to die!!】"," Kio
-【好难受，我是不是要死了？！】",,
+【好难受，我是不是要死了？！】"," Kio
+【好難受，我是不是要死了？！】",
 a07/c3,Text,," Kio
 【Ke ke ke... How can I do!! How!!】"," Kio
-【咳咳咳，怎么办！怎么办！】",,
+【咳咳咳，怎么办！怎么办！】"," Kio
+【咳咳咳，怎麼辦！怎麼辦！】",
 a07/c4,Text,," Kio
 【Woooo.... I feel sick...】"," Kio
-【呜呜呜呜，好难受啊。。。】",,
+【呜呜呜呜，好难受啊。。。】"," Kio
+【嗚嗚嗚嗚，好難受啊。。。】",
 a07/c5,Text,," Kio
 【I......】"," Kio
-【我。。。。。。。。】",,
+【我。。。。。。。。】"," Kio
+【我。。。。。。。。】",
 a07/c6,Text,," Kio
 【I can't breath...】"," Kio
-【我不行了。。。。。】",,
-a08/a,Text,,DO NOT wander in this room,不要在这个房间随便走动。,,
+【我不行了。。。。。】"," Kio
+【我不行了。。。。。】",
+a08/a,Text,,DO NOT wander in this room,不要在这个房间随便走动。,不要在這個房間隨便走動。,
 a11/a1,Text,," Kio
 【Ah!? A monster!?】"," Kio
-【啊，这是什么怪物？！】",,
+【啊，这是什么怪物？！】"," Kio
+【啊，這是什麼怪物？！】",
 a11/a2,Text,," Kio
 【Huge.. And ugly...】"," Kio
-【好巨型，好恶心。。。。。。】",,
+【好巨型，好恶心。。。。。。】"," Kio
+【好巨型，好噁心。。。。。。】",
 a11/a3,Text,," Kio
 【It's squirming.】"," Kio
-【身体还一直在动。】",,
+【身体还一直在动。】"," Kio
+【身體還一直在動。】",
 a11/a4,Text,," Kio
 【Ah!!!!】"," Kio
-【啊！！！！！！！】",,
+【啊！！！！！！！】"," Kio
+【啊！！！！！！！】",
 a11/a5,Text,," Kio
 【What's that!!?】"," Kio
-【什么东西！！】",,
+【什么东西！！】"," Kio
+【什麼東西！！】",
 a11/a6,Text,," Kio
 【Stop there!!】"," Kio
-【不要过来啦！！】",,
+【不要过来啦！！】"," Kio
+【不要過來啦！！】",
 a12/a0,Text,," Kio
 【So many coffins...】"," Kio
-【这里好多棺材。】",,
+【这里好多棺材。】"," Kio
+【這裡好多棺材。】",
 a12/a2,Text,," Kio
 【I feel like there are some zombies will get out of  them.】"," Kio
-【总觉得里面的东西会突然爬出来。】",,
+【总觉得里面的东西会突然爬出来。】"," Kio
+【總覺得裡面的東西會突然爬出來。】",
 a12/a3,Text,," Kio
 【Calm down. Don't figure out like this.】"," Kio
-【不行，不要往这个方面想。】",,
+【不行，不要往这个方面想。】"," Kio
+【不行，不要往這個方面想。】",
 a12/a4,Text,," Kio
 【Well, take a deep breath. Move on.】"," Kio
-【没事的！不要吓自己。】",,
+【没事的！不要吓自己。】"," Kio
+【沒事的！不要嚇自己。】",
 a12/b0,Text,," Kio
 【There is something inside..】"," Kio
-【里面好像有东西。。】",,
-a12/b1,Text,,Pick up the unknown stuff?,有一个奇怪的东西，是否拾取？,,
-a12/b2,Text,,Get a shrink gun,拾取了钥匙缩小枪,,
+【里面好像有东西。。】"," Kio
+【裡面好像有東西。。】",
+a12/b1,Text,,Pick up the unknown stuff?,有一个奇怪的东西，是否拾取？,有一個奇怪的東西，是否拾取？,
+a12/b2,Text,,Get a shrink gun,拾取了钥匙缩小枪,拾取了鑰匙縮小槍,
 a12/c0,Text,," Kio
 【!!!!】"," Kio
-【！！！！】",,
+【！！！！】"," Kio
+【！！！！】",
 a12/c1,Text,," Kio
 【What's this!?】"," Kio
-【什么东西！？】",,
-savepants/a01,Text,,A room,地牢密室,,
-a13/a,Text,,Bloodstain... Touch it?,这些血。。。。要摸一下？,,
+【什么东西！？】"," Kio
+【什麼東西！？】",
+savepants/a01,Text,,A room,地牢密室,地牢密室,
+a13/a,Text,,Bloodstain... Touch it?,这些血。。。。要摸一下？,這些血。。。。要摸一下？,
 a13/a1,Text,," Kio
 【A suspicious bloodstain.】"," Kio
-【好可疑的血迹。】",,
+【好可疑的血迹。】"," Kio
+【好可疑的血跡。】",
 items/kao,Text,," Kio
 【handcuffs??】"," Kio
-【手铐？？？】",,
-savepants/a14,Text,,Dungeon,地牢东南,,
-a15/a0,Text,,Pick the key?,有一把金色钥匙，是否拾取？,,
-a15/a1,Text,,Get a key,拾取了金色的钥匙,,
+【手铐？？？】"," Kio
+【手銬？？？】",
+savepants/a14,Text,,Dungeon,地牢东南,地牢東南,
+a15/a0,Text,,Pick the key?,有一把金色钥匙，是否拾取？,有一把金色鑰匙，是否拾取？,
+a15/a1,Text,,Get a key,拾取了金色的钥匙,拾取了金色的鑰匙,
 a15/b0,Text,," Kio
 【A big key!】"," Kio
-【好......好大的钥匙!】",,
+【好......好大的钥匙!】"," Kio
+【好......好大的鑰匙!】",
 a15/b1,Text,," Kio
 【It's heavy. I can't carry it.】"," Kio
-【好重，根本无法拿起。】",,
+【好重，根本无法拿起。】"," Kio
+【好重，根本無法拿起。】",
 menus/door auto lock,Text,," Kio
 【Why is the door locked automatically..?】"," Kio
-【这门怎么自动锁上了？】",,
+【这门怎么自动锁上了？】"," Kio
+【這門怎麼自動鎖上了？】",
 a16/a0,Text,," Kio
 【I feel something behind me...】"," Kio
-【怎么感觉背后有股阴风。。。】",,
+【怎么感觉背后有股阴风。。。】"," Kio
+【怎麼感覺背後有股陰風。。。】",
 a16/a1,Text,," Kio
 【It's a ghost!】"," Kio
-【是。。。鬼。。。】",,
+【是。。。鬼。。。】"," Kio
+【是。。。鬼。。。】",
 a16/a2,Text,," Kio
 【Run!!】"," Kio
-【鬼啊！！快跑！！】",,
-savepants/a093,Text,,Storage,地牢杂物房,,
-a093/a0,Text,,Pick the pistol?,有一把手枪，是否拾取？,,
+【鬼啊！！快跑！！】"," Kio
+【鬼啊！！快跑！！】",
+savepants/a093,Text,,Storage,地牢杂物房,地牢雜物房,
+a093/a0,Text,,Pick the pistol?,有一把手枪，是否拾取？,有一把手槍，是否拾取？,
 a093/a1,Text,," Kio
 【Is that a gun!?】"," Kio
-【这里有一把手枪？！】",,
-a093/a,Text,,Pick a pistol,拾取了手枪,,
+【这里有一把手枪？！】"," Kio
+【這裡有一把手槍？！】",
+a093/a,Text,,Pick a pistol,拾取了手枪,拾取了手槍,
 a093/a2,Text,," Kio
 【Who left this here?】"," Kio
-【是谁留下来的？】",,
+【是谁留下来的？】"," Kio
+【是誰留下來的？】",
 a093/a3,Text,," Kio
 【Anybody here?】"," Kio
-【有人吗？？】",,
+【有人吗？？】"," Kio
+【有人嗎？？】",
 a093/a4,Text,," Kio
 【If the owner is gone, I am going to take it!】"," Kio
-【没有人我拿走了哦！】",,
+【没有人我拿走了哦！】"," Kio
+【沒有人我拿走了哦！】",
 a093/a5,Text,," Kio
 【I am going to!】"," Kio
-【我拿了哦！！】",,
+【我拿了哦！！】"," Kio
+【我拿了哦！！】",
 a093/a6,Text,," Kio
 【\0.5.\0.5.\0.5.\0.5.\0.5.\0.5.\0.5】"," Kio
-【\0.5。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】",,
+【\0.5。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】"," Kio
+【\0.5。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】",
 a093/a7,Text,," Kio
 【In any case, I'd better to carry it.】"," Kio
-【以防万一还是拿走吧。】",,
+【以防万一还是拿走吧。】"," Kio
+【以防萬一還是拿走吧。】",
 a093/a8,Text,," Kio
 【Although I am not used to fire and shoot.】"," Kio
-【虽然不太会用枪。】",,
+【虽然不太会用枪。】"," Kio
+【雖然不太會用槍。】",
 a093/a9,Text,," Kio
 【I feel safe if I carry a gun.】"," Kio
-【但是拿着会有安全感。】",,
+【但是拿着会有安全感。】"," Kio
+【但是拿著會有安全感。】",
 a093/a10,Text,," Kio
 【It's greatly useful when fighting against something.】"," Kio
-【遇到危险乱射一通也好。】",,
+【遇到危险乱射一通也好。】"," Kio
+【遇到危險亂射一通也好。】",
 a093/a11,Text,," Kio
 【I decide to take it. Thank you stranger.】"," Kio
-【不管了！我要拿走！】",,
-a093/b0,Text,,Pick the first-aid packet?,有一个急救包，是否拾取？,,
-a093/b,Text,,Get a first-aid packet,拾取了医疗包,,
+【不管了！我要拿走！】"," Kio
+【不管了！我要拿走！】",
+a093/b0,Text,,Pick the first-aid packet?,有一个急救包，是否拾取？,有一個急救包，是否拾取？,
+a093/b,Text,,Get a first-aid packet,拾取了医疗包,拾取了醫療包,
 a093/b1,Text,," Kio
 【Oh I found a first-aid packet.】"," Kio
-【这里有个医疗包。】",,
+【这里有个医疗包。】"," Kio
+【這裡有個醫療包。】",
 a093/b2,Text,," Kio
 【I don't care who owns this.】"," Kio
-【虽然感觉拿走别人的东西不好。】",,
+【虽然感觉拿走别人的东西不好。】"," Kio
+【雖然感覺拿走別人的東西不好。】",
 a093/b3,Text,," Kio
 【It belongs to me now!】"," Kio
-【但我现在不管了，我要拿走！】",,
-ac01/gui0,Text,,Open the drawer?,是否打开抽屉？,,
+【但我现在不管了，我要拿走！】"," Kio
+【但我現在不管了，我要拿走！】",
+ac01/gui0,Text,,Open the drawer?,是否打开抽屉？,是否打開抽屜？,
 ac01/gui,Text,," Kio
 【A weird picture.】"," Kio
-【一张诡异的照片。】",,
+【一张诡异的照片。】"," Kio
+【一張詭異的照片。】",
 ac01/gui2,Text,," Kio
 【Who is he in this photo?】"," Kio
-【不知道是谁的。】",,
+【不知道是谁的。】"," Kio
+【不知道是誰的。】",
 menus/no need enter,Text,," Kio
 【I feel like that I don't need to get in again.】 "," Kio
-【没有再进去的必要了。】 ",,
-ac01/t0,Text,,Leave your body,只把肉留下来,,
-ac01/t1,Text,,Discard bones and organs,骨头与内脏都不要了,,
+【没有再进去的必要了。】 "," Kio
+【沒有再進去的必要了。】",
+ac01/t0,Text,,Leave your body,只把肉留下来,只把肉留下來,
+ac01/t1,Text,,Discard bones and organs,骨头与内脏都不要了,骨頭與內臟都不要了,
 ac01/t2,Text,," Kio
 【What does it mean?】"," Kio
-【这是什么鬼？】",,
+【这是什么鬼？】"," Kio
+【這是什麼鬼？】",
 ac01/t3,Text,," Kio
 【Leave my body?】"," Kio
-【只把肉留下来？】",,
-ac01/tt0,Text,,Can't get out of the dungeon,不要让任何人从地牢逃走,,
+【只把肉留下来？】"," Kio
+【只把肉留下來？】",
+ac01/tt0,Text,,Can't get out of the dungeon,不要让任何人从地牢逃走,不要讓任何人從地牢逃走,
 ac01/tt1,Text,," Kio
 【Dungeon? Here?】"," Kio
-【这里是地牢？】",,
+【这里是地牢？】"," Kio
+【這裡是地牢？】",
 ac01/tt2,Text,," Kio
 【I am sure I was in Mcdondon a short moment ago.】"," Kio
-【我明明在麦当当啊。】",,
+【我明明在麦当当啊。】"," Kio
+【我明明在麥當當啊。】",
 ac01/tt3,Text,," Kio
 【However, It looks like dungeon here.】"," Kio
-【不过这里的确很像地牢。】",,
-ac01/ttt0,Text,,Get in the door,如果想死的话,,
-ac01/ttt1,Text,,If you dare,就进旁边的门吧,,
+【不过这里的确很像地牢。】"," Kio
+【不過這裡的確很像地牢。】",
+ac01/ttt0,Text,,Get in the door,如果想死的话,如果想死的話,
+ac01/ttt1,Text,,If you dare,就进旁边的门吧,就進旁邊的門吧,
 ac01/ttt2,Text,," Kio
 【Is that a trick?】"," Kio
-【什么恶作剧？】",,
+【什么恶作剧？】"," Kio
+【什麼惡作劇？】",
 ac01/ttt3,Text,," Kio
 【Not funny!】"," Kio
-【谁这么无聊写这些字条。】",,
+【谁这么无聊写这些字条。】"," Kio
+【誰這麼無聊寫這些字條。】",
 ac01/picture,Text,," Kio
 【A scary picture.】"," Kio
-【一张奇怪的油画。】",,
+【一张奇怪的油画。】"," Kio
+【一張奇怪的油畫。】",
 ac01/picture1,Text,," Kio
 【it seems to be able to put things in at the head and heart position.】"," Kio
-【头与心脏的位置似乎能放东西进去。】",,
+【头与心脏的位置似乎能放东西进去。】"," Kio
+【頭與心臟的位置似乎能放東西進去。】",
 ac01/gap,Text,," Kio
 【A crack. Nothing is special.】"," Kio
-【裂痕，没什么特别的。】",,
-savepants/ac02,Text,,Corridor,地牢长廊,,
+【裂痕，没什么特别的。】"," Kio
+【裂痕，沒什麼特別的。】",
+savepants/ac02,Text,,Corridor,地牢长廊,地牢長廊,
 ac02/a0,Text,," Kio
 【Crazy! Crazy!】"," Kio
-【呼！呼！呼！呼！！】",,
+【呼！呼！呼！呼！！】"," Kio
+【呼！呼！呼！呼！！】",
 ac02/a1,Text,," Kio
 【Scary!】"," Kio
-【吓死我了！！】",,
+【吓死我了！！】"," Kio
+【嚇死我了！！】",
 ac02/a2,Text,," Kio
 【I though I was going to die!】"," Kio
-【还以为自己刚刚要死了。】",,
-ac02/t0,Text,,No one can escape,不允许有人从这里逃出去,,
-ac02/t1,Text,,Discard bones and organs,骨头与内脏都不要了,,
-ac02/tt0,Text,,Everyone have to die,所人有都要处死,,
-ac02/tt1,Text,,No matter who,不分男女,,
+【还以为自己刚刚要死了。】"," Kio
+【還以為自己剛剛要死了。】",
+ac02/t0,Text,,No one can escape,不允许有人从这里逃出去,不允許有人從這裡逃出去,
+ac02/t1,Text,,Discard bones and organs,骨头与内脏都不要了,骨頭與內臟都不要了,
+ac02/tt0,Text,,Everyone have to die,所人有都要处死,所人有都要處死,
+ac02/tt1,Text,,No matter who,不分男女,不分男女,
 ac02/tt2,Text,," Kio
 【Threaten...】"," Kio
-【好可怕。】",,
+【好可怕。】"," Kio
+【好可怕。】",
 ac03/a0,Text,," Kio
 【Roaches...】"," Kio
-【蟑螂。。。。。。】",,
+【蟑螂。。。。。。】"," Kio
+【蟑螂。。。。。。】",
 ac03/a2,Text,," Kio
 【Too many roaches!!】"," Kio
-【好多蟑螂！！！】",,
+【好多蟑螂！！！】"," Kio
+【好多蟑螂！！！】",
 ac03/a3,Text,," Kio
 【But this is the only way to go.】"," Kio
-【但是这是唯一一条路。】",,
+【但是这是唯一一条路。】"," Kio
+【但是這是唯一一條路。】",
 ac03/a4,Text,," Kio
 【....】"," Kio
-【怎么办。。。。。。】",,
+【怎么办。。。。。。】"," Kio
+【怎麼辦。。。。。。】",
 ac03/a5,Text,," Kio
 【Deep breath, and go through it.】"," Kio
-【鼓起勇气一口气走过去吧。】",,
+【鼓起勇气一口气走过去吧。】"," Kio
+【鼓起勇氣一口氣走過去吧。】",
 ac03/b0,Text,," Kio
 【Quickly move.】"," Kio
-【不想看。】",,
+【不想看。】"," Kio
+【不想看。】",
 ac04/a0,Text,," Kio
 【disgusting.】"," Kio
-【好恶心。】",,
+【好恶心。】"," Kio
+【好噁心。】",
 b02/good self,Text,," Kio
 【There are books in the bookcase.】"," Kio
-【书柜上放满了书。】",,
+【书柜上放满了书。】"," Kio
+【書櫃上放滿了書。】",
 b02/bad self,Text,," Kio
 【Bookcase fell.】"," Kio
-【书柜倒下了，地上都是书。】",,
+【书柜倒下了，地上都是书。】"," Kio
+【書櫃倒下了，地上都是書。】",
 b02/dont go back,Text,," Kio
 【I don't want to go back.】"," Kio
-【不想再下去。】",,
+【不想再下去。】"," Kio
+【不想再下去。】",
 b02/no head,Text,," Kio
 【His head is gone...】"," Kio
-【头也没有了，好可怕。】",,
+【头也没有了，好可怕。】"," Kio
+【頭也沒有了，好可怕。】",
 b02/dead,Text,," Kio
 【He's dead for long.】"," Kio
-【已经断气了。】",,
+【已经断气了。】"," Kio
+【已經斷氣了。】",
 b02/picture,Text,," Kio
 【A painting. Nothing special.】"," Kio
-【普通的挂画，没什么特别。】",,
+【普通的挂画，没什么特别。】"," Kio
+【普通的掛畫，沒什麼特別。】",
 b02/.....,Text,," Kio
 【...........】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 b02/a0,Text,," Kio
 【Whooo...Finally I am out.】"," Kio
-【呼呼呼！终于逃出来了！】",,
+【呼呼呼！终于逃出来了！】"," Kio
+【呼呼呼！終於逃出來了！】",
 b02/a2,Text,," Kio
 【What was that stupid dungeon. Why was I there?】"," Kio
-【刚刚的到底是什么地方啊，怎么我会在里面的。】",,
+【刚刚的到底是什么地方啊，怎么我会在里面的。】"," Kio
+【剛剛的到底是什麼地方啊，怎麼我會在裡面的。】",
 b02/a3,Text,," Kio
 【Eh!? This place!?】"," Kio
-【咦？！这里是！？】",,
+【咦？！这里是！？】"," Kio
+【咦？！這裡是！？】",
 b02/a4,Text,," Kio
 【Is it a library?】"," Kio
-【这里不就是图书馆吗？】",,
+【这里不就是图书馆吗？】"," Kio
+【這裡不就是圖書館嗎？】",
 b02/a5,Text,," Kio
 【Why is there a scary dungeon under the library!?】"," Kio
-【怎么图书馆下面会有一个这么恐怖的地下室？！】",,
+【怎么图书馆下面会有一个这么恐怖的地下室？！】"," Kio
+【怎麼圖書館下面會有一個這麼恐怖的地下室？！】",
 b02/a6,Text,," Kio
 【Am I in a nightmare!?】"," Kio
-【我是不是在做恶梦。】",,
+【我是不是在做恶梦。】"," Kio
+【我是不是在做惡夢。】",
 b02/a7,Text,," Kio
 【(Pinch her face strongly)】"," Kio
-【（用力捏了一下自己的脸）】",,
+【（用力捏了一下自己的脸）】"," Kio
+【（用力捏了一下自己的臉）】",
 b02/a8,Text,," Kio
 【Painful!!!】"," Kio
-【好痛！！！！！！！！】",,
+【好痛！！！！！！！！】"," Kio
+【好痛！！！！！！！！】",
 b02/b1,Text,," Injured man
 【(sign)....】"," 受伤的人
-【咳咳。。。。。。】",,
+【咳咳。。。。。。】"," 受傷的人
+【咳咳。。。。。。】",
 b02/b2,Text,," Kio
 【Ah! Somebody is still alive!】"," Kio
-【啊！有活着的人！】",,
+【啊！有活着的人！】"," Kio
+【啊！有活著的人！】",
 b02/b3,Text,," Kio
 【Are you all right?】"," Kio
-【你没事吧！？】",,
+【你没事吧！？】"," Kio
+【你沒事吧！？】",
 b02/b4,Text,," Injured man
 【I...I am dying...】"," 受伤的人
-【我应该快要死掉了，咳咳。。。。。。】",,
+【我应该快要死掉了，咳咳。。。。。。】"," 受傷的人
+【我應該快要死掉了，咳咳。。。。。。】",
 b02/b5,Text,," Kio
 【Please!! Hold on!!】"," Kio
-【喂啊！坚持住啊！】",,
+【喂啊！坚持住啊！】"," Kio
+【喂啊！堅持住啊！】",
 b02/b6,Text,," Kio
 【You are the only survivor I have met!!】"," Kio
-【好不容易见到一个活人，你不要挂啊！】",,
+【好不容易见到一个活人，你不要挂啊！】"," Kio
+【好不容易見到一個活人，你不要掛啊！】",
 b02/b7,Text,," Kio
 【Please!! Don't!! Boohoo...】"," Kio
-【呜呜呜呜呜呜呜呜！】",,
+【呜呜呜呜呜呜呜呜！】"," Kio
+【嗚嗚嗚嗚嗚嗚嗚嗚！】",
 b02/b8,Text,," Injured man
 【I am running out of time, be careful yourself....】"," 受伤的人
-【我真的快坚持不住了，你要小心啊。】",,
+【我真的快坚持不住了，你要小心啊。】"," 受傷的人
+【我真的快堅持不住了，你要小心啊。】",
 b02/b9,Text,," Kio
 【What happened to this world!?】"," Kio
-【这里到底怎么了，为什么会变成这样？】",,
+【这里到底怎么了，为什么会变成这样？】"," Kio
+【這裡到底怎麼了，為什麼會變成這樣？】",
 b02/b10,Text,," Injured man
 【I don't know. There are a lot of monsters after an earthquake.】"," 受伤的人
-【我也不知道，地震之后，就出现很多怪物。】",,
+【我也不知道，地震之后，就出现很多怪物。】"," 受傷的人
+【我也不知道，地震之後，就出現很多怪物。】",
 b02/b11,Text,," Injured man
 【I thought it should be safe in the library.】"," 受伤的人
-【这里外面已经沦陷了，本以为图书馆会安全。】",,
+【这里外面已经沦陷了，本以为图书馆会安全。】"," 受傷的人
+【這裡外面已經淪陷了，本以為圖書館會安全。】",
 b02/b12,Text,," Injured man
 【But I was wrong...】"," 受伤的人
-【结果怪物还是不知道从哪儿进来。】",,
+【结果怪物还是不知道从哪儿进来。】"," 受傷的人
+【結果怪物還是不知道從哪兒進來。】",
 b02/b13,Text,," Injured man
 【It is like... Time and space is turning chaotic.】"," 受伤的人
-【感觉，时间和空间都错乱了。】",,
+【感觉，时间和空间都错乱了。】"," 受傷的人
+【感覺，時間和空間都錯亂了。】",
 b02/b14,Text,," Injured man
 【Library becomes baffling...】"," 受伤的人
-【图书馆也变得莫名其妙，咳咳。。。。。。】",,
+【图书馆也变得莫名其妙，咳咳。。。。。。】"," 受傷的人
+【圖書館也變得莫名其妙，咳咳。。。。。。】",
 b02/b15,Text,," Injured man
 【Beware of the dangerous snares around here.】"," 受伤的人
-【图书馆居然还出现杀人的机关，你要小心啊。。】",,
+【图书馆居然还出现杀人的机关，你要小心啊。。】"," 受傷的人
+【圖書館居然還出現殺人的機關，你要小心啊。。】",
 b02/b16,Text,," Injured man
 【Are you still here....?】"," 受伤的人
-【我快不行了。。。。。。】",,
+【我快不行了。。。。。。】"," 受傷的人
+【我快不行了。。。。。。】",
 b02/b17,Text,," Kio
 【Yes! Yes! Look at me!】"," Kio
-【挺住啊！你你。。。你。。。】",,
+【挺住啊！你你。。。你。。。】"," Kio
+【挺住啊！你你。。。你。。。】",
 b02/b18,Text,," Injured man
 【I feel.. sleepy...(passed)】"," 受伤的人
-【再见了。。。。。（断气）】",,
+【再见了。。。。。（断气）】"," 受傷的人
+【再見了。。。。。（斷氣）】",
 b02/b19,Text,," Kio
 【Boohooo!! NO!!】"," Kio
-【呜呜呜呜！！啊啊啊！不要死啊！】",,
+【呜呜呜呜！！啊啊啊！不要死啊！】"," Kio
+【嗚嗚嗚嗚！！啊啊啊！不要死啊！】",
 b02/b20,Text,," Kio
 【I am afraid!!!】"," Kio
-【我自己一个好害怕。】",,
+【我自己一个好害怕。】"," Kio
+【我自己一個好害怕。】",
 b02/b21,Text,," Kio
 【You are the only hope.. But....】"," Kio
-【看到活人还觉得有点希望，结果。。。。。。】",,
+【看到活人还觉得有点希望，结果。。。。。。】"," Kio
+【看到活人還覺得有點希望，結果。。。。。。】",
 b02/b22,Text,," Kio
 【At least tell me your name....】"," Kio
-【起码让我知道你的名字嘛。。。。。。】",,
+【起码让我知道你的名字嘛。。。。。。】"," Kio
+【起碼讓我知道你的名字嘛。。。。。。】",
 b02/b23,Text,," Kio
 【Boohoooooo....】"," Kio
-【呜呜呜呜。。。。。。】",,
+【呜呜呜呜。。。。。。】"," Kio
+【嗚嗚嗚嗚。。。。。。】",
 b02/c0,Text,," Kio
 【Ah!!!】"," Kio
-【吓。。。。】",,
+【吓。。。。】"," Kio
+【嚇。。。。】",
 b02/c1,Text,," Kio
 【Horrible!!!】"," Kio
-【吓死我了！！！】",,
+【吓死我了！！！】"," Kio
+【嚇死我了！！！】",
 b02/hole,Text,," Kio
 【Rat hole!?】"," Kio
-【老鼠洞！？】",,
-b02/hole2,Text,,Get inside the hole?,要钻进去看看不？,,
+【老鼠洞！？】"," Kio
+【老鼠洞！？】",
+b02/hole2,Text,,Get inside the hole?,要钻进去看看不？,要鑽進去看看不？,
 b02/e0,Text,," Kio
 【A cold wind... It makes me shivery.】"," Kio
-【怎么身体还是感觉毛毛的。】",,
+【怎么身体还是感觉毛毛的。】"," Kio
+【怎麼身體還是感覺毛毛的。】",
 b02/e1,Text,," Kio
 【Is that ghost still following me?】"," Kio
-【难道刚刚的女鬼还没甩掉吗？】",,
+【难道刚刚的女鬼还没甩掉吗？】"," Kio
+【難道剛剛的女鬼還沒甩掉嗎？】",
 b02/e2,Text,," Kio
 【I'd better to move quickly. Don't think too much.】"," Kio
-【还是不要想了，赶紧离开这里。】",,
+【还是不要想了，赶紧离开这里。】"," Kio
+【還是不要想了，趕緊離開這裡。】",
 b02/e3,Text,," Kio
 【it's creepy here.】"," Kio
-【这里让人毛骨悚然的。】",,
+【这里让人毛骨悚然的。】"," Kio
+【這裡讓人毛骨悚然的。】",
 b02/e4,Text,," Kio
 【!!!!!!!!!!】"," Kio
-【！！！！！！！！】",,
+【！！！！！！！！】"," Kio
+【！！！！！！！！】",
 b02/e5,Text,," Kio
 【The light!!!!】"," Kio
-【灯！！！！！！！！！】",,
+【灯！！！！！！！！！】"," Kio
+【燈！！！！！！！！！】",
 b02/e6,Text,," Kio
 【Who turned the light off!! I can't see anything!!】"," Kio
-【灯怎么灭了！！什么都看不到！】",,
+【灯怎么灭了！！什么都看不到！】"," Kio
+【燈怎麼滅了！！什麼都看不到！】",
 b02/e7,Text,," Kio
 【Who is there!!】"," Kio
-【是谁！！！！！！】",,
+【是谁！！！！！！】"," Kio
+【是誰！！！！！！】",
 b02/e8,Text,," Kio
 【Don't scare me!!】"," Kio
-【赶紧给我出来！！！不要吓我好吗！！】",,
+【赶紧给我出来！！！不要吓我好吗！！】"," Kio
+【趕緊給我出來！！！不要嚇我好嗎！！】",
 b02/e9,Text,," Illusion
 【Kio......】"," Illusion
-【Kio。。。。。。】",,
+【Kio。。。。。。】"," Illusion
+【Kio。。。。。。】",
 b02/e10,Text,," Illusion
 【It's me...】"," Illusion
-【是我。。。。。。】",,
+【是我。。。。。。】"," Illusion
+【是我。。。。。。】",
 b02/e11,Text,," Kio
 【Ahhhhh!!!】"," Kio
-【啊啊啊！！！！！啊！！！！！】",,
+【啊啊啊！！！！！啊！！！！！】"," Kio
+【啊啊啊！！！！！啊！！！！！】",
 b02/e12,Text,," Kio
 【No!!!!!!】"," Kio
-【啊啊啊啊啊！！！！！！！！！！！！】",,
+【啊啊啊啊啊！！！！！！！！！！！！】"," Kio
+【啊啊啊啊啊！！！！！！！！！！！！】",
 b02/e13,Text,," Kio
 【I am sorry!! Sorry!!】"," Kio
-【对！！！对不起！！！！对不起！！】",,
+【对！！！对不起！！！！对不起！！】"," Kio
+【對！！！對不起！！！！對不起！！】",
 b02/e14,Text,," Kio
 【Forgive me!!】"," Kio
-【原谅我！！！原谅我！！】",,
+【原谅我！！！原谅我！！】"," Kio
+【原諒我！！！原諒我！！】",
 b02/e15,Text,," Kio
 【I don't wish to place your head anywhere.】"," Kio
-【我也不想拿你的头到处放的。】",,
+【我也不想拿你的头到处放的。】"," Kio
+【我也不想拿你的頭到處放的。】",
 b02/e16,Text,," Illusion
 【Kio....】"," Illusion
-【Kio。。。】",,
+【Kio。。。】"," Illusion
+【Kio。。。】",
 b02/e17,Text,," Illusion
 【I am not going to blame you..】"," Illusion
-【我没责怪你。。】",,
+【我没责怪你。。】"," Illusion
+【我沒責怪你。。】",
 b02/e18,Text,," Illusion
 【Domini is still alive..】"," Illusion
-【多明妮还活着。。。】",,
+【多明妮还活着。。。】"," Illusion
+【多明妮還活著。。。】",
 b02/e19,Text,," Illusion
 【Go and save  her..】"," Illusion
-【你快去救她。。】",,
+【你快去救她。。】"," Illusion
+【你快去救她。。】",
 b02/e20,Text,," Kio
 【Ah...】"," Kio
-【啊。。。。】",,
+【啊。。。。】"," Kio
+【啊。。。。】",
 b02/e21,Text,," Kio
 【But...I....】"," Kio
-【那。。。。那我。。。】",,
+【那。。。。那我。。。】"," Kio
+【那。。。。那我。。。】",
 b02/e22,Text,," Kio
 【How can I make it!?】"," Kio
-【那我该怎么办！】",,
+【那我该怎么办！】"," Kio
+【那我該怎麼辦！】",
 b02/e23,Text,," Illusion
 【Here is a map which is useful to you.】"," Illusion
-【这里有张地图，可以指引你离开图书馆。】",,
+【这里有张地图，可以指引你离开图书馆。】"," Illusion
+【這裡有張地圖，可以指引你離開圖書館。】",
 b02/e24,Text,," Illusion
 【Be careful when reading it.】"," Illusion
-【不过，使用的时候要小心。】",,
+【不过，使用的时候要小心。】"," Illusion
+【不過，使用的時候要小心。】",
 b02/e25,Text,," Kio
 【Thank you...】"," Kio
-【谢。。。。谢谢你。。】",,
+【谢。。。。谢谢你。。】"," Kio
+【謝。。。。謝謝你。。】",
 b02/e26,Text,," Kio
 【Thank you very much!!illusion!!】"," Kio
-【谢谢你！！illusion！！！】",,
+【谢谢你！！illusion！！！】"," Kio
+【謝謝你！！illusion！！！】",
 b02/e27,Text,," Kio
 【I promise I will save Domini!!】"," Kio
-【我一定会把多明妮救出来的！！！】",,
+【我一定会把多明妮救出来的！！！】"," Kio
+【我一定會把多明妮救出來的！！！】",
 b02/e28,Text,," Illusion
 【Um..I am leaving...】"," Illusion
-【嗯。。。。那我先走了。。。】",,
+【嗯。。。。那我先走了。。。】"," Illusion
+【嗯。。。。那我先走了。。。】",
 b02/e29,Text,," Illusion
 【The last thing...】"," Illusion
-【对了。。。kio】",,
+【对了。。。Kio】"," Illusion
+【對了。。。Kio】",
 b02/e30,Text,," Illusion
 【It's suffering when I am dead...】"," Illusion
-【死后，非常痛苦。。。非常的痛苦。。】",,
-b02/c map,Text,,Get a cursed map,获得受诅咒的地图,,
+【死后，非常痛苦。。。非常的痛苦。。】"," Illusion
+【死後，非常痛苦。。。非常的痛苦。。】",
+b02/c map,Text,,Get a cursed map,获得受诅咒的地图,獲得受詛咒的地圖,
 b03/map,Text,," Kio
 【A map. Nothing special.】"," Kio
-【普通的地图，没什么特别。】",,
+【普通的地图，没什么特别。】"," Kio
+【普通的地圖，沒什麼特別。】",
 b03/r1,Text,," Kio
 【Wow!! Stinky!!】"," Kio
-【哇！好臭！！！！】",,
+【哇！好臭！！！！】"," Kio
+【哇！好臭！！！！】",
 b03/r2,Text,," Kio
 【Who left the rubbish here!】"," Kio
-【怎么有这么多垃圾在这里。】",,
+【怎么有这么多垃圾在这里。】"," Kio
+【怎麼有這麼多垃圾在這裡。】",
 b03/m0,Text,," Kio
 【Unknown machine..】"," Kio
-【不知道是什么机器。】",,
-b04/c0,Text,,Get a gas mask,拾取了防毒面具,,
+【不知道是什么机器。】"," Kio
+【不知道是什麼機器。】",
+b04/c0,Text,,Get a gas mask,拾取了防毒面具,拾取了防毒面具,
 b04/c1,Text,," Kio
 【A stopping clock.】"," Kio
-【静止的时钟，似乎坏掉了。】",,
+【静止的时钟，似乎坏掉了。】"," Kio
+【靜止的時鐘，似乎壞掉了。】",
 b04/c2,Text,," Kio
 【Um??】"," Kio
-【嗯？？？】",,
+【嗯？？？】"," Kio
+【嗯？？？】",
 b04/c3,Text,," Kio
 【It seems like a gear is missed.】"," Kio
-【里面缺失了齿轮？】",,
+【里面缺失了齿轮？】"," Kio
+【裡面缺失了齒輪？】",
 b04/c4,Text,," Kio
 【The clock begins ticking.】"," Kio
-【时钟开始动了。】",,
+【时钟开始动了。】"," Kio
+【時鐘開始動了。】",
 b04/c5,Text,," Kio
 【Something appears at the bottom?】"," Kio
-【下面有东西伸了出来？】",,
-menus/door lock other side,Text,,Locked from other side,门貌似从另一边锁上了,,
+【下面有东西伸了出来？】"," Kio
+【下面有東西伸了出來？】",
+menus/door lock other side,Text,,Locked from other side,门貌似从另一边锁上了,門貌似從另一邊鎖上了,
 b05/c,Text,," Kio
 【A hanging corpse....】"," Kio
-【吊死了的尸体。。。。。。】",,
+【吊死了的尸体。。。。。。】"," Kio
+【吊死了的屍體。。。。。。】",
 b05/a1,Text,," Kio
 【What is this?】"," Kio
-【不知道是什么。】",,
+【不知道是什么。】"," Kio
+【不知道是什麼。】",
 b05/a2,Text,," Kio
 【It's bleeding...】"," Kio
-【有血从里面渗出来。】",,
+【有血从里面渗出来。】"," Kio
+【有血從裡面滲出來。】",
 b06/map,Text,," Kio
 【A map of the city. Nothing special.】"," Kio
-【一张城市的地图，没什么特别。】",,
-b07/w,Text,,Look into the well?,要探头下去看看？,,
-b07/door,Text,,Door is locked,门紧紧的闭上,,
+【一张城市的地图，没什么特别。】"," Kio
+【一張城市的地圖，沒什麼特別。】",
+b07/w,Text,,Look into the well?,要探头下去看看？,要探頭下去看看？,
+b07/door,Text,,Door is locked,门紧紧的闭上,門緊緊的閉上,
 b07/m0,Text,," Kio
 【An unknown machine.】"," Kio
-【不知道是什么机器。】",,
-b07/wrong,Text,,Detect fail,检测错误,,
-b07/right,Text,,Detect pass,检测正确,,
-b07/suit up,Text,,Please suit up before enter,请佩戴好防毒套装进入,,
+【不知道是什么机器。】"," Kio
+【不知道是什麼機器。】",
+b07/wrong,Text,,Detect fail,检测错误,檢測錯誤,
+b07/right,Text,,Detect pass,检测正确,檢測正確,
+b07/suit up,Text,,Please suit up before enter,请佩戴好防毒套装进入,請佩戴好防毒套裝進入,
 b07/a0,Text,," Kio
 【I think I can get in the room safely now.】"," Kio
-【这样应该做好安全措施了吧。】",,
+【这样应该做好安全措施了吧。】"," Kio
+【這樣應該做好安全措施了吧。】",
 b07/a2,Text,," Kio
 【Here we go.】"," Kio
-【那我出发了。】",,
-b07/no suit,Text,,Require Anti-gas suit,要有防毒套装的工作人员方可进入,,
+【那我出发了。】"," Kio
+【那我出發了。】",
+b07/no suit,Text,,Require Anti-gas suit,要有防毒套装的工作人员方可进入,要有防毒套裝的工作人員方可進入,
 b08/a,Text,," Kio
 【Ah! Is here the poison gas?】"," Kio
-【哇！这里！！都是毒气！】",,
+【哇！这里！！都是毒气！】"," Kio
+【哇！這裡！！都是毒氣！】",
 b08/a2,Text,," Kio
 【It looks like there is insufficient oxygen in my suit.】"," Kio
-【防毒套装的氧气似乎不多。】",,
+【防毒套装的氧气似乎不多。】"," Kio
+【防毒套裝的氧氣似乎不多。】",
 b08/a3,Text,," Kio
 【I'd better hurry to get out of here.】"," Kio
-【得赶紧从这里逃出去才行。】",,
-menus/puzzle wrong,Text,,Error,输入错误,,
-menus/pick library key,Text,,Get a library key,获得图书馆大门钥匙,,
-menus/door open sound,Text,,Sounds like door is opened,门开了的声音,,
+【得赶紧从这里逃出去才行。】"," Kio
+【得趕緊從這裡逃出去才行。】",
+menus/puzzle wrong,Text,,Error,输入错误,輸入錯誤,
+menus/pick library key,Text,,Get a library key,获得图书馆大门钥匙,獲得圖書館大門鑰匙,
+menus/door open sound,Text,,Sounds like door is opened,门开了的声音,門開了的聲音,
 b10/a0,Text,," Kio
 【Well, I can leave library with this key now.】"," Kio
-【现在取得了大门钥匙，应该可以离开图书馆了。】",,
+【现在取得了大门钥匙，应该可以离开图书馆了。】"," Kio
+【現在取得了大門鑰匙，應該可以離開圖書館了。】",
 bc02/aaa,Text,," Kio
 【Ahhhhhhh!!!】"," Kio
-【啊啊啊啊啊啊啊啊啊！】",,
+【啊啊啊啊啊啊啊啊啊！】"," Kio
+【啊啊啊啊啊啊啊啊啊！】",
 bc03/a,Text,," Kio
 【(Sign) Finally I am out!】"," Kio
-【呼呼！终于出来了！】",,
+【呼呼！终于出来了！】"," Kio
+【呼呼！終於出來了！】",
 bc03/a2,Text,," Kio
 【I think I don't need the anti-gas suit any more.】"," Kio
-【防毒套装也不需要了。】",,
+【防毒套装也不需要了。】"," Kio
+【防毒套裝也不需要了。】",
 bc03/a3,Text,," Kio
 【I was almost dead.】"," Kio
-【终于能呼吸新鲜空气了。】",,
+【终于能呼吸新鲜空气了。】"," Kio
+【終於能呼吸新鮮空氣了。】",
 bc03/a4,Text,," Kio
 【Thanks to the fresh air.】"," Kio
-【刚刚差点被憋死。】",,
+【刚刚差点被憋死。】"," Kio
+【剛剛差點被憋死。】",
 bc03/a5,Text,," Kio
 【I have the library key now. I can leave this place.】"," Kio
-【现在取得了大门钥匙，应该可以离开图书馆了。】",,
-bc03/hint,Text,,Take off the suit,丢掉防毒套装,,
-items/kick?,Text,,Kick it?,用力拍它一下？,,
-items/get a can,Text,,Get a can,拾取了一罐广州汽水,,
+【现在取得了大门钥匙，应该可以离开图书馆了。】"," Kio
+【現在取得了大門鑰匙，應該可以離開圖書館了。】",
+bc03/hint,Text,,Take off the suit,丢掉防毒套装,丟掉防毒套裝,
+items/kick?,Text,,Kick it?,用力拍它一下？,用力拍它一下？,
+items/get a can,Text,,Get a can,拾取了一罐广州汽水,拾取了一罐廣州汽水,
 bstreet/bus,Text,," Kio
 【Listen! Somebody talks in the bus. Is there any survivor here?】"," Kio
-【里面貌似有人在说话，难道有其他活人？】",,
-bstreet/bus hint,Text,,Get in the bus?,要进去看看不？,,
-cstreet/get in laudry,Text,,Get in the laudry machine?,一台洗衣间，要钻进去吗？,,
+【里面貌似有人在说话，难道有其他活人？】"," Kio
+【裡面貌似有人在說話，難道有其他活人？】",
+bstreet/bus hint,Text,,Get in the bus?,要进去看看不？,要進去看看不？,
+cstreet/get in laudry,Text,,Get in the laudry machine?,一台洗衣机，要钻进去吗？,一台洗衣機，要鑽進去嗎？,
 dream2/a0,Text,," Domini
 【Cough!】"," 多明妮
-【咳咳！】",,
+【咳咳！】"," 多明妮
+【咳咳！】",
 dream2/a1,Text,," Domini
 【Cough cough!!】"," 多明妮
-【咳咳咳咳咳！】",,
+【咳咳咳咳咳！】"," 多明妮
+【咳咳咳咳咳！】",
 dream2/a2,Text,," Domini
 【Kio!!!!】"," 多明妮
-【Kio！！！】",,
+【Kio！！！】"," 多明妮
+【Kio！！！】",
 dream2/a3,Text,," Domini
 【Help!!】"," 多明妮
-【救我！！】",,
+【救我！！】"," 多明妮
+【救我！！】",
 dream2/a4,Text,," Domini
 【Help me!!】"," 多明妮
-【救救我啊！！】",,
+【救救我啊！！】"," 多明妮
+【救救我啊！！】",
 dream2/a5,Text,," Domini
 【Boohoo!!】"," 多明妮
-【呜呜呜呜呜呜呜！！】",,
+【呜呜呜呜呜呜呜！！】"," 多明妮
+【嗚嗚嗚嗚嗚嗚嗚！！】",
 jihe/radio,Text,," Kio
 【Some voice....】"," Kio
-【好像有什么声音在响。】",,
-jihe/lock hint,Text,,"It locks, need a key to open",锁着的，需要钥匙才能打开,,
-jihe/open hint,Text,,it's opened,打开了,,
+【好像有什么声音在响。】"," Kio
+【好像有什麼聲音在響。】",
+jihe/lock hint,Text,,"It locks, need a key to open",锁着的，需要钥匙才能打开,鎖著的，需要鑰匙才能打開,
+jihe/open hint,Text,,it's opened,打开了,打開了,
 jihe/a0,Text,," Hardy
 【Why!】"," 哈迪
-【为什么，为什么他们都不听我的。】",,
+【为什么，为什么他们都不听我的。】"," 哈迪
+【為什麼，為什麼他們都不聽我的。】",
 jihe/a1,Text,," Hardy
 【Why they don't accept me.】"," 哈迪
-【为什么他们都不听我的建议。】",,
+【为什么他们都不听我的建议。】"," 哈迪
+【為什麼他們都不聽我的建議。】",
 jihe/a2,Text,," Hardy
 【You force me.】"," 哈迪
-【是你们逼我的。】",,
+【是你们逼我的。】"," 哈迪
+【是你們逼我的。】",
 jihe/a3,Text,," Hardy
 【That's you force me!!!】"," 哈迪
-【是你们逼我的！！】",,
+【是你们逼我的！！】"," 哈迪
+【是你們逼我的！！】",
 jihe/a4,Text,," Hardy
-【I am the secound leader now!!】"," 哈迪
-【我现在就是二代目了！！】",,
+【I am the second leader now!!】"," 哈迪
+【我现在就是二代目了！！】"," 哈迪
+【我現在就是二代目了！！】",
 jihe/a5,Text,," Hardy
 【Everyone should listen to me!!】"," 哈迪
-【所有人都得听我的！】",,
+【所有人都得听我的！】"," 哈迪
+【所有人都得聽我的！】",
 jihe/a6,Text,," Hardy
 【Everyone!! Ha ha ha ha ha!!!】"," 哈迪
-【所有人！所有人都得听我的！】",,
+【所有人！所有人都得听我的！】"," 哈迪
+【所有人！所有人都得聽我的！】",
 jihe/a7,Text,," Kio
 【This guy looks like crazy..】"," Kio
-【这个人精神状态好像有点问题。。。】",,
+【这个人精神状态好像有点问题。。。】"," Kio
+【這個人精神狀態好像有點問題。。。】",
 jihe/b0,Text,," Kio
 【He was dead for long.】"," Kio
-【死掉了好一段时间的尸体。】",,
+【死掉了好一段时间的尸体。】"," Kio
+【死掉了好一段時間的屍體。】",
 jihe/b1,Text,," Kio
 【Stinky...】"," Kio
-【有点臭味了。】",,
+【有点臭味了。】"," Kio
+【有點臭味了。】",
 jihe/gui,Text,," Kio
 【There are a lot of game magazines.】"," Kio
-【摆放着很多游戏杂志。】",,
+【摆放着很多游戏杂志。】"," Kio
+【擺放著很多遊戲雜誌。】",
 jihe/tv,Text,," Kio
 【A brand new TV set!! I like it.】"," Kio
-【4K分辨率的电视，好羡慕。】",,
-jihe/key,Text,,Pick a key from the body?,身上有一把钥匙，是否拾取？,,
-jihe/key1,Text,,Get a key,拾取了一把钥匙,,
-jihe/climb,Text,,Climb up?,要爬上去吗？,,
+【4K分辨率的电视，好羡慕。】"," Kio
+【4K解析度的電視，好羡慕。】",
+jihe/key,Text,,Pick a key from the body?,身上有一把钥匙，是否拾取？,身上有一把鑰匙，是否拾取？,
+jihe/key1,Text,,Get a key,拾取了一把钥匙,拾取了一把鑰匙,
+jihe/climb,Text,,Climb up?,要爬上去吗？,要爬上去嗎？,
 qimiao/jie,Text,," Kio
 【Ridiculous guy...】"," Kio
-【莫名其妙的人。。。。。】",,
+【莫名其妙的人。。。。。】"," Kio
+【莫名其妙的人。。。。。】",
 qimiao/j0,Text,," Jor
 【I am going to write a ""dead"" word on your face!!】"," Jor
-【我要在你的脸上写一个惨字！！！！！】",,
+【我要在你的脸上写一个惨字！！！！！】"," Jor
+【我要在你的臉上寫一個慘字！！！！！】",
 qimiao/j1,Text,," Jor
 【.\0.5.\0.5.\0.5.\0.5.\0.5.\0.5】"," Jor
-【。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】",,
+【。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】"," Jor
+【。\0.5。\0.5。\0.5。\0.5。\0.5。\0.5】",
 qimiao/j2,Text,," Jor
 【How to spell ""dead""...?】"," Jor
-【忘了惨字怎么写了。。。。】",,
+【忘了惨字怎么写了。。。。】"," Jor
+【忘了慘字怎麼寫了。。。。】",
 qimiao/j3,Text,," Kio
 【?????】"," Kio
-【？？？？？？？？？？？？？？？】",,
+【？？？？？？？？？？？？？？？】"," Kio
+【？？？？？？？？？？？？？？？】",
 qimiao/d,Text,," Kio
 【A dead man.】"," Kio
-【死掉的人。】",,
+【死掉的人。】"," Kio
+【死掉的人。】",
 qimiao/b,Text,," Kio
 【Lots of books.】"," Kio
-【有很多书。】",,
+【有很多书。】"," Kio
+【有很多書。】",
 qimiao/b1,Text,," Kio
 【All of them are porn magazines..】"," Kio
-【全部都是色情杂志。】",,
+【全部都是色情杂志。】"," Kio
+【全部都是色情雜誌。】",
 tx/c,Text,," Kio
 【I don't want to look at it.】"," Kio
-【一堆肠子，好恶心。】",,
+【一堆肠子，好恶心。】"," Kio
+【一堆腸子，好噁心。】",
 tx/d,Text,," Kio
 【A dead man. Feel like he was passed quit long.】"," Kio
-【死掉的人，感觉死了有一段时间了。】",,
+【死掉的人，感觉死了有一段时间了。】"," Kio
+【死掉的人，感覺死了有一段時間了。】",
 tx/b0,Text,," Kio
 【His waist was bitten off.】"," Kio
-【腰部被咬开了。】",,
+【腰部被咬开了。】"," Kio
+【腰部被咬開了。】",
 tx/b1,Text,," Kio
 【intestines exposed out.】"," Kio
-【肠子露出出来。】",,
+【肠子露出出来。】"," Kio
+【腸子露出出來。】",
 tx/bb0,Text,," Kio
 【Legs broke.】"," Kio
-【脚部断了。】",,
+【脚部断了。】"," Kio
+【腳部斷了。】",
 tx/bb1,Text,," Kio
 【A poor guy.】"," Kio
-【应该是失血过多而死的。】",,
+【应该是失血过多而死的。】"," Kio
+【應該是失血過多而死的。】",
 tx/bbb,Text,," Kio
 【I think he is a programmer.】"," Kio
-【感觉死者是个程序员。】",,
+【感觉死者是个程序员。】"," Kio
+【感覺死者是個程式師。】",
 tx/logo,Text,," Kio
 【Who designed this ugly stuff?】"," Kio
-【一直不知道这个形象是谁设计的。】",,
-tx/book,Text,,Read the magazines?,"很多八卦杂志,要认真阅读吗？",,
-savepants/al1,Text,,Flat,住宅,,
+【一直不知道这个形象是谁设计的。】"," Kio
+【一直不知道這個形象是誰設計的。】",
+tx/book,Text,,Read the magazines?,"很多八卦杂志,要认真阅读吗？","很多八卦雜誌,要認真閱讀嗎？",
+savepants/al1,Text,,Flat,住宅,住宅,
 ll1/a0,Text,," Cat
 【Hello.】"," 猫
-【你好。】",,
+【你好。】"," 貓
+【你好。】",
 ll1/a1,Text,," Cat
 【If you want to get in a hidden place.】"," 猫
-【如果想进入C菌的房间。】",,
+【如果想进入C菌的房间。】"," 貓
+【如果想進入C菌的房間。】",
 ll1/a2,Text,," Cat
-【Please stay here fo 5 minutes.】"," 猫
-【就在这个房间待5分钟就会自动进入。】",,
+【Please stay here for 5 minutes.】"," 猫
+【就在这个房间待5分钟就会自动进入。】"," 貓
+【就在這個房間待5分鐘就會自動進入。】",
 ll2/a0,Text,," Skeleton
 【DO NOT go behind me.】"," 骷髅
-【不要走到我身后哦。】",,
+【不要走到我身后哦。】"," 骷髏
+【不要走到我身後哦。】",
 ll2/a1,Text,," Skeleton
 【Yes, I warn you.】"," 骷髅
-【嗯，我已经警告你了。】",,
-savepants/ar2,Text,,Stair well,楼梯间,,
+【嗯，我已经警告你了。】"," 骷髏
+【嗯，我已經警告你了。】",
+savepants/ar2,Text,,Stair well,楼梯间,樓梯間,
 rr1/a0,Text,," Kio
 【!?!?】"," Kio
-【！？？！？】",,
+【！？？！？】"," Kio
+【！？？！？】",
 rr1/a1,Text,," Kio
 【What!?】"," Kio
-【什么东西！？】",,
+【什么东西！？】"," Kio
+【什麼東西！？】",
 astreet/a0,Text,," Kio
 【!!!!!】"," Kio
-【！！！！！】",,
+【！！！！！】"," Kio
+【！！！！！】",
 astreet/a1,Text,," Kio
 【A city!?】"," Kio
-【城市！？】",,
+【城市！？】"," Kio
+【城市！？】",
 astreet/a2,Text,," Kio
 【What happened to this city!!?】"," Kio
-【城市怎么成这样了！！？】",,
+【城市怎么成这样了！！？】"," Kio
+【城市怎麼成這樣了！！？】",
 astreet/a3,Text,," Kio
 【Why was it ruined!?】"," Kio
-【怎么被破坏成这样了！？】",,
+【怎么被破坏成这样了！？】"," Kio
+【怎麼被破壞成這樣了！？】",
 astreet/a4,Text,," Kio
 【How about my home..was it destroyed too?】"," Kio
-【我的家，是不是也被破坏了？】",,
+【我的家，是不是也被破坏了？】"," Kio
+【我的家，是不是也被破壞了？】",
 astreet/a5,Text,," Kio
 【At first, I have to find a safe place. And figure out what to do next.】"," Kio
-【先找个安全的地方整理一下自己的思绪吧。】",,
+【先找个安全的地方整理一下自己的思绪吧。】"," Kio
+【先找個安全的地方整理一下自己的思緒吧。】",
 astreet/b,Text,," Kio
 【!!!】"," Kio
-【！！】",,
+【！！】"," Kio
+【！！】",
 astreet/b3,Text,," Kio
 【!!!!!!】"," Kio
-【！！！！】",,
+【！！！！】"," Kio
+【！！！！】",
 astreet/b4,Text,," Kio
 【My god!! Zombies!!】"," Kio
-【好多僵尸！！！】",,
+【好多僵尸！！！】"," Kio
+【好多僵屍！！！】",
 astreet/b5,Text,," Kio
-【Help!! Somebody hepls me!! 】"," Kio
-【谁来救救我！！！】",,
+【Help!! Somebody helps me!! 】"," Kio
+【谁来救救我！！！】"," Kio
+【誰來救救我！！！】",
 astreet/c0,Text,," Bobo
 【Are you all right?】"," 波波
-【你没事吧？】",,
+【你没事吧？】"," 波波
+【你沒事吧？】",
 astreet/c1,Text,," Kio
 【Yes, I am. Did you save me?】"," Kio
-【是。。。是你救了我吗？】",,
+【是。。。是你救了我吗？】"," Kio
+【是。。。是你救了我嗎？】",
 astreet/c2,Text,," Bobo
 【Yes.】"," 波波
-【是的，你没事就好了。】",,
+【是的，你没事就好了。】"," 波波
+【是的，你沒事就好了。】",
 astreet/c3,Text,," Kio
 【Thank you very much!! Really!!】"," Kio
-【谢！！谢谢你！！！太谢谢你了！！】",,
+【谢！！谢谢你！！！太谢谢你了！！】"," Kio
+【謝！！謝謝你！！！太謝謝你了！！】",
 astreet/c4,Text,," Bobo
 【No worries. Please call me Bobo. How may I call you?】"," 波波
-【我叫做波波，请多多指教。】",,
+【我叫做波波，请多多指教。】"," 波波
+【我叫做波波，請多多指教。】",
 astreet/c5,Text,," Kio
 【I am kio. I feel fear and hopelessness right now.】"," Kio
-【我叫做Kio，我现在根本不知道自己应该能去哪。】",,
+【我叫做Kio，我现在根本不知道自己应该能去哪。】"," Kio
+【我叫做Kio，我現在根本不知道自己應該能去哪。】",
 astreet/c6,Text,," Kio
 【I can't get in touch with my friends.】"," Kio
-【什么朋友亲人都联系不上。】",,
+【什么朋友亲人都联系不上。】"," Kio
+【什麼朋友親人都聯繫不上。】",
 astreet/c7,Text,," Kio
 【If you don't save me I was already dead.】"," Kio
-【刚刚要不是你救我，可能我就没命了！】",,
+【刚刚要不是你救我，可能我就没命了！】"," Kio
+【剛剛要不是你救我，可能我就沒命了！】",
 astreet/c8,Text,," Bobo
 【Calm down please. You are safe now.】"," 波波
-【没事，不用跟我客气。】",,
+【没事，不用跟我客气。】"," 波波
+【沒事，不用跟我客氣。】",
 astreet/c9,Text,," Bobo
 【How about come to my home and take a break?】"," 波波
-【不如你现在来我家吧，我家很安全。】",,
+【不如你现在来我家吧，我家很安全。】"," 波波
+【不如你現在來我家吧，我家很安全。】",
 astreet/c10,Text,," Bobo
 【It's safer and warmer rather than outside.】"," 波波
-【外面雨这么大，小心感冒啊。】",,
+【外面雨这么大，小心感冒啊。】"," 波波
+【外面雨這麼大，小心感冒啊。】",
 astreet/c11,Text,," Kio
 【Really!? Thank you so much!】"," Kio
-【真的吗？！实在太谢谢你了！】",,
+【真的吗？！实在太谢谢你了！】"," Kio
+【真的嗎？！實在太謝謝你了！】",
 astreet/c12,Text,," Bobo
 【Follow me. Right there.】"," 波波
-【跟我来吧，就在这里。】",,
+【跟我来吧，就在这里。】"," 波波
+【跟我來吧，就在這裡。】",
 dd/d0,Text,," Bobo
 【This way please.】"," 波波
-【跟我来，走这边。】",,
+【跟我来，走这边。】"," 波波
+【跟我來，走這邊。】",
 dd/lock0,Text,," Kio
 【I don't think it's good to go outside.】"," Kio
-【暂时还是别出去为妙。】",,
+【暂时还是别出去为妙。】"," Kio
+【暫時還是別出去為妙。】",
 dd/d2,Text,," Bobo
 【My home is upstairs.】"," 波波
- 【上面三楼就是我家了。】",,
+ 【上面三楼就是我家了。】"," 波波
+ 【上面三樓就是我家了。】",
 dd/d3,Text,," Kio
 【I wish you rest in peace.】"," Kio
-【愿天堂没有僵尸。】",,
+【愿天堂没有僵尸。】"," Kio
+【願天堂沒有僵屍。】",
 dd03/dont go back,Text,," Kio
 【I don't want to go back again.】"," Kio
-【不想再进去。】",,
-savepants/dd03,Text,,Front of Bo's home,波波家门前,,
+【不想再进去。】"," Kio
+【不想再進去。】",
+savepants/dd03,Text,,Front of Bo's home,波波家门前,波波家門前,
 d03/bobo catch,Text,," Bobo
 【Hahaha! I catch you!】"," 波波
-【哈哈哈，我找到你了！】",,
+【哈哈哈，我找到你了！】"," 波波
+【哈哈哈，我找到你了！】",
 d03/air condition,Text,," Kio
 【An air conditioning. Nothing special.】"," Kio
-【普通的空调，没什么特别】",,
+【普通的空调，没什么特别】"," Kio
+【普通的空調，沒什麼特別】",
 d03/gui,Text,," Kio
-【There are shoes in the shoecase.】"," Kio
-【鞋柜上摆放着鞋子。】",,
+【There are shoes in the shoe case.】"," Kio
+【鞋柜上摆放着鞋子。】"," Kio
+【鞋櫃上擺放著鞋子。】",
 d03/light,Text,," Kio
 【Standing lamp.】"," Kio
-【普通的灯。】",,
+【普通的灯。】"," Kio
+【普通的燈。】",
 d03/picture,Text,," Kio
-【Japanese style paiting.】"," Kio
-【日本风格的挂画。】",,
+【Japanese style painting.】"," Kio
+【日本风格的挂画。】"," Kio
+【日本風格的掛畫。】",
 d03/table,Text,," Kio
 【A table.】"," Kio
-【普通的饭桌。】",,
+【普通的饭桌。】"," Kio
+【普通的飯桌。】",
 d03/a0,Text,," Bobo
 【Well, here is my home. It's safe.】"," 波波
-【这里就是我家，蛮安全的。】",,
+【这里就是我家，蛮安全的。】"," 波波
+【這裡就是我家，蠻安全的。】",
 d03/a1,Text,," Bobo
 【Currently it's chaotic outside.】"," 波波
-【现在外面的城市都乱成一片了。】",,
+【现在外面的城市都乱成一片了。】"," 波波
+【現在外面的城市都亂成一片了。】",
 d03/a2,Text,," Bobo
 【I think you'd better stay here.】"," 波波
-【我建议你还是留在这里比较好。】",,
+【我建议你还是留在这里比较好。】"," 波波
+【我建議你還是留在這裡比較好。】",
 d03/a3,Text,," Kio
 【Thank you so much.】"," Kio
-【真的十分感谢你。】",,
+【真的十分感谢你。】"," Kio
+【真的十分感謝你。】",
 d03/a4,Text,," Kio
 【However I still want to get in touch with my friends and family.】"," Kio
-【不过我还是希望能联系到我的朋友和家人。】",,
+【不过我还是希望能联系到我的朋友和家人。】"," Kio
+【不過我還是希望能聯繫到我的朋友和家人。】",
 d03/a5,Text,," Kio
 【May I use your phone?】"," Kio
-【你有电话可以借我打一下吗？】",,
+【你有电话可以借我打一下吗？】"," Kio
+【你有電話可以借我打一下嗎？】",
 d03/a6,Text,," Bobo
 【Now the phones are useless. They are all no signal.】"," 波波
-【现在电话都没用了，一律没有信号。】",,
+【现在电话都没用了，一律没有信号。】"," 波波
+【現在電話都沒用了，一律沒有信號。】",
 d03/a7,Text,," Bobo
 【You seem to be tired. I am going to give you a cup of tea.】"," 波波
-【对了，你累了这么久，先给你倒杯茶吧。】",,
+【对了，你累了这么久，先给你倒杯茶吧。】"," 波波
+【對了，你累了這麼久，先給你倒杯茶吧。】",
 d03/a8,Text,," Bobo
-【Wait a secound.】"," 波波
-【等我一下。】",,
+【Wait a second.】"," 波波
+【等我一下。】"," 波波
+【等我一下。】",
 d03/b0,Text,," Bobo
 【Take it yourself.】"," 波波
-【来，趁热喝。】",,
+【来，趁热喝。】"," 波波
+【來，趁熱喝。】",
 d03/b1,Text,," Kio
 【Thank you.】"," Kio
-【谢谢你。】",,
+【谢谢你。】"," Kio
+【謝謝你。】",
 d03/b2,Text,," Kio
 【(Drinking tea..)】"," Kio
-【（咕噜咕噜地喝）】",,
+【（咕噜咕噜地喝）】"," Kio
+【（咕嚕咕嚕地喝）】",
 d03/b3,Text,," Kio
 【Eh?? I feel... dizzy...】"," Kio
-【咦。。。好晕。。。】",,
+【咦。。。好晕。。。】"," Kio
+【咦。。。好暈。。。】",
 d03/b4,Text,," Bobo
 【Hey hey hey hey hey...】"," 波波
-【嘿嘿嘿嘿。。。。。】",,
+【嘿嘿嘿嘿。。。。。】"," 波波
+【嘿嘿嘿嘿。。。。。】",
 d03/b5,Text,," Kio
 【Why do I feel sleepy...】"," Kio
-【怎么突然这么困。。】",,
+【怎么突然这么困。。】"," Kio
+【怎麼突然這麼困。。】",
 d03/b6,Text,," Bobo
 【Because I put some sleeping pills in your cup!】"," 波波
-【刚刚的茶里面下了安眠药！嘿嘿嘿！】",,
+【刚刚的茶里面下了安眠药！嘿嘿嘿！】"," 波波
+【剛剛的茶裡面下了安眠藥！嘿嘿嘿！】",
 d03/b7,Text,," Kio
 【What!! Seriously!?】 "," Kio
-【什么！！你！！！！居然！！】 ",,
+【什么！！你！！！！居然！！】 "," Kio
+【什麼！！你！！！！居然！！】",
 d03/b8,Text,," Kio
 【What do you want to ...】"," Kio
-【你想怎样。。。】",,
+【你想怎样。。。】"," Kio
+【你想怎樣。。。】",
 d03/b9,Text,," Kio
 【.......】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 d03/c0,Text,," Bobo
 【Ha ha ha ha!!】"," 波波
-【哈哈哈哈！！】",,
+【哈哈哈哈！！】"," 波波
+【哈哈哈哈！！】",
 d03/c1,Text,," Bobo
 【You are stupid!!】"," 波波
-【真的太蠢了！！！】",,
+【真的太蠢了！！！】"," 波波
+【真的太蠢了！！！】",
 d03/c2,Text,," Bobo
 【I feel a little bit thirsty. (Drink the tea...)】"," 波波
-【我也有点渴了。（喝了一口茶）】",,
+【我也有点渴了。（喝了一口茶）】"," 波波
+【我也有點渴了。（喝了一口茶）】",
 d03/c3,Text,," Bobo
 【Damn! I drank it!!】"," 波波
-【咦！！！不小心自己也喝了一口！！！】",,
+【咦！！！不小心自己也喝了一口！！！】"," 波波
+【咦！！！不小心自己也喝了一口！！！】",
 d03/c4,Text,," Bobo
 【I am stupid too!!!】"," 波波
-【我是傻逼吗！！！】",,
+【我是傻逼吗！！！】"," 波波
+【我是傻逼嗎！！！】",
 d03/c5,Text,," Bobo
 【Oh God! Sleepy!】"," 波波
-【天啊！我也有点困了！！】",,
+【天啊！我也有点困了！！】"," 波波
+【天啊！我也有點困了！！】",
 d03/c6,Text,," Bobo
 【Hold on! I have to tie her up at first!】"," 波波
-【不行，先把她绑起来！】",,
+【不行，先把她绑起来！】"," 波波
+【不行，先把她綁起來！】",
 d03/c7,Text,," Bobo
 【Tie her hands up..】"," 波波
-【先把手绑起来。】",,
+【先把手绑起来。】"," 波波
+【先把手綁起來。】",
 d03/c8,Text,," Bobo
 【Damn it!! Too sleepy! Tied up the hands should be no problem..】"," 波波
-【不行了！太困了！绑了手应该没问题的。】",,
+【不行了！太困了！绑了手应该没问题的。】"," 波波
+【不行了！太困了！綁了手應該沒問題的。】",
 d03/c9,Text,," Bobo
 【I will punish you after a sweet dream!!】"," 波波
-【我也睡一觉再起来处置你！】",,
+【我也睡一觉再起来处置你！】"," 波波
+【我也睡一覺再起來處置你！】",
 dream/a0,Text,," Domini
 【Kio...】"," 多明妮
-【Kio。。。】",,
+【Kio。。。】"," 多明妮
+【Kio。。。】",
 dream/a1,Text,," Domini
 【Help me...】"," 多明妮
-【救我。。。。。。】",,
+【救我。。。。。。】"," 多明妮
+【救我。。。。。。】",
 dream/a2,Text,," Domini
 【Woo woo woo...】"," 多明妮
-【呜呜呜。。。】",,
+【呜呜呜。。。】"," 多明妮
+【嗚嗚嗚。。。】",
 dream/a3,Text,," Domini
 【Please help...】"," 多明妮
-【好疼。。。呜呜呜】",,
+【好疼。。。呜呜呜】"," 多明妮
+【好疼。。。嗚嗚嗚】",
 d05/bed,Text,," Kio
 【He's sleeping. Keep quiet.】"," Kio
-【他睡着了，不要弄醒他。】",,
+【他睡着了，不要弄醒他。】"," Kio
+【他睡著了，不要弄醒他。】",
 d05/pc,Text,," Kio
 【Computer and tissue box on the desk.】"," Kio
-【普通的电脑，桌面上还有抽纸。】",,
+【普通的电脑，桌面上还有抽纸。】"," Kio
+【普通的電腦，桌面上還有抽紙。】",
 d05/tv,Text,," Kio
 【Oh that's a Wii machine.】"," Kio
-【哦，是wii游戏机，好怀念。】",,
+【哦，是wii游戏机，好怀念。】"," Kio
+【哦，是wii遊戲機，好懷念。】",
 d05/tv2,Text,," Kio
 【I miss the days when I play games with friends.】"," Kio
-【回想起以前跟同学一起玩的画面呢。】",,
+【回想起以前跟同学一起玩的画面呢。】"," Kio
+【回想起以前跟同學一起玩的畫面呢。】",
 d05/gui,Text,," Kio
 【There are naked female figures in that case.】"," Kio
-【柜子里摆放着手办，都是裸露的女性呢。】",,
+【柜子里摆放着手办，都是裸露的女性呢。】"," Kio
+【櫃子裡擺放著手辦，都是裸露的女性呢。】",
 d05/book,Text,," Kio
 【There are many comic books.】"," Kio
-【都是漫画书，《漂流教室》，《漩涡》，《敏行快跑》】",,
+【都是漫画书，《漂流教室》，《漩涡》，《敏行快跑》】"," Kio
+【都是漫畫書，《漂流教室》，《漩渦》，《敏行快跑》】",
 d05/book2,Text,," Kio
 【Most of them are H18..】"," Kio
-【《庸才》，《青春的幻想》。】",,
+【《庸才》，《青春的幻想》。】"," Kio
+【《庸才》，《青春的幻想》。】",
 d05/a0,Text,," Kio
 【Ah!! Domini!!】"," Kio
-【啊！！！多明妮！！】",,
+【啊！！！多明妮！！】"," Kio
+【啊！！！多明妮！！】",
 d05/a1,Text,," Kio
 【That..was a dream..】"," Kio
-【原来。。。原来是做梦。。】",,
+【原来。。。原来是做梦。。】"," Kio
+【原來。。。原來是做夢。。】",
 d05/a2,Text,," Kio
 【Why did I sleep?】"," Kio
-【怎么我会睡过去了？】",,
+【怎么我会睡过去了？】"," Kio
+【怎麼我會睡過去了？】",
 d05/a3,Text,," Kio
 【Eh!!??】"," Kio
-【咦！！！？？？！？】",,
+【咦！！！？？？！？】"," Kio
+【咦！！！？？？！？】",
 d05/a4,Text,," Kio
 【My hands!! Can't move!】"," Kio
-【手......手被绑起来了！】",,
+【手......手被绑起来了！】"," Kio
+【手......手被綁起來了！】",
 d05/a5,Text,," Kio
 【Oh!! It should be that guy!!】"," Kio
-【对了！一定是那个死宅搞的鬼......】",,
+【对了！一定是那个死宅搞的鬼......】"," Kio
+【對了！一定是那個死宅搞的鬼......】",
 d05/a6,Text,," Kio
 【No!!】"," Kio
-【......难道！】",,
+【......难道！】"," Kio
+【......難道！】",
 d05/a7,Text,," Kio
 【What if that shit did something bad to me!?!?】"," Kio
-【我刚刚被玷污了吗！！！】",,
+【我刚刚被玷污了吗！！！】"," Kio
+【我剛剛被玷污了嗎！！！】",
 d05/a8,Text,," Kio
 【.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.】"," Kio
-【.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.】",,
+【.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.】"," Kio
+【.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.\0.1.】",
 d05/a9,Text,," Kio
 【.\0.1.\0.1.\0.1.\0.1.\0.1.】"," Kio
-【.\0.1.\0.1.\0.1.\0.1.\0.1.】",,
+【.\0.1.\0.1.\0.1.\0.1.\0.1.】"," Kio
+【.\0.1.\0.1.\0.1.\0.1.\0.1.】",
 d05/a10,Text,," Kio
 【\0.1.\0.1.】"," Kio
-【\0.1.\0.1.】",,
+【\0.1.\0.1.】"," Kio
+【\0.1.\0.1.】",
 d05/a11,Text,," Kio
 【I think it shouldn't be..】"," Kio
-【应该没有的......】",,
+【应该没有的......】"," Kio
+【應該沒有的......】",
 d05/a12,Text,," Kio
 【Let me calm. Let me calm...】"," Kio
-【不要自己吓自己......】",,
+【不要自己吓自己......】"," Kio
+【不要自己嚇自己......】",
 d05/a13,Text,," Kio
 【But..If he did, how can I...】"," Kio
-【但......但是如果有怎么办？！！？】",,
+【但......但是如果有怎么办？！！？】"," Kio
+【但......但是如果有怎麼辦？！！？】",
 d05/a14,Text,," Kio
 【......】"," Kio
-【......】",,
+【......】"," Kio
+【......】",
 d05/a15,Text,," Kio
 【Impossible. I am still wearing my clothes.】"," Kio
-【不可能，衣服还这么整齐。】",,
+【不可能，衣服还这么整齐。】"," Kio
+【不可能，衣服還這麼整齊。】",
 d05/a16,Text,," Kio
 【But, what does he want to do to me?】"," Kio
-【但，但是他抓我起来想干嘛。】",,
+【但，但是他抓我起来想干嘛。】"," Kio
+【但，但是他抓我起來想幹嘛。】",
 d05/a17,Text,," Bobo
 【ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzz】"," 波波
-【ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzz】",,
+【ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzz】"," 波波
+【ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzz】",
 d05/a18,Text,," Kio
 【Anyway, it's a good chance to run when he is sleeping.】"," Kio
-【他好像睡着了，趁机溜出去吧！】",,
+【他好像睡着了，趁机溜出去吧！】"," Kio
+【他好像睡著了，趁機溜出去吧！】",
 d05/b0,Text,," Kio
 【It's locked. I think all of my items are in this case.】"," Kio
-【上锁了，感觉我的东西都在里面。】",,
+【上锁了，感觉我的东西都在里面。】"," Kio
+【上鎖了，感覺我的東西都在裡面。】",
 d05/b1,Text,," Kio
 【It's empty.】"," Kio
-【里面空空如也。】",,
+【里面空空如也。】"," Kio
+【裡面空空如也。】",
 d05/b2,Text,," Kio
 【Great, my things are back to me.】"," Kio
-【太好了，所有物品都拿回来了。】",,
+【太好了，所有物品都拿回来了。】"," Kio
+【太好了，所有物品都拿回來了。】",
 d05/b3,Text,," Kio
 【It's about time to revenge.】"," Kio
-【我该好好处理一下这个死胖子。】",,
+【我该好好处理一下这个死胖子。】"," Kio
+【我該好好處理一下這個死胖子。】",
 d05/aa,Text,," Kio
 【What happened to me??】"," Kio
-【怎......怎么回事？】",,
+【怎......怎么回事？】"," Kio
+【怎......怎麼回事？】",
 d04/a0,Text,," Bobo
 【You are here!】"," 波波
-【原来你在这里！】",,
+【原来你在这里！】"," 波波
+【原來你在這裡！】",
 d04/a1,Text,," Bobo
 【I thought you are gone.】"," 波波
-【我还以为你不见了。】",,
+【我还以为你不见了。】"," 波波
+【我還以為你不見了。】",
 d04/a2,Text,," Kio
 【Stay there! Stinky shit!!】"," Kio
-【你不要过来！你这个恶心的东西！】",,
-d04/p0,Text,,Found a key. Pick it up?,身上发现住宅钥匙，是否拾取？,,
-d04/p1,Text,,Get a key,捡到住宅钥匙,,
+【你不要过来！你这个恶心的东西！】"," Kio
+【你不要過來！你這個噁心的東西！】",
+d04/p0,Text,,Found a key. Pick it up?,身上发现住宅钥匙，是否拾取？,身上發現住宅鑰匙，是否拾取？,
+d04/p1,Text,,Get a key,捡到住宅钥匙,撿到住宅鑰匙,
 d04/b0,Text,," Bobo
 【Ah! Impossible!】"," 波波
-【啊！怎！！怎么可能！！】",,
+【啊！怎！！怎么可能！！】"," 波波
+【啊！怎！！怎麼可能！！】",
 d04/b1,Text,," Bobo
 【When did you get your gears back!】"," 波波
-【你什么时候！！拿回武器的！！】",,
+【你什么时候！！拿回武器的！！】"," 波波
+【你什麼時候！！拿回武器的！！】",
 d04/b2,Text,," Kio
 【Go to hell!】"," Kio
-【去死吧！】",,
+【去死吧！】"," Kio
+【去死吧！】",
 d04/b3,Text,," Kio
 【I don't want to see you any more!】"," Kio
-【不想再看到你的脸！！】",,
+【不想再看到你的脸！！】"," Kio
+【不想再看到你的臉！！】",
 d06/f0,Text,," Kio
 【I don't want to open again.】"," Kio
-【不想再打开冰箱。】",,
+【不想再打开冰箱。】"," Kio
+【不想再打開冰箱。】",
 d06/f1,Text,," Kio
 【What is this!! Scary!】"," Kio
-【这是什么......太......太可怕了。】",,
+【这是什么......太......太可怕了。】"," Kio
+【這是什麼......太......太可怕了。】",
 d06/f2,Text,," Kio
 【Why are there two heads in the fridge!?】"," Kio
-【怎么会有两个人头在这里！】",,
+【怎么会有两个人头在这里！】"," Kio
+【怎麼會有兩個人頭在這裡！】",
 d06/f3,Text,," Kio
 【Does he want to do to me in this way?】"," Kio
-【难道本来也打算把我这样处置吗？】",,
+【难道本来也打算把我这样处置吗？】"," Kio
+【難道本來也打算把我這樣處置嗎？】",
 d06/f3[touch],Text,," Kio
 【Does he want to do it in this way?】"," Kio
-【难道本来也打算把我这样处置吗？】",,
+【难道本来也打算把我这样处置吗？】"," Kio
+【難道本來也打算把我這樣處置嗎？】",
 d06/f4,Text,," Kio
 【Hold on. There is a key.】"," Kio
-【等等，好像有把钥匙。】",,
+【等等，好像有把钥匙。】"," Kio
+【等等，好像有把鑰匙。】",
 d06/f99,Text,," Kio
 【I have to free my hands before getting the key.】"," Kio
-【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】",,
+【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】"," Kio
+【手被綁著，取到鑰匙也難以使用，先想辦法讓手鬆開吧。】",
 d06/f99[touch],Text,," Kio
 【I have to free my hand before getting the key.】"," Kio
-【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】",,
+【手被绑着，取到钥匙也难以使用，先想办法让手松开吧。】"," Kio
+【手被綁著，取到鑰匙也難以使用，先想辦法讓手鬆開吧。】",
 d06/f,Text,," Kio
 【!!!!!!!!】"," Kio
-【！！！！！！！！！！！！！！！！！！！！！！】",,
-d06/fh,Text,,Pick the key in blood?,要取走染血钥匙吗？,,
-d06/fp,Text,,Get the key from blood,拾取了血染的钥匙,,
+【！！！！！！！！！！！！！！！！！！！！！！】"," Kio
+【！！！！！！！！！！！！！！！！！！！！！！】",
+d06/fh,Text,,Pick the key in blood?,要取走染血钥匙吗？,要取走染血鑰匙嗎？,
+d06/fp,Text,,Get the key from blood,拾取了血染的钥匙,拾取了血染的鑰匙,
 d06/g,Text,," Kio
 【Well, finally I free my hands.】"," Kio
-【呼，手终于能自由活动了。】",,
+【呼，手终于能自由活动了。】"," Kio
+【呼，手終於能自由活動了。】",
 d06/g2,Text,," Kio
 【I have to figure out how I get my gears back.】"," Kio
-【得想想办法把道具拿回来。】",,
+【得想想办法把道具拿回来。】"," Kio
+【得想想辦法把道具拿回來。】",
 d06/p,Text,," Kio
 【Hand wash basin with blood.】"," Kio
-【沾满血迹的洗手盆。】",,
+【沾满血迹的洗手盆。】"," Kio
+【沾滿血跡的洗手盆。】",
 d06/z,Text,," Kio
 【Human's Arms!!】"," Kio
-【似乎.....是人的手......】",,
+【似乎.....是人的手......】"," Kio
+【似乎.....是人的手......】",
 d06/z2,Text,," Kio
 【Hurry up to leave....】"," Kio
-【好想快点离开这里......】",,
+【好想快点离开这里......】"," Kio
+【好想快點離開這裡......】",
 d06/go,Text,," Kio
 【Bloody organs......】"," Kio
-【血淋淋的肢体与内脏......】",,
+【血淋淋的肢体与内脏......】"," Kio
+【血淋淋的肢體與內臟......】",
 d06/go2,Text,," Kio
 【I want to vomit......】"," Kio
-【我好想吐......】",,
+【我好想吐......】"," Kio
+【我好想吐......】",
 d06/a0,Text,," Kio
 【Here should be something can be used to cut the rope off my hands.】"," Kio
-【这里应该有东西可以隔开手上的绳子。】",,
+【这里应该有东西可以隔开手上的绳子。】"," Kio
+【這裡應該有東西可以隔開手上的繩子。】",
 d06/a2,Text,," Kio
 【Let me look around.】"," Kio
-【我找找看。】",,
+【我找找看。】"," Kio
+【我找找看。】",
 d06/b0,Text,," Bobo
 【What a loud thunder! It totally woke me up!】"," 波波
-【啊，这个雷也太响了，把我都吵醒了。】",,
+【啊，这个雷也太响了，把我都吵醒了。】"," 波波
+【啊，這個雷也太響了，把我都吵醒了。】",
 d06/b2,Text,," Bobo
 【Eh? Where is that girl?】"," 波波
-【咦？那个女生去哪了？？？】",,
+【咦？那个女生去哪了？？？】"," 波波
+【咦？那個女生去哪了？？？】",
 d06/b3,Text,," Bobo
 【Did she run away!? Great courage!】"," 波波
-【逃走了！？好大的胆子！！！】",,
+【逃走了！？好大的胆子！！！】"," 波波
+【逃走了！？好大的膽子！！！】",
 d06/b4,Text,," Bobo
 【It shouldn't be. I have the key with me!!】"," 波波
-【不对，钥匙还在我身上！！！】",,
+【不对，钥匙还在我身上！！！】"," 波波
+【不對，鑰匙還在我身上！！！】",
 d06/b5,Text,," Bobo
 【She can't leave without my key!! Bitch! Come out quickly!】"," 波波
-【不可能逃走了！！！！妈的！！！给我出来！！】",,
+【不可能逃走了！！！！妈的！！！给我出来！！】"," 波波
+【不可能逃走了！！！！媽的！！！給我出來！！】",
 d06/b6,Text,," Bobo
 【Are you in the kitchen!? I am going to kill you bitch!】"," 波波
-【是不是躲去厨房了！！！看我来把你弄死！】",,
+【是不是躲去厨房了！！！看我来把你弄死！】"," 波波
+【是不是躲去廚房了！！！看我來把你弄死！】",
 d06/b7,Text,," Kio
 【No!! He is coming to me!】"," Kio
-【不好了！他要来厨房找我！】",,
+【不好了！他要来厨房找我！】"," Kio
+【不好了！他要來廚房找我！】",
 d06/b8,Text,," Kio
 【Hurry up to hide into the toilet.】"," Kio
-【赶紧去厕所躲起来。】",,
-d06/cut rope,Text,,Cut the rope off,绳子被割开了,,
+【赶紧去厕所躲起来。】"," Kio
+【趕緊去廁所躲起來。】",
+d06/cut rope,Text,,Cut the rope off,绳子被割开了,繩子被割開了,
 d07/g,Text,," Kio
 【I wish to take a shower. But not now.】"," Kio
-【好想洗澡啊，但现在不是时候。】",,
+【好想洗澡啊，但现在不是时候。】"," Kio
+【好想洗澡啊，但現在不是時候。】",
 d07/t,Text,," Kio
 【I don't want to defecate now.】"," Kio
-【现在并不想大便。】",,
+【现在并不想大便。】"," Kio
+【現在並不想大便。】",
 d07/t2,Text,," Kio
 【Neither urinate.】"," Kio
-【小便也不想。】",,
+【小便也不想。】"," Kio
+【小便也不想。】",
 d07/w,Text,," Kio
 【A hand wash basin. Normally.】"," Kio
-【普通的洗手盆，没有什么特别。】",,
+【普通的洗手盆，没有什么特别。】"," Kio
+【普通的洗手盆，沒有什麼特別。】",
 d07/a,Text,," Bobo
 【Where did you go!!】"," 波波
-【躲到哪里出去！！】",,
+【躲到哪里出去！！】"," 波波
+【躲到哪裡出去！！】",
 d07/a2,Text,," Bobo
 【Holy shit! All the lights don't work!!】"," 波波
-【妈的怎么灯都坏了！！！】",,
+【妈的怎么灯都坏了！！！】"," 波波
+【媽的怎麼燈都壞了！！！】",
 d07/a3,Text,," Bobo
 【Get out bitch!!】"," 波波
-【贱人给我出来！！！】",,
+【贱人给我出来！！！】"," 波波
+【賤人給我出來！！！】",
 d07/a4,Text,," Bobo
 【!!!!!!】"," 波波
-【！！！！！！】",,
+【！！！！！！】"," 波波
+【！！！！！！】",
 d07/a5,Text,," Bobo
 【I will kill you!!!】"," 波波
-【杀死你哦！！！！！！！！！！】",,
+【杀死你哦！！！！！！！！！！】"," 波波
+【殺死你哦！！！！！！！！！！】",
 d07/a6,Text,," Bobo
 【Cut all of your fingers off!!!!!!】"," 波波
-【我要把你手指一根一根切下来！】",,
+【我要把你手指一根一根切下来！】"," 波波
+【我要把你手指一根一根切下來！】",
 d07/a7,Text,," Bobo
 【Ha...Ha ha...】"," 波波
-【哈。。。。哈哈哈。。。】",,
+【哈。。。。哈哈哈。。。】"," 波波
+【哈。。。。哈哈哈。。。】",
 d07/a8,Text,," Bobo
 【And...Ha ha... Cook your organs!!】"," 波波
-【然后。。哈哈。内脏也挖出来煮汤。】",,
+【然后。。哈哈。内脏也挖出来煮汤。】"," 波波
+【然後。。哈哈。內臟也挖出來煮湯。】",
 d07/a9,Text,," Bobo
-【Cut your head and put it in the fridge!】"," 波波
-【头也切下来，放到冰箱跟爸爸妈妈好好相处吧。】",,
+【Cut your head and put it in the fridge! Stay with my parents' !】"," 波波
+【头也切下来，放到冰箱跟爸爸妈妈好好相处吧。】"," 波波
+【頭也切下來，放到冰箱跟爸爸媽媽好好相處吧。】",
 d07/a10,Text,," Bobo
 【Eat your body!!!!!】"," 波波
-【虽然你的肉不多，不过也够我吃几顿。】",,
+【虽然你的肉不多，不过也够我吃几顿。】"," 波波
+【雖然你的肉不多，不過也夠我吃幾頓。】",
 d07/a11,Text,," Bobo
 【Are you in the living room?? Bitch I am coming!!!】"," 波波
-【到底躲哪儿了！！是不是在客厅！！！！】",,
+【到底躲哪儿了！！是不是在客厅！！！！】"," 波波
+【到底躲哪兒了！！是不是在客廳！！！！】",
 d07/a12,Text,," Kio
 【I think I can leave safely now.】"," Kio
-【现在出去应该没事了。】",,
-savepants/d07,Text,,Toilet,厕所,,
-savepants/e01,Text,,School gate,学校操场,,
+【现在出去应该没事了。】"," Kio
+【現在出去應該沒事了。】",
+savepants/d07,Text,,Toilet,厕所,廁所,
+savepants/e01,Text,,School gate,学校操场,學校操場,
 e01/a0,Text,," Kio
 【!!!!】"," Kio
-【！！！！】",,
+【！！！！】"," Kio
+【！！！！】",
 e01/a1,Text,," Kio
 【This is not a dream!!】"," Kio
-【这！！这不是做梦！！】",,
+【这！！这不是做梦！！】"," Kio
+【這！！這不是做夢！！】",
 e01/a2,Text,," Kio
 【Domini! Where are you!?】"," Kio
-【多明妮！！你在哪！？！！】",,
+【多明妮！！你在哪！？！！】"," Kio
+【多明妮！！你在哪！？！！】",
 e01/a3,Text,," Kio
 【.....】"," Kio
-【。。。。。】",,
+【。。。。。】"," Kio
+【。。。。。】",
 e01/a4,Text,," Kio
 【There is a school in front of me.】"," Kio
-【前面就是学校了。】",,
+【前面就是学校了。】"," Kio
+【前面就是學校了。】",
 e01/a5,Text,," Kio
 【I think I can find some clue.】"," Kio
-【应该会找到线索的。】",,
+【应该会找到线索的。】"," Kio
+【應該會找到線索的。】",
 e01/b0,Text,," Kio
 【Eh!!?】"," Kio
-【咦！！！】",,
+【咦！！！】"," Kio
+【咦！！！】",
 e01/b1,Text,," Kio
 【A lot of zombies!?】"," Kio
-【怎么这么多怪物！！？】",,
+【怎么这么多怪物！！？】"," Kio
+【怎麼這麼多怪物！！？】",
 e01/b2,Text,," Kio
 【Is it dangerous in the school?】"," Kio
-【学。。。。。。学校也沦陷了！？】",,
+【学。。。。。。学校也沦陷了！？】"," Kio
+【學。。。。。。學校也淪陷了！？】",
 e01/b3,Text,," Kio
 【What can I do now?】"," Kio
-【怎么办！！】",,
+【怎么办！！】"," Kio
+【怎麼辦！！】",
 e01/b4,Text,," Kio
 【Oh my god! Too many!】"," Kio
-【天啊，太多了！】",,
+【天啊，太多了！】"," Kio
+【天啊，太多了！】",
 e01/b5,Text,," Kio
 【Get in the school right now!】"," Kio
-【来不及去想了，先进去教学楼吧！】",,
+【来不及去想了，先进去教学楼吧！】"," Kio
+【來不及去想了，先進去教學樓吧！】",
 e01/b6,Text,," Kio
 【Ahhhhh....】"," Kio
-【啊啊啊啊啊啊啊啊啊啊。。。。。】",,
+【啊啊啊啊啊啊啊啊啊啊。。。。。】"," Kio
+【啊啊啊啊啊啊啊啊啊啊。。。。。】",
 e01/c,Text,,"A.Stay and fight
 B.Get into the school","A.留在这里战斗
-B.逃进教学楼",,
+B.逃进教学楼","A.留在這裡戰鬥
+B.逃進教學樓",
 e02/out,Text,," Kio
 【Going out is not a good idea...】"," Kio
-【最好别出去。。。】",,
+【最好别出去。。。】"," Kio
+【最好別出去。。。】",
 e02/rp0,Text,," Kio
 【Stars of this month.】"," Kio
-【本月优秀学习份子。】",,
+【本月优秀学习份子。】"," Kio
+【本月優秀學習份子。】",
 e02/rp1,Text,," Kio
 【Nobody....?】"," Kio
-【第一名黄文浩，第二名陈耀东，第三名谭志辉。】",,
+【第一名黄文浩，第二名陈耀东，第三名谭志辉。】"," Kio
+【第一名黃文浩，第二名陳耀東，第三名譚志輝。】",
 e02/3p0,Text,," Kio
 【Students are not allowed to play games in the computer room.】"," Kio
-【禁止学生在电脑室玩电子游戏。】",,
+【禁止学生在电脑室玩电子游戏。】"," Kio
+【禁止學生在電腦室玩電子遊戲。】",
 e02/3p1,Text,," Kio
 【Except playing ""Kio's adventure"".】"," Kio
-【抓到的学生要严格处理。】",,
+【抓到的学生要严格处理。】"," Kio
+【抓到的學生要嚴格處理。】",
 e02/gp0,Text,," Kio
 【Please protect any plants.】"," Kio
-【请同学们爱护绿化】",,
+【请同学们爱护绿化】"," Kio
+【請同學們愛護綠化】",
 e02/gp1,Text,," Kio
 【Last week we found some students eating grass. Please don't do it again.】"," Kio
-【上周我们发现有同学在草地吃草，大家不要模仿。】",,
+【上周我们发现有同学在草地吃草，大家不要模仿。】"," Kio
+【上周我們發現有同學在草地吃草，大家不要模仿。】",
 e02/gp2,Text,," Kio
 【What?】"," Kio
-【！？？！？！？】",,
+【！？？！？！？】"," Kio
+【！？？！？！？】",
 e02/l,Text,," Kio
 【Snapline Band will have a show in our school next week.】"," Kio
-【snapline乐队下周将会来我们学校表演。】",,
+【snapline乐队下周将会来我们学校表演。】"," Kio
+【snapline樂隊下周將會來我們學校表演。】",
 e02/n0,Text,," Kio
 【Punish annoncement. Qiandao fight against somebody outside the school.】"," Kio
-【处分通知，千岛同学因为在学校外与不良分子打架斗殴。】",,
+【处分通知，千岛同学因为在学校外与不良分子打架斗殴。】"," Kio
+【處分通知，千島同學因為在學校外與不良分子打架鬥毆。】",
 e02/n1,Text,," Kio
 【We decide to punish her.】"," Kio
-【学校给予她处分处理。】",,
+【学校给予她处分处理。】"," Kio
+【學校給予她處分處理。】",
 e02/p,Text,," Kio
 【If you study hard you are able to have a pretty wife.】"," Kio
-【只要学习好，就能娶到漂亮的老婆。】",,
+【只要学习好，就能娶到漂亮的老婆。】"," Kio
+【只要學習好，就能娶到漂亮的老婆。】",
 e02/pp0,Text,," Kio
 【Although students dating is allowed.】"," Kio
-【虽然学校没有禁止谈恋爱。】",,
+【虽然学校没有禁止谈恋爱。】"," Kio
+【雖然學校沒有禁止談戀愛。】",
 e02/pp1,Text,," Kio
 【Please....!】"," Kio
-【但是希望有些同学自觉一点。】",,
+【但是希望有些同学自觉一点。】"," Kio
+【但是希望有些同學自覺一點。】",
 e02/pp2,Text,," Kio
 【DON'T kiss in front of single ones.】"," Kio
-【不要公然在学校做出过份亲密的动作。】",,
+【不要公然在学校做出过份亲密的动作。】"," Kio
+【不要公然在學校做出過份親密的動作。】",
 e02/bl,Text,," Kio
 【Too much blood...】"," Kio
-【很多血。。。。】",,
+【很多血。。。。】"," Kio
+【很多血。。。。】",
 e02/ga,Text,," Kio
 【A crack. It's normal.】"," Kio
-【普通的裂痕，没什么特别。】",,
-e03a/p,Text,,Pick up a piece of paper?,有一张小纸条，是否拾取？,,
-e03a/p0,Text,,Get the paper,拾取了纸条A,,
-savepants/e03b,Text,,Classroom A,学校一层西,,
-savepants/e03f,Text,,Classroom B,学校二层东,,
+【普通的裂痕，没什么特别。】"," Kio
+【普通的裂痕，沒什麼特別。】",
+e03a/p,Text,,Pick up a piece of paper?,有一张小纸条，是否拾取？,有一張小紙條，是否拾取？,
+e03a/p0,Text,,Get the paper,拾取了纸条A,拾取了紙條A,
+savepants/e03b,Text,,Classroom A,学校一层西,學校一層西,
+savepants/e03f,Text,,Classroom B,学校二层东,學校二層東,
 e03g/a0,Text,," Boy A
 【Hello.】"," 失真的少年
-【嘿，少女。】",,
+【嘿，少女。】"," 失真的少年
+【嘿，少女。】",
 e03g/a1,Text,," Kio
 【Me?】"," Kio
-【啊！？】",,
+【啊！？】"," Kio
+【啊！？】",
 e03g/a2,Text,," Boy A
 【Come here. I tell you something.】"," 失真的少年
-【你过来，我跟你说点事情。】",,
+【你过来，我跟你说点事情。】"," 失真的少年
+【你過來，我跟你說點事情。】",
 e03g/a3,Text,," Kio
 【What happened to you!?】"," Kio
-【你你你你你这是怎么了！？】",,
+【你你你你你这是怎么了！？】"," Kio
+【你你你你你這是怎麼了！？】",
 e03g/a4,Text,," Kio
 【Why is your head turnning like this!?】"," Kio
-【为什么你的头变成这样了！？！】",,
+【为什么你的头变成这样了！？！】"," Kio
+【為什麼你的頭變成這樣了！？！】",
 e03g/a5,Text,," Boy A
 【This is a BUG.】"," 失真的少年
-【是BUG。】",,
+【是BUG。】"," 失真的少年
+【是BUG。】",
 e03g/a6,Text,," Kio
 【Ah!?】"," Kio
-【啊！？】",,
+【啊！？】"," Kio
+【啊！？】",
 e03g/a7,Text,," Boy A
 【Bug of this game.】"," 失真的少年
-【是游戏BUG。】",,
+【是游戏BUG。】"," 失真的少年
+【是遊戲BUG。】",
 e03g/a8,Text,," Boy A
 【I was stuck in this room.】"," 失真的少年
-【我我我被卡住了，怎么也走不出来了。】",,
+【我我我被卡住了，怎么也走不出来了。】"," 失真的少年
+【我我我被卡住了，怎麼也走不出來了。】",
 e03g/a9,Text,," Kio
 【What!? Would you pleased make me clear what you are talking about?】"," Kio
-【啊啊啊？？你能不能给我说明白一点？？】",,
+【啊啊啊？？你能不能给我说明白一点？？】"," Kio
+【啊啊啊？？你能不能給我說明白一點？？】",
 e03g/a10,Text,," Kio
 【What is going on with you?】"," Kio
-【是怎么回事？】",,
+【是怎么回事？】"," Kio
+【是怎麼回事？】",
 e03g/a11,Text,," Boy A
 【Don't you realize you are a character in a game?】"," 失真的少年
-【难道你不知道你是一个\0.5游\0.5戏\0.5人\0.5物\0.5吗？】",,
+【难道你不知道你是一个\0.5游\0.5戏\0.5人\0.5物\0.5吗？】"," 失真的少年
+【難道你不知道你是一個\0.5遊\0.5戲\0.5人\0.5物\0.5嗎？】",
 e03g/a12,Text,," Kio
 【.\0.5.\0.5.\0.5】"," Kio
-【。\0.5。\0.5。\0.5】",,
+【。\0.5。\0.5。\0.5】"," Kio
+【。\0.5。\0.5。\0.5】",
 e03g/a13,Text,," Boy A
 【Don't you think that this world is ridiculous?】"," 失真的少年
-【你不觉得这个世界很可怕吗，充满怪物。】",,
+【你不觉得这个世界很可怕吗，充满怪物。】"," 失真的少年
+【你不覺得這個世界很可怕嗎，充滿怪物。】",
 e03g/a14,Text,," Kio
 【Wait! What do you mean by character in a game!?】"," Kio
-【等等，你刚刚说的游戏人物是什么意思！？】",,
+【等等，你刚刚说的游戏人物是什么意思！？】"," Kio
+【等等，你剛剛說的遊戲人物是什麼意思！？】",
 e03g/a15,Text,," Boy A
 【That means we are living in a game.】"," 失真的少年
-【就是我们都是游戏人物，我们其实在一个游戏里面。】",,
+【就是我们都是游戏人物，我们其实在一个游戏里面。】"," 失真的少年
+【就是我們都是遊戲人物，我們其實在一個遊戲裡面。】",
 e03g/a16,Text,," Kio
 【That doesn't make sense to me...】"," Kio
-【什么意思。。。】",,
+【什么意思。。。】"," Kio
+【什麼意思。。。】",
 e03g/a17,Text,," Boy A
 【You don't believe?】"," 失真的少年
-【你不相信是吗？】",,
+【你不相信是吗？】"," 失真的少年
+【你不相信是嗎？】",
 e03g/a18,Text,," Kio
-【Why do I have to trust you? I am a living human.】"," Kio
-【我凭什么要相信，我是活生生的人类啊。】",,
+【Why do I have to trust you? I am a real human.】"," Kio
+【我凭什么要相信，我是活生生的人类啊。】"," Kio
+【我憑什麼要相信，我是活生生的人類啊。】",
 e03g/a19,Text,," Boy A
-【Well don't you think that here are a lot of weird things?】"," 失真的少年
-【那你不觉得这个世界很不可思议很恐怖吗。】",,
+【Well don't you think that here are a lot of weird things in this world?】"," 失真的少年
+【那你不觉得这个世界很不可思议很恐怖吗。】"," 失真的少年
+【那你不覺得這個世界很不可思議很恐怖嗎。】",
 e03g/a20,Text,," Kio
 【Yes. Full of fear and blood.】"," Kio
-【是很可怕，是很恐怖。】",,
+【是很可怕，是很恐怖。】"," Kio
+【是很可怕，是很恐怖。】",
 e03g/a21,Text,," Kio
 【But that doesn't mean I am in a game now.】"," Kio
-【但是这不代表我就是一个游戏人物啊。】",,
+【但是这不代表我就是一个游戏人物啊。】"," Kio
+【但是這不代表我就是一個遊戲人物啊。】",
 e03g/a22,Text,," Boy A
-【Up to you. Tell me, do you want to leave this horrible place?】"," 失真的少年
-【那你告诉我，你想不想逃离这个恐怖的地方？】",,
+【Forget it. Tell me, do you want to leave this horrible place?】"," 失真的少年
+【那你告诉我，你想不想逃离这个恐怖的地方？】"," 失真的少年
+【那你告訴我，你想不想逃離這個恐怖的地方？】",
 e03g/a23,Text,," Kio
 【Of course yes!】"," Kio
-【想啊，我当然想。】",,
+【想啊，我当然想。】"," Kio
+【想啊，我當然想。】",
 e03g/a24,Text,," Boy A
 【We had tried to escape.】"," 失真的少年
-【我们之前也很想逃离这里。】",,
+【我们之前也很想逃离这里。】"," 失真的少年
+【我們之前也很想逃離這裡。】",
 e03g/a25,Text,," Boy A
 【And I heard that there is a bug can help us, right in the school.】"," 失真的少年
-【然后听闻在这学校里有所谓的游戏漏洞能逃离游戏。】",,
+【然后听闻在这学校里有所谓的游戏漏洞能逃离游戏。】"," 失真的少年
+【然後聽聞在這學校裡有所謂的遊戲漏洞能逃離遊戲。】",
 e03g/a26,Text,," Boy A
 【Finally..】"," 失真的少年
-【结果。。。】",,
+【结果。。。】"," 失真的少年
+【結果。。。】",
 e03g/a27,Text,," Boy A
-【That bug didn't help us to leave. It stuck us.】"," 失真的少年
-【漏洞没有让我们逃出去，而是让我一直卡死在这里。】",,
+【That bug didn't help us to leave. It made us stuck.】"," 失真的少年
+【漏洞没有让我们逃出去，而是让我一直卡死在这里。】"," 失真的少年
+【漏洞沒有讓我們逃出去，而是讓我一直卡死在這裡。】",
 e03g/a28,Text,," Kio
 【....】"," Kio
-【。。。】",,
+【。。。】"," Kio
+【。。。】",
 e03g/a29,Text,," Boy A
 【After that, we found a right bug really can help us to run away.】"," 失真的少年
-【不过，我们后来知道了，真正能逃出去的漏洞。】",,
+【不过，我们后来知道了，真正能逃出去的漏洞。】"," 失真的少年
+【不過，我們後來知道了，真正能逃出去的漏洞。】",
 e03g/a30,Text,," Boy A
 【This bug is in the aquarium behind this school.】"," 失真的少年
-【是学校后方穿过澡堂的水族馆。】",,
+【是学校后方穿过澡堂的水族馆。】"," 失真的少年
+【是學校後方穿過澡堂的水族館。】",
 e03g/a31,Text,," Boy A
 【You have to go through the bathroom.】"," 失真的少年
-【那里有真正的游戏漏洞。】",,
+【那里有真正的游戏漏洞。】"," 失真的少年
+【那裡有真正的遊戲漏洞。】",
 e03g/a32,Text,," Boy A
 【That's the only way to the aquarium.】"," 失真的少年
-【让你离开这个恐怖的世界。】",,
+【让你离开这个恐怖的世界。】"," 失真的少年
+【讓你離開這個恐怖的世界。】",
 e03g/a33,Text,," Kio
 【...........】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 e03g/a35,Text,," Boy A
 【I know you don't trust me.】"," 失真的少年
-【我知道你现在还不相信。】",,
+【我知道你现在还不相信。】"," 失真的少年
+【我知道你現在還不相信。】",
 e03g/a36,Text,," Boy A
 【I just give you an advice.】"," 失真的少年
-【但去一趟水族馆也无妨。】",,
+【但去一趟水族馆也无妨。】"," 失真的少年
+【但去一趟水族館也無妨。】",
 e03g/a37,Text,," Kio
 【Thank you...】"," Kio
-【谢谢你。。。】",,
+【谢谢你。。。】"," Kio
+【謝謝你。。。】",
 e03g/a38,Text,," Kio
 【I am leaving..】"," Kio
-【我先告辞了。】",,
-e07/a0,Text,,Pick up a piece of paper?,有一张小纸条，是否拾取？,,
-e07/a1,Text,,Get the paper,拾取了纸条B,,
+【我先告辞了。】"," Kio
+【我先告辭了。】",
+e07/a0,Text,,Pick up a piece of paper?,有一张小纸条，是否拾取？,有一張小紙條，是否拾取？,
+e07/a1,Text,,Get the paper,拾取了纸条B,拾取了紙條B,
 e07/a2,Text,," Kio
-【There is something cliped by this book.】"," Kio
-【书中夹着东西？】",,
-e08/pc,Text,,Check out this computer?,调查一下这台电脑？,,
-e08/ph,Text,,Enter the code,请输入密码,,
-e08/pwh,Text,,Error,密码错误,,
-e08/pch,Text,,Pass,密码正确,,
-e08/pch2,Text,,Open the gate in level 3,三楼铁门解锁了,,
+【There is something clipped by this book.】"," Kio
+【书中夹着东西？】"," Kio
+【書中夾著東西？】",
+e08/pc,Text,,Check out this computer?,调查一下这台电脑？,調查一下這台電腦？,
+e08/ph,Text,,Enter the code,请输入密码,請輸入密碼,
+e08/pwh,Text,,Error,密码错误,密碼錯誤,
+e08/pch,Text,,Pass,密码正确,密碼正確,
+e08/pch2,Text,,Open the gate in level 3,三楼铁门解锁了,三樓鐵門解鎖了,
 e09b/a0,Text,," Kio
 【!!!】"," Kio
-【！！！！！】",,
+【！！！！！】"," Kio
+【！！！！！】",
 e09b/a1,Text,," Kio
 【Light!? Doesn't work!?】"," Kio
-【灯呢？？？坏了！？！？】",,
-e10/h,Text,,Get into the hole?,有一个洞，要钻进去不？,,
-savepants/e10,Text,,Storage in school,学校杂物房,,
-savepants/e11,Text,,School level 2,学校二层,,
+【灯呢？？？坏了！？！？】"," Kio
+【燈呢？？？壞了！？！？】",
+e10/h,Text,,Get into the hole?,有一个洞，要钻进去不？,有一個洞，要鑽進去不？,
+savepants/e10,Text,,Storage in school,学校杂物房,學校雜物房,
+savepants/e11,Text,,School level 2,学校二层,學校二層,
 e11/a0,Text,," Kio
 【The worst students this month.】"," Kio
-【本月最差学生。】",,
+【本月最差学生。】"," Kio
+【本月最差學生。】",
 e11/a1,Text,," Kio
 【You.】"," Kio
-【赵子龙，陈曦，王杰。】",,
+【赵子龙，陈曦，王杰。】"," Kio
+【趙子龍，陳曦，王傑。】",
 e11/b0,Text,," Kio
-【Please notice. Toiltes at this level are being repaired.】"," Kio
-【通知，2楼厕所正在维修。】",,
+【Notice: Toiltes at this level are being repaired.】"," Kio
+【通知，2楼厕所正在维修。】"," Kio
+【通知，2樓廁所正在維修。】",
 e11/b1,Text,," Kio
 【Please use the ones at level 1.】"," Kio
-【因此暂停使用。】",,
+【因此暂停使用。】"," Kio
+【因此暫停使用。】",
 e11/c,Text,," Kio
 【The band of Chinese Football is going to disband.】"," Kio
-【chinese football乐队面临解散。】",,
+【chinese football乐队面临解散。】"," Kio
+【chinese football樂隊面臨解散。】",
 e11/d,Text,," Kio
 【Everyday is the teacher's day if you wish.】"," Kio
-【只要有心，每天都是教师节。】",,
+【只要有心，每天都是教师节。】"," Kio
+【只要有心，每天都是教師節。】",
 e11/e,Text,," Kio
 【You are useless if you can't go to a university.】"," Kio
-【考不上大学就等于前途尽毁。】",,
+【考不上大学就等于前途尽毁。】"," Kio
+【考不上大學就等於前途盡毀。】",
 e12/a0,Text,," Kio
 【!?】"," Kio
-【！？】",,
+【！？】"," Kio
+【！？】",
 e12/a1,Text,," Bunny
 【~~~】"," 兔子
-【～～～】",,
+【～～～】"," 兔子
+【～～～】",
 e12/a2,Text,," Kio
 【Lovely bunny.】"," Kio
-【好可爱的兔子。】",,
+【好可爱的兔子。】"," Kio
+【好可愛的兔子。】",
 e12/a3,Text,," Bunny
 【Hello.】"," 兔子
-【你好～】",,
+【你好～】"," 兔子
+【你好～】",
 e12/a4,Text,," Kio
 【What? Bunny can talk!?】"," Kio
-【咦！？兔子会讲话！？】",,
+【咦！？兔子会讲话！？】"," Kio
+【咦！？兔子會講話！？】",
 e12/a5,Text,," Bunny
 【Yes I can.】"," 兔子
-【对啊～我会讲话。】",,
+【对啊～我会讲话。】"," 兔子
+【對啊～我會講話。】",
 e12/a6,Text,," Kio
 【Hi!】"," Kio
-【你你好啊！】",,
+【你你好啊！】"," Kio
+【你你好啊！】",
 e12/a7,Text,," Bunny
 【In fact I am the elf who is protecting the human.】"," 兔子
-【其实我们是守护人类的精灵。】",,
+【其实我们是守护人类的精灵。】"," 兔子
+【其實我們是守護人類的精靈。】",
 e12/a8,Text,," Bunny
 【Now there are monsters everywhere.】"," 兔子
-【现在周围都布满怪物，我们也帮助不了太多的人。】",,
+【现在周围都布满怪物，我们也帮助不了太多的人。】"," 兔子
+【現在周圍都佈滿怪物，我們也幫助不了太多的人。】",
 e12/a9,Text,," Bunny
 【I hope I can help more and more people.】"," 兔子
-【我们兔子也牺牲了很多。】",,
+【我们兔子也牺牲了很多。】"," 兔子
+【我們兔子也犧牲了很多。】",
 e12/a10,Text,," Kio
 【You are awesome.】"," Kio
-【这样啊。】",,
+【这样啊。】"," Kio
+【這樣啊。】",
 e12/a11,Text,," Bunny
 【Come with me. I lead you to find some supplements.】"," 兔子
-【你跟我来吧，我带你去取些补给品。】",,
+【你跟我来吧，我带你去取些补给品。】"," 兔子
+【你跟我來吧，我帶你去取些補給品。】",
 e12/a12,Text,," Bunny
 【Things like ammo and first-aid packet.】"," 兔子
-【有些医疗包还有子弹之类的东西给你。】",,
-e12/l,Text,,Spend 10 pistol ammo to get in,进入此房间会消耗10发手枪子弹,,
-e12/l2,Text,,Will you?,确定要进入吗？,,
+【有些医疗包还有子弹之类的东西给你。】"," 兔子
+【有些醫療包還有子彈之類的東西給你。】",
+e12/l,Text,,Spend 10 pistol ammo to get in,进入此房间会消耗10发手枪子弹,進入此房間會消耗10發手槍子彈,
+e12/l2,Text,,Will you?,确定要进入吗？,確定要進入嗎？,
 e12/ch,Text,,"A.Follow him
 B.Ignore him","A.跟着兔子走
-B.别理它",,
-e12/l3,Text,,Insufficient ammo,手枪子弹不足,,
+B.别理它","A.跟著兔子走
+B.別理它",
+e12/l3,Text,,Insufficient ammo,手枪子弹不足,手槍子彈不足,
 e13/a0,Text,," Kio
 【...】"," Kio
-【。。。】",,
+【。。。】"," Kio
+【。。。】",
 e13/a1,Text,," Kio
 【Hello..】"," Kio
-【你好。。。】",,
+【你好。。。】"," Kio
+【你好。。。】",
 e13/a2,Text,," Girl A
 【Hi, Kio.】"," 失真的少女
-【Kio你好。】",,
+【Kio你好。】"," 失真的少女
+【Kio你好。】",
 e13/a3,Text,," Kio
 【Why do you know my name?】"," Kio
-【你怎么知道我的名字。】",,
+【你怎么知道我的名字。】"," Kio
+【你怎麼知道我的名字。】",
 e13/a4,Text,," Girl A
 【Because you are the leading character of this game.】"," 失真的少女
-【你是这个游戏的主人公嘛。】",,
+【你是这个游戏的主人公嘛。】"," 失真的少女
+【你是這個遊戲的主人公嘛。】",
 e13/a5,Text,," Girl A
 【We all know about you.】"," 失真的少女
-【大家都知道你。】",,
+【大家都知道你。】"," 失真的少女
+【大家都知道你。】",
 e13/a6,Text,," Kio
 【....】"," Kio
-【果然。。。】",,
+【果然。。。】"," Kio
+【果然。。。】",
 e13/a7,Text,," Kio
 【Is this really a game?】"," Kio
-【这真的是一个游戏吗？】",,
+【这真的是一个游戏吗？】"," Kio
+【這真的是一個遊戲嗎？】",
 e13/a8,Text,," Girl A
 【Yes. We are the characters in this game.】"," 失真的少女
-【是的，我们都是游戏人物。】",,
+【是的，我们都是游戏人物。】"," 失真的少女
+【是的，我們都是遊戲人物。】",
 e13/a9,Text,," Girl A
 【I am just an NPC.】"," 失真的少女
-【而我只是一个普通的npc，所以其实。。】",,
+【而我只是一个普通的npc，所以其实。。】"," 失真的少女
+【而我只是一個普通的npc，所以其實。。】",
 e13/a10,Text,," Girl A
 【You can move and talk. In fact, we are quite envious of you. 】"," 失真的少女
-【其实我们都蛮羡慕你的。】",,
+【其实我们都蛮羡慕你的。】"," 失真的少女
+【其實我們都蠻羡慕你的。】",
 e13/a11,Text,," Kio
 【....】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 e13/a12,Text,," Kio
 【How can I do...】"," Kio
-【那我，应该怎么办。。】",,
+【那我，应该怎么办。。】"," Kio
+【那我，應該怎麼辦。。】",
 e13/a13,Text,," Girl A
 【Just keep fighting.】"," 失真的少女
-【没怎么办，加油吧。】",,
+【没怎么办，加油吧。】"," 失真的少女
+【沒怎麼辦，加油吧。】",
 e13/a14,Text,," Girl A
 【And beware of here is a large monster which is eating people.】"," 失真的少女
-【小心学校里吃人的大怪物。】",,
+【小心学校里吃人的大怪物。】"," 失真的少女
+【小心學校裡吃人的大怪物。】",
 e13/a15,Text,," Kio
 【Large monster? Eating people?】"," Kio
-【吃人的大怪物！？】",,
+【吃人的大怪物！？】"," Kio
+【吃人的大怪物！？】",
 e13/a16,Text,," Girl A
 【Yes. Be careful.】"," 失真的少女
-【是的。。小心。。】",,
+【是的。。小心。。】"," 失真的少女
+【是的。。小心。。】",
 e14/a0,Text,," Kio
-【I don't like here...】"," Kio
-【这里感觉好不舒服。。。。】",,
+【I don't like ths room...】"," Kio
+【这里感觉好不舒服。。。。】"," Kio
+【這裡感覺好不舒服。。。。】",
 e14/a1,Text,," Kio
 【Mr Bunny?】"," Kio
-【兔子先生？】",,
+【兔子先生？】"," Kio
+【兔子先生？】",
 e14/a2,Text,," Kio
 【Where are you Mr Bunny?】"," Kio
-【亲爱的兔子先生你在哪？？】",,
+【亲爱的兔子先生你在哪？？】"," Kio
+【親愛的兔子先生你在哪？？】",
 e14/a3,Text,," Kio
 【Here you are!】"," Kio
-【原来你在这里啊。】",,
+【原来你在这里啊。】"," Kio
+【原來你在這裡啊。】",
 e14/a4,Text,," Kio
 【Please don't make a practical joke to scare me.】"," Kio
-【拜托，别搞恶作剧吓唬我嘛。】",,
+【拜托，别搞恶作剧吓唬我嘛。】"," Kio
+【拜託，別搞惡作劇嚇唬我嘛。】",
 e14/a5,Text,," Kio
 【Mr Bunny...】"," Kio
-【兔子先生。。。。。】",,
+【兔子先生。。。。。】"," Kio
+【兔子先生。。。。。】",
 e14/a6,Text,," Kio
 【Don't you think there are too many bunnies....】"," Kio
-【你的兄弟是不是有点多。。。。。】",,
+【你的兄弟是不是有点多。。。。。】"," Kio
+【你的兄弟是不是有點多。。。。。】",
 e14/a7,Text,," Bunny
 【.........】"," 兔子
-【。。。。。。】",,
+【。。。。。。】"," 兔子
+【。。。。。。】",
 e15/a0,Text,," Girl B
 【I am stuck.】"," 失真的少女
-【我被卡住了。】",,
+【我被卡住了。】"," 失真的少女
+【我被卡住了。】",
 e15/a1,Text,," Girl B
 【Why am I so sad.】"," 失真的少女
-【我的命运只能永远这样吗？】",,
+【我的命运只能永远这样吗？】"," 失真的少女
+【我的命運只能永遠這樣嗎？】",
 e15/a2,Text,," Girl B
 【Why only you can move...】"," 失真的少女
-【为什么你却可以周围走动。。。】",,
+【为什么你却可以周围走动。。。】"," 失真的少女
+【為什麼你卻可以周圍走動。。。】",
 e15/a3,Text,," Girl B
 【Why you are not suck?】"," 失真的少女
-【为什么卡住的不是你？】",,
+【为什么卡住的不是你？】"," 失真的少女
+【為什麼卡住的不是你？】",
 e15/a4,Text,," Kio
 【....】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 e15/b0,Text,," Girl C
 【This room doesn't make any sense.】"," 失真的少女
-【这个房间并没有多大的意义。】",,
+【这个房间并没有多大的意义。】"," 失真的少女
+【這個房間並沒有多大的意義。】",
 e15/b1,Text,," Girl C
 【Just some bored NPCs here.】"," 失真的少女
-【只不过是一些无聊的对话而已。】",,
+【只不过是一些无聊的对话而已。】"," 失真的少女
+【只不過是一些無聊的對話而已。】",
 e15/b2,Text,," Kio
 【.....】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 e15/c0,Text,," Boy B
 【Hurry up to leave.】"," 失真的少年
-【赶紧离开这里吧。】",,
+【赶紧离开这里吧。】"," 失真的少年
+【趕緊離開這裡吧。】",
 e15/c1,Text,," Kio
 【Well, I am trying.】"," Kio
-【恩，我正在努力着。】",,
+【恩，我正在努力着。】"," Kio
+【恩，我正在努力著。】",
 e15/c2,Text,," Boy B
 【In aquarium there is a bug which can help you leave.】"," 失真的少年
-【在水族馆会有真正的bug，离开这个游戏。】",,
+【在水族馆会有真正的bug，离开这个游戏。】"," 失真的少年
+【在水族館會有真正的bug，離開這個遊戲。】",
 e15/c3,Text,," Kio
 【Thank you. I am going to.】"," Kio
-【好的，我会加油。】",,
-e17/a0,Text,,Get an ID card,得到了一张磁卡,,
-e17/aw,Text,,Nothing happened,好像没什么反应,,
+【好的，我会加油。】"," Kio
+【好的，我會加油。】",
+e17/a0,Text,,Get an ID card,得到了一张磁卡,得到了一張磁卡,
+e17/aw,Text,,Nothing happened,好像没什么反应,好像沒什麼反應,
 f01/a0,Text,," Kio
 【Here is the bathroom.】"," Kio
-【这里，是学校的澡堂吧。】",,
+【这里，是学校的澡堂吧。】"," Kio
+【這裡，是學校的澡堂吧。】",
 f01/a1,Text,," Kio
 【!!!!!】"," Kio
-【！！！】",,
+【！！！】"," Kio
+【！！！】",
 f01/a2,Text,," Kio
 【What is that!?】"," Kio
-【那！那是什么东西！？】",,
+【那！那是什么东西！？】"," Kio
+【那！那是什麼東西！？】",
 f01/a3,Text,," Kio
 【Is that the monster which is eating people!?】"," Kio
-【这就是学校里吃人的怪物吗！？】",,
+【这就是学校里吃人的怪物吗！？】"," Kio
+【這就是學校裡吃人的怪物嗎！？】",
 f01/b0,Text,," Kio
 【It's finished...】"," Kio
-【呼呼。。终于摆平这货了。。。】",,
+【呼呼。。终于摆平这货了。。。】"," Kio
+【呼呼。。終於擺平這貨了。。。】",
 f01/b1,Text,," Kio
 【There is a hole on the wall.】"," Kio
-【尸体后面好像有个洞？】",,
+【尸体后面好像有个洞？】"," Kio
+【屍體後面好像有個洞？】",
 f01/b2,Text,," Kio
 【I remember someone told me there is an aquarium outside the bathroom.】"," Kio
-【我记得那谁说过，学校后面是水族馆，然后水族馆有BUG什么的。。。】",,
+【我记得那谁说过，学校后面是水族馆，然后水族馆有BUG什么的。。。】"," Kio
+【我記得那誰說過，學校後面是水族館，然後水族館有BUG什麼的。。。】",
 f01/b3,Text,," Kio
 【Well, just go through that hole and have a look.】"," Kio
-【好吧，车到山前必有路，就钻进去瞧瞧吧。】",,
+【好吧，车到山前必有路，就钻进去瞧瞧吧。】"," Kio
+【好吧，車到山前必有路，就鑽進去瞧瞧吧。】",
 f02/dont go back,Text,," Kio
 【Don't wanna go back again.】"," Kio
-【不想回头了。】",,
+【不想回头了。】"," Kio
+【不想回頭了。】",
 f03/a0,Text,," Kio
 【The rain has stopped...】"," Kio
-【雨停了。。。。】",,
+【雨停了。。。。】"," Kio
+【雨停了。。。。】",
 f03/a1,Text,," Kio
 【I think the aquarium is over there.】"," Kio
-【前面应该就是水族馆了。】",,
+【前面应该就是水族馆了。】"," Kio
+【前面應該就是水族館了。】",
 f03/a2,Text,," Kio
 【Keep moving.】"," Kio
-【既然已经来到这里，坚持下去吧。】",,
-savepants/g02,Text,,Aquarium ,水族馆,,
+【既然已经来到这里，坚持下去吧。】"," Kio
+【既然已經來到這裡，堅持下去吧。】",
+savepants/g02,Text,,Aquarium ,水族馆,水族館,
 g03/a0,Text,," Giant
 【Hello...】"," 巨人
-【你好。。。】",,
+【你好。。。】"," 巨人
+【你好。。。】",
 g03/a1,Text,," Kio
 【.....】"," Kio
-【。。。。。】",,
+【。。。。。】"," Kio
+【。。。。。】",
 g03/a2,Text,," Giant
 【Do you come here for the bug which can help you leave the game?】"," 巨人
-【你是不是来这里找离开游戏的BUG？】",,
+【你是不是来这里找离开游戏的BUG？】"," 巨人
+【你是不是來這裡找離開遊戲的BUG？】",
 g03/a3,Text,," Kio
 【Yes...】"," Kio
-【是的。。】",,
+【是的。。】"," Kio
+【是的。。】",
 g03/a4,Text,," Giant
 【Well..】"," 巨人
-【嗯。。。。。】",,
+【嗯。。。。。】"," 巨人
+【嗯。。。。。】",
 g03/a5,Text,," Giant
 【In this room.】"," 巨人
-【这个房间里。】",,
+【这个房间里。】"," 巨人
+【這個房間裡。】",
 g03/a6,Text,," Giant
 【You stand on the 6th tile from the left side.】"," 巨人
-【从左边数起第六格地砖。】",,
+【从左边数起第六格地砖。】"," 巨人
+【從左邊數起第六格地磚。】",
 g03/a7,Text,," Giant
 【And shoot the wall.】"," 巨人
-【站在那里对着墙壁开一枪。】",,
+【站在那里对着墙壁开一枪。】"," 巨人
+【站在那裡對著牆壁開一槍。】",
 g03/a8,Text,," Giant
 【After that, you stand on the 4th tile from the left side.】"," 巨人
-【然后再到左边数起第4格地砖。】",,
+【然后再到左边数起第4格地砖。】"," 巨人
+【然後再到左邊數起第4格地磚。】",
 g03/a9,Text,," Giant
 【Shoot the wall again.】"," 巨人
-【也是站在那里对墙壁开一枪。】",,
+【也是站在那里对墙壁开一枪。】"," 巨人
+【也是站在那裡對牆壁開一槍。】",
 g03/a10,Text,," Giant
 【Then come back to me when you finish.】"," 巨人
-【然后再回来找我吧。】",,
+【然后再回来找我吧。】"," 巨人
+【然後再回來找我吧。】",
 g03/b0,Text,," Kio
 【I did what you told.】"," Kio
-【我已经按照你说的去做了。】",,
+【我已经按照你说的去做了。】"," Kio
+【我已經按照你說的去做了。】",
 g03/b1,Text,," Kio
 【But nothing happened after all.】"," Kio
-【什么事情都没有发生啊。】",,
+【什么事情都没有发生啊。】"," Kio
+【什麼事情都沒有發生啊。】",
 g03/b2,Text,," Giant
 【Right, nothing will happen.】"," 巨人
-【对啊。不会发生任何事。】",,
+【对啊。不会发生任何事。】"," 巨人
+【對啊。不會發生任何事。】",
 g03/b3,Text,," Kio
 【............】"," Kio
-【。。。。。。。。。。】",,
+【。。。。。。。。。。】"," Kio
+【。。。。。。。。。。】",
 g03/b4,Text,," Kio
 【You make trick to me...】"," Kio
-【你耍我啊。。】",,
+【你耍我啊。。】"," Kio
+【你耍我啊。。】",
 g03/b5,Text,," Giant
 【No. Now you go to the 8th tile from the left side.】"," 巨人
-【不不不，你现在只要走去左起第八格墙壁。】",,
+【不不不，你现在只要走去左起第八格墙壁。】"," 巨人
+【不不不，你現在只要走去左起第八格牆壁。】",
 g03/b6,Text,," Giant
 【And touch the wall.】"," 巨人
-【然后摸一下墙壁就能离开了。】",,
+【然后摸一下墙壁就能离开了。】"," 巨人
+【然後摸一下牆壁就能離開了。】",
 g03/b7,Text,," Kio
 【......】"," Kio
-【。。。。。。。。。。】",,
+【。。。。。。。。。。】"," Kio
+【。。。。。。。。。。】",
 g03/b8,Text,," Kio
 【I can't trust...】"," Kio
-【感觉不太可信。。】",,
+【感觉不太可信。。】"," Kio
+【感覺不太可信。。】",
 g03/b9,Text,," Giant
 【It's real....】"," 巨人
-【是真的。。。】",,
+【是真的。。。】"," 巨人
+【是真的。。。】",
 g03/b10,Text,," Kio
 【OK. I have a try.】"," Kio
-【好吧。我去试试。】",,
-g03/w,Text,,Touch the wall?,是否要摸一下墙壁?,,
+【好吧。我去试试。】"," Kio
+【好吧。我去試試。】",
+g03/w,Text,,Touch the wall?,是否要摸一下墙壁?,是否要摸一下牆壁?,
 g03/c0,Text,," Giant
 【Why did you shoot me?】"," 巨人
-【哇，你干嘛开枪打我。】",,
+【哇，你干嘛开枪打我。】"," 巨人
+【哇，你幹嘛開槍打我。】",
 g03/c1,Text,," Giant
 【Luckily this is a bullet proof glass.】"," 巨人
-【幸好这个是防弹玻璃。】",,
+【幸好这个是防弹玻璃。】"," 巨人
+【幸好這個是防彈玻璃。】",
 g03/c2,Text,," Giant
 【Well I tell you something.】"," 巨人
-【那我告诉你一件事情吧。】",,
+【那我告诉你一件事情吧。】"," 巨人
+【那我告訴你一件事情吧。】",
 g03/c3,Text,," Giant
 【Stand on the 17th tile from the left side.】"," 巨人
-【从左边数起第十七格的墙壁，你摸摸看。】",,
+【从左边数起第十七格的墙壁，你摸摸看。】"," 巨人
+【從左邊數起第十七格的牆壁，你摸摸看。】",
 g03/c4,Text,," Giant
 【Touch the wall.】"," 巨人
-【会有意外收获。】",,
+【会有意外收获。】"," 巨人
+【會有意外收穫。】",
 g05/a0,Text,," Kio
 【Ah!! This place!!】"," Kio
-【这里！！！这里！！！】",,
+【这里！！！这里！！！】"," Kio
+【這裡！！！這裡！！！】",
 g05/a1,Text,," Kio
 【This is the room that imprison Domini!】"," Kio
-【这里不就是困住多明妮的地方吗！？】",,
+【这里不就是困住多明妮的地方吗！？】"," Kio
+【這裡不就是困住多明妮的地方嗎！？】",
 g05/a2,Text,," Kio
 【Domini!! Where are you!?】"," Kio
-【多明妮！！！你在哪里！？】",,
+【多明妮！！！你在哪里！？】"," Kio
+【多明妮！！！你在哪裡！？】",
 g05/a3,Text,," Kio
 【Should be closed!!】"," Kio
-【一定在附近！赶紧找！】",,
+【一定在附近！赶紧找！】"," Kio
+【一定在附近！趕緊找！】",
 g05/b0,Text,," Kio
 【Domini!!】"," Kio
-【多明妮！！！】",,
+【多明妮！！！】"," Kio
+【多明妮！！！】",
 g05/b1,Text,," Kio
 【Where are you!???】"," Kio
-【你在哪里啊！！！】",,
+【你在哪里啊！！！】"," Kio
+【你在哪裡啊！！！】",
 g05/b2,Text,," Kio
 【I come for you!!】"," Kio
-【我来救你啦！！！！！！】",,
+【我来救你啦！！！！！！】"," Kio
+【我來救你啦！！！！！！】",
 g05/c0,Text,," Kio
 【Ah!!】"," Kio
-【啊！！！】",,
+【啊！！！】"," Kio
+【啊！！！】",
 g05/c1,Text,," Kio
 【Domini!!】"," Kio
-【多明妮！！！】",,
+【多明妮！！！】"," Kio
+【多明妮！！！】",
 g05/c2,Text,," Kio
 【How are you!!?】"," Kio
-【你怎么了！！！】",,
+【你怎么了！！！】"," Kio
+【你怎麼了！！！】",
 g05/c3,Text,," Kio
 【I am going to free you!】"," Kio
-【我来放你下来！】",,
+【我来放你下来！】"," Kio
+【我來放你下來！】",
 g05/c4,Text,," Kio
 【!!!!!!】"," Kio
-【！！！！！！！！！！】",,
+【！！！！！！！！！！】"," Kio
+【！！！！！！！！！！】",
 g05/c5,Text,," Domini
 【.........】"," 多明妮
-【。。。。。。】",,
+【。。。。。。】"," 多明妮
+【。。。。。。】",
 g05/c6,Text,," Kio
 【!!!!!!】 "," Kio
-【！！！！！！！！】",,
+【！！！！！！！！】"," Kio
+【！！！！！！！！】",
 g05/c7,Text,," Kio
 【Ahhhhhh!!!!!】"," Kio
-【哇啊啊啊啊！！！！！】",,
+【哇啊啊啊啊！！！！！】"," Kio
+【哇啊啊啊啊！！！！！】",
 g05/c8,Text,," Kio
 【Ahhhhhhhh!!!!!!!!!!!!!】"," Kio
-【哇哇哇哇哇啊啊啊啊啊！！！】",,
+【哇哇哇哇哇啊啊啊啊啊！！！】"," Kio
+【哇哇哇哇哇啊啊啊啊啊！！！】",
 g05/c9,Text,," Kio
 【No!!!!】"," Kio
-【不要啊！！！！！！！！！】",,
+【不要啊！！！！！！！！！】"," Kio
+【不要啊！！！！！！！！！】",
 g05/c10,Text,," Kio
 【No no no no!!】"," Kio
-【啊啊啊啊啊！！！】",,
+【啊啊啊啊啊！！！】"," Kio
+【啊啊啊啊啊！！！】",
 g05/c11,Text,," Kio
 【Boohoo!!】"," Kio
-【呜呜呜呜呜！】",,
+【呜呜呜呜呜！】"," Kio
+【嗚嗚嗚嗚嗚！】",
 g05/c12,Text,," Domini
 【Kio....】"," 多明妮
-【Kio。。。。。】",,
+【Kio。。。。。】"," 多明妮
+【Kio。。。。。】",
 g05/c13,Text,," Domini
 【Leave me alone..】"," 多明妮
-【快离开吧。。。】",,
+【快离开吧。。。】"," 多明妮
+【快離開吧。。。】",
 g05/c14,Text,," Domini
 【Go to find the bug.】"," 多明妮
-【找到能逃离游戏的Bug】",,
+【找到能逃离游戏的Bug】"," 多明妮
+【找到能逃離遊戲的Bug】",
 g05/c15,Text,," Domini
 【Maybe it can help me...】"," 多明妮
-【或许能救我。。。】",,
+【或许能救我。。。】"," 多明妮
+【或許能救我。。。】",
 g05/c16,Text,," Kio
 【OK!! Wait for me!!】"," Kio
-【好的！你等我！！】",,
+【好的！你等我！！】"," Kio
+【好的！你等我！！】",
 g05/c17,Text,," Kio
 【I will save you!! I swear!!】"," Kio
-【我一定会回来救你的！】",,
+【我一定会回来救你的！】"," Kio
+【我一定會回來救你的！】",
 g05/d,Text,," Kio
 【Woooo....】"," Kio
-【呜呜呜呜。】",,
-h/a,Text,,Go into my computer?,是否要进入我的电脑?,,
-savepants/h04,Text,,Bug,漏洞,,
+【呜呜呜呜。】"," Kio
+【嗚嗚嗚嗚。】",
+h/a,Text,,Go into my computer?,是否要进入我的电脑?,是否要進入我的電腦?,
+savepants/h04,Text,,Bug,漏洞,漏洞,
 h05/a0,Text,," Kio
 【Where am I?】"," Kio
-【这里到底是什么地方啊。】",,
+【这里到底是什么地方啊。】"," Kio
+【這裡到底是什麼地方啊。】",
 h05/a1,Text,," Kio
 【Where should I go?】"," Kio
-【要去哪里才能离开？】",,
+【要去哪里才能离开？】"," Kio
+【要去哪裡才能離開？】",
 h05/a2,Text,," Boss
 【Hahahaha!】"," 最终Boss
-【哈哈哈哈哈哈！】",,
+【哈哈哈哈哈哈！】"," 最終Boss
+【哈哈哈哈哈哈！】",
 h05/a3,Text,," Boss
 【Want to leave? Try to defeat me at first!】"," 最终Boss
-【想离开！？你能打赢我吗！？】",,
+【想离开！？你能打赢我吗！？】"," 最終Boss
+【想離開！？你能打贏我嗎！？】",
 h05/a4,Text,," Kio
 【!!!!???】"," Kio
-【！？？！？！】",,
+【！？？！？！】"," Kio
+【！？？！？！】",
 h05/a5,Text,," Kio
 【Who is that!?】"," Kio
-【什么人！！】",,
+【什么人！！】"," Kio
+【什麼人！！】",
 hboss/a0,Text,," Boss
 【I am the final boss of this game!】"," 最终Boss
-【我，就是这个游戏的最终boss！】",,
+【我，就是这个游戏的最终boss！】"," 最終Boss
+【我，就是這個遊戲的最終boss！】",
 hboss/a1,Text,," Kio
 【Final boss??】"," Kio
-【最终boss？？？】",,
+【最终boss？？？】"," Kio
+【最終boss？？？】",
 hboss/a2,Text,," Boss
 【Right. In a game there should be a final boss.】"," 最终Boss
-【对的，作为一个游戏，有最终Boss很合情合理。】",,
+【对的，作为一个游戏，有最终Boss很合情合理。】"," 最終Boss
+【對的，作為一個遊戲，有最終Boss很合情合理。】",
 hboss/a3,Text,," Boss
 【Althrough it can not prove that you are a powerful player.】"," 最终Boss
-【你能打到来这里，虽然证明不了你是个厉害的玩家。】",,
+【你能打到来这里，虽然证明不了你是个厉害的玩家。】"," 最終Boss
+【你能打到來這裡，雖然證明不了你是個厲害的玩家。】",
 hboss/a4,Text,," Boss
 【At least you are a senior player.】"," 最终Boss
-【不过，你一定是一个老玩家。】",,
+【不过，你一定是一个老玩家。】"," 最終Boss
+【不過，你一定是一個老玩家。】",
 hboss/a5,Text,," Boss
 【A junior player have no patience to go through this hard game and meet me.】"," 最终Boss
-【新时代的年轻人的耐性与技术是不可能见到我的。】",,
+【新时代的年轻人的耐性与技术是不可能见到我的。】"," 最終Boss
+【新時代的年輕人的耐性與技術是不可能見到我的。】",
 hboss/a6,Text,," Boss
 【Because the new games are too simple in this decade.】"," 最终Boss
-【因为现代的游戏都太简单了。】",,
+【因为现代的游戏都太简单了。】"," 最終Boss
+【因為現代的遊戲都太簡單了。】",
 hboss/a7,Text,," Boss
 【If you spend enough time that you almost can go through every game.】"," 最终Boss
-【只要花时间，就一定能通关。】",,
+【只要花时间，就一定能通关。】"," 最終Boss
+【只要花時間，就一定能通關。】",
 hboss/a8,Text,," Boss
 【But the old games are less guid and more difficult than the new ones.】"," 最终Boss
-【但是以前的游戏却不一样，指引很少，而且难度也高。】",,
+【但是以前的游戏却不一样，指引很少，而且难度也高。】"," 最終Boss
+【但是以前的遊戲卻不一樣，指引很少，而且難度也高。】",
 hboss/a9,Text,," Boss
 【I appreciate that you come here ande meet me.】"," 最终Boss
-【恭喜你能来到这里。】",,
+【恭喜你能来到这里。】"," 最終Boss
+【恭喜你能來到這裡。】",
 hboss/a10,Text,," Boss
 【However you have to defeat me to reach the ending.】"," 最终Boss
-【不过，你能打赢我再说吧！】",,
+【不过，你能打赢我再说吧！】"," 最終Boss
+【不過，你能打贏我再說吧！】",
 hboss/a11,Text,," Boss
 【If you lose, you must listen to my bullshit again.】"," 最终Boss
-【如果你输了的话，又得重新看多一次刚刚的剧情。哈哈哈！】",,
+【如果你输了的话，又得重新看多一次刚刚的剧情。哈哈哈！】"," 最終Boss
+【如果你輸了的話，又得重新看多一次剛剛的劇情。哈哈哈！】",
 hboss/a12,Text,," Boss
 【This is a kind of old games.】"," 最终Boss
-【这就是老游戏。】",,
+【这就是老游戏。】"," 最終Boss
+【這就是老遊戲。】",
 hboss/b0,Text,," Boss
 【Well done.】"," 最终Boss
-【哈哈，不错嘛。】",,
+【哈哈，不错嘛。】"," 最終Boss
+【哈哈，不錯嘛。】",
 hboss/b1,Text,," Boss
 【Next that is my real power!】"," 最终Boss
-【接下来才是我真正的实力！】",,
+【接下来才是我真正的实力！】"," 最終Boss
+【接下來才是我真正的實力！】",
 hboss/b2,Text,," Boss
 【Let's fight.】"," 最终Boss
-【放马过来。】",,
+【放马过来。】"," 最終Boss
+【放馬過來。】",
 hboss/c0,Text,," Boss
 【........】"," 最终Boss
-【。。。。。。】",,
+【。。。。。。】"," 最終Boss
+【。。。。。。】",
 hboss/c1,Text,," Boss
 【........】"," 最终Boss
-【。。。。。。。。】",,
+【。。。。。。。。】"," 最終Boss
+【。。。。。。。。】",
 hboss/c2,Text,," Boss
 【............】"," 最终Boss
-【。。。。。。。。。。。。。】",,
+【。。。。。。。。。。。。。】"," 最終Boss
+【。。。。。。。。。。。。。】",
 hboss/c3,Text,," Boss
 【Congratulations!】"," 最终Boss
-【恭喜你。】",,
+【恭喜你。】"," 最終Boss
+【恭喜你。】",
 hboss/c4,Text,," Boss
 【You beat me.】"," 最终Boss
-【你赢了。】",,
+【你赢了。】"," 最終Boss
+【你贏了。】",
 hboss/c5,Text,," Boss
 【You win.】"," 最终Boss
-【你打败我了。】",,
+【你打败我了。】"," 最終Boss
+【你打敗我了。】",
 hboss/c6,Text,," Boss
 【It looks like the game maker didn't make me strong engough.】"," 最终Boss
-【看来制作者并没有把我设计得太强。】",,
+【看来制作者并没有把我设计得太强。】"," 最終Boss
+【看來製作者並沒有把我設計得太強。】",
 hboss/c7,Text,," Boss
 【I overestimate myself.】"," 最终Boss
-【我高估了自己。】",,
+【我高估了自己。】"," 最終Boss
+【我高估了自己。】",
 hboss/c8,Text,," Boss
 【Bye.】"," 最终Boss
-【再见了。】",,
+【再见了。】"," 最終Boss
+【再見了。】",
 end/a0,Text,," Kio
 【.......】"," Kio
-【。。。。。。。】",,
+【。。。。。。。】"," Kio
+【。。。。。。。】",
 end/a1,Text,," Kio
 【Is it..?】"," Kio
-【这样。。。。。。】",,
+【这样。。。。。。】"," Kio
+【這樣。。。。。。】",
 end/a2,Text,," Kio
 【Is it the end..?】"," Kio
-【这样就结束了吗。。。】",,
+【这样就结束了吗。。。】"," Kio
+【這樣就結束了嗎。。。】",
 end/a3,Text,," Kio
 【Where am I now..?】"," Kio
-【我现在是在哪。。】",,
+【我现在是在哪。。】"," Kio
+【我現在是在哪。。】",
 end/a4,Text,," Kio
 【Have I left the game?】"," Kio
-【我是。。。逃出了这个游戏吗？】",,
+【我是。。。逃出了这个游戏吗？】"," Kio
+【我是。。。逃出了這個遊戲嗎？】",
 end/a5,Text,," ？？？
 【No.】"," ？？？
-【并没有。】",,
+【并没有。】"," ？？？
+【並沒有。】",
 end/a6,Text,," Kio
 【Who's there!?】"," Kio
-【是谁！？】",,
+【是谁！？】"," Kio
+【是誰！？】",
 end/a7,Text,," ？？？
 【Please don't care about it.】"," ？？？
-【你不用管我是谁。】",,
+【你不用管我是谁。】"," ？？？
+【你不用管我是誰。】",
 end/a8,Text,," ？？？
 【I am just a voice that talk to you at the ending.】"," ？？？
-【我只是一个安排在结局处陪你说话的一个旁白。】",,
+【我只是一个安排在结局处陪你说话的一个旁白。】"," ？？？
+【我只是一個安排在結局處陪你說話的一個旁白。】",
 end/a9,Text,," Kio
 【.....】"," Kio
-【。。。。。。】",,
+【。。。。。。】"," Kio
+【。。。。。。】",
 end/a10,Text,," Kio
 【Well, you just said that I haven't left the game.】"," Kio
-【所以说，我并没有逃离这个游戏对吧。】",,
+【所以说，我并没有逃离这个游戏对吧。】"," Kio
+【所以說，我並沒有逃離這個遊戲對吧。】",
 end/a11,Text,," ？？？
 【Yes.】"," ？？？
-【\0.3对\0.3的\0.3。】",,
+【\0.3对\0.3的\0.3。】"," ？？？
+【\0.3對\0.3的\0.3。】",
 end/a12,Text,," Kio
 【Did everyone lie to me that a bug can help me leave?】"," Kio
-【沿路一直说可以从BUG里离开是骗人的吧。】",,
+【沿路一直说可以从BUG里离开是骗人的吧。】"," Kio
+【沿路一直說可以從BUG裡離開是騙人的吧。】",
 end/a13,Text,," ？？？
 【Yes.】"," ？？？
-【\0.3对\0.3的\0.3。】",,
+【\0.3对\0.3的\0.3。】"," ？？？
+【\0.3對\0.3的\0.3。】",
 end/a14,Text,," Kio
 【Everything was arranged?】"," Kio
-【其实全部都是安排好的对吧。】",,
+【其实全部都是安排好的对吧。】"," Kio
+【其實全部都是安排好的對吧。】",
 end/a15,Text,," ？？？
 【Yes.】"," ？？？
-【\0.3嗯\0.3，\0.3对\0.3的\0.3。】",,
+【\0.3嗯\0.3，\0.3对\0.3的\0.3。】"," ？？？
+【\0.3嗯\0.3，\0.3對\0.3的\0.3。】",
 end/a16,Text,," Kio
 【I cannot save my friends even if I load the game.】"," Kio
-【就算重新读档我也无法救回我两个朋友对吧。】",,
+【就算重新读档我也无法救回我两个朋友对吧。】"," Kio
+【就算重新讀檔我也無法救回我兩個朋友對吧。】",
 end/a17,Text,," ？？？
 【Right.】"," ？？？
-【\0.3对\0.3的\0.3。】",,
+【\0.3对\0.3的\0.3。】"," ？？？
+【\0.3對\0.3的\0.3。】",
 end/a18,Text,," Kio
 【That means I can't change my destiny whatever I do.】"," Kio
-【也就是其实无论我做什么也改变不了命运对吧。】",,
+【也就是其实无论我做什么也改变不了命运对吧。】"," Kio
+【也就是其實無論我做什麼也改變不了命運對吧。】",
 end/a19,Text,," ？？？
 【....Yes.】"," ？？？
-【\0.3。\0.3。\0.3。\0.3。\0.3嗯\0.3。】",,
+【\0.3。\0.3。\0.3。\0.3。\0.3嗯\0.3。】"," ？？？
+【\0.3。\0.3。\0.3。\0.3。\0.3嗯\0.3。】",
 end/a20,Text,," ？？？
 【Because you are a character in the game. Your fate was arranged.】"," ？？？
-【因为你就是一个游戏人物，你所发生的事情都是安排好的。】",,
+【因为你就是一个游戏人物，你所发生的事情都是安排好的。】"," ？？？
+【因為你就是一個遊戲人物，你所發生的事情都是安排好的。】",
 end/a21,Text,," ？？？
 【You can't save your friends.】"," ？？？
-【你救不了你的朋友。】",,
+【你救不了你的朋友。】"," ？？？
+【你救不了你的朋友。】",
 end/a22,Text,," ？？？
 【Also you can't leave the game.】"," ？？？
-【更不可能离开这个游戏。】",,
+【更不可能离开这个游戏。】"," ？？？
+【更不可能離開這個遊戲。】",
 end/a23,Text,," Kio
 【...........】"," Kio
-【\0.3。\0.3。\0.3。\0.3。\0.3。\0.3。】",,
+【\0.3。\0.3。\0.3。\0.3。\0.3。\0.3。】"," Kio
+【\0.3。\0.3。\0.3。\0.3。\0.3。\0.3。】",
 end/a24,Text,," Kio
 【Why....】"," Kio
-【为什么\0.3。\0.3。\0.3。】",,
+【为什么\0.3。\0.3。\0.3。】"," Kio
+【為什麼\0.3。\0.3。\0.3。】",
 end/a25,Text,," Kio
 【Why!!!】"," Kio
-【为什么。。。。。】",,
+【为什么。。。。。】"," Kio
+【為什麼。。。。。】",
 end/a26,Text,," Kio
 【Why do I have to live in this game.】"," Kio
-【为什么我要活在这样的游戏里。】",,
+【为什么我要活在这样的游戏里。】"," Kio
+【為什麼我要活在這樣的遊戲裡。】",
 end/a27,Text,," Kio
 【Why can't I live in a beautiful game!?】"," Kio
-【为什么我不能活在一个美好的游戏里。】",,
+【为什么我不能活在一个美好的游戏里。】"," Kio
+【為什麼我不能活在一個美好的遊戲裡。】",
 end/a28,Text,," Kio
 【Why my game is horrible?】"," Kio
-【为什么我这个游戏那么可怕。】",,
+【为什么我这个游戏那么可怕。】"," Kio
+【為什麼我這個遊戲那麼可怕。】",
 end/a29,Text,," Kio
 【Unfair...】"," Kio
-【不公平。。。】",,
+【不公平。。。】"," Kio
+【不公平。。。】",
 end/a30,Text,," Kio
 【Unfair!!!!】"," Kio
-【不公平。。。。。】",,
+【不公平。。。。。】"," Kio
+【不公平。。。。。】",
 end/a31,Text,," Kio
 【Definitely UNFAIR!!!】"," Kio
-【不公平啊！！！！！】",,
+【不公平啊！！！！！】"," Kio
+【不公平啊！！！！！】",
 end/a32,Text,," Kio
 【Woooooo!!】"," Kio
-【呜呜呜呜呜呜！！！！！】",,
+【呜呜呜呜呜呜！！！！！】"," Kio
+【嗚嗚嗚嗚嗚嗚！！！！！】",
 end/a33,Text,," Kio
 【What did I do bad!!?】"," Kio
-【我到底做错了什么！！！！！】",,
+【我到底做错了什么！！！！！】"," Kio
+【我到底做錯了什麼！！！！！】",
 end/a34,Text,," Kio
 【What did I do wrong!!?】"," Kio
-【我到底做错了什么啊啊！！！】",,
+【我到底做错了什么啊啊！！！】"," Kio
+【我到底做錯了什麼啊啊！！！】",
 end/a35,Text,," ？？？
 【You didn't do anything wrong.】"," ？？？
-【你并没有做错什么。】",,
+【你并没有做错什么。】"," ？？？
+【你並沒有做錯什麼。】",
 end/a36,Text,," ？？？
 【It's just you.】"," ？？？
-【只不过刚好是你而已。】",,
+【只不过刚好是你而已。】"," ？？？
+【只不過剛好是你而已。】",
 end/a37,Text,," Kio
 【I don't want this!! Woooo!】"," Kio
-【我不要啊！呜呜呜呜呜呜！！】",,
+【我不要啊！呜呜呜呜呜呜！！】"," Kio
+【我不要啊！嗚嗚嗚嗚嗚嗚！！】",
 end/a38,Text,," Kio
 【Can you help me!?】"," Kio
-【有没有其他办法！你能帮帮我吗？】",,
+【有没有其他办法！你能帮帮我吗？】"," Kio
+【有沒有其他辦法！你能幫幫我嗎？】",
 end/a39,Text,," ？？？
 【What do you want?】"," ？？？
-【你想我怎么帮你？】",,
+【你想我怎么帮你？】"," ？？？
+【你想我怎麼幫你？】",
 end/a40,Text,," Kio
 【At last I wish to see my two friends again.】"," Kio
-【我想最后见见我两位朋友。】",,
+【我想最后见见我两位朋友。】"," Kio
+【我想最後見見我兩位朋友。】",
 end/a41,Text,," ？？？
 【........】"," ？？？
-【\0.3。\0.3。\0.3。\0.3。】",,
+【\0.3。\0.3。\0.3。\0.3。】"," ？？？
+【\0.3。\0.3。\0.3。\0.3。】",
 end/a42,Text,," Kio
 【May I?】"," Kio
-【可以吗？】",,
+【可以吗？】"," Kio
+【可以嗎？】",
 end/a43,Text,," ？？？
 【You will be dispointed.】"," ？？？
-【你会失望的。】",,
+【你会失望的。】"," ？？？
+【你會失望的。】",
 end/a44,Text,," Kio
 【Anyhow, please!】"," Kio
-【怎样也好，你答应我吧！】",,
+【怎样也好，你答应我吧！】"," Kio
+【怎樣也好，你答應我吧！】",
 end/a45,Text,," ？？？
 【.....】"," ？？？
-【\0.3。\0.3。\0.3。】",,
+【\0.3。\0.3。\0.3。】"," ？？？
+【\0.3。\0.3。\0.3。】",
 end/a46,Text,," ？？？
 【OK.】"," ？？？
-【好的。】",,
+【好的。】"," ？？？
+【好的。】",
 end/a47,Text,," Illusion
 【Kio.】"," Illusion
-【Kio。】",,
+【Kio。】"," Illusion
+【Kio。】",
 end/a48,Text,," Kio
 【!!!!】"," Kio
-【！！！】",,
+【！！！】"," Kio
+【！！！】",
 end/a49,Text,," Domini
 【Hey.】"," 多明妮
-【嘿。】",,
+【嘿。】"," 多明妮
+【嘿。】",
 end/a50,Text,," Kio
 【!!!!】"," Kio
-【！！！】",,
+【！！！】"," Kio
+【！！！】",
 end/a51,Text,," Kio
 【Wa!!!】"," Kio
-【哇！！！！！】",,
+【哇！！！！！】"," Kio
+【哇！！！！！】",
 end/a52,Text,," Kio
 【Waaaaa!!!!】"," Kio
-【哇！！！！！！！！！！！！！！！！！！！！】",,
+【哇！！！！！！！！！！！！！！！！！！！！】"," Kio
+【哇！！！！！！！！！！！！！！！！！！！！】",
 end/a53,Text,," Kio
 【It's great to meet you two again!!】"," Kio
-【能再见到你们实在是太好了！】",,
+【能再见到你们实在是太好了！】"," Kio
+【能再見到你們實在是太好了！】",
 end/a54,Text,," Kio
 【!!!??】"," Kio
-【！！？！？！】",,
+【！！？！？！】"," Kio
+【！！？！？！】",
 end/a55,Text,," Kio
 【You...】"," Kio
-【你们。。。】",,
+【你们。。。】"," Kio
+【你們。。。】",
 end/a56,Text,," Kio
 【What happened to you two!?】"," Kio
-【你们怎。。。怎么了！？】",,
+【你们怎。。。怎么了！？】"," Kio
+【你們怎。。。怎麼了！？】",
 end/a57,Text,," ？？？
 【Well.】"," ？？？
-【嗯。。这样的。】",,
+【嗯。。这样的。】"," ？？？
+【嗯。。這樣的。】",
 end/a58,Text,," ？？？
 【Because we don't make the walking animation for them.】"," ？？？
-【因为游戏并没有制作她们走路的动作。】",,
+【因为游戏并没有制作她们走路的动作。】"," ？？？
+【因為遊戲並沒有製作她們走路的動作。】",
 end/a59,Text,," Kio
 【......】"," Kio
-【。。。。】",,
+【。。。。】"," Kio
+【。。。。】",
 end/a61,Text,," Kio
 【It doesn't matter...】"," Kio
-【无所谓了。。】",,
+【无所谓了。。】"," Kio
+【無所謂了。。】",
 end/a62,Text,," Kio
 【I am glad enough that meet them again.】"," Kio
-【已经无所谓了。。能见面我已经很开心了。】",,
+【已经无所谓了。。能见面我已经很开心了。】"," Kio
+【已經無所謂了。。能見面我已經很開心了。】",
 end/a63,Text,," ？？？
 【Well, this game is almost over.】"," ？？？
-【那，游戏也快结束了。】",,
+【那，游戏也快结束了。】"," ？？？
+【那，遊戲也快結束了。】",
 end/a64,Text,," ？？？
 【Anything else do you want?】"," ？？？
-【还有什么想说的吗？】",,
+【还有什么想说的吗？】"," ？？？
+【還有什麼想說的嗎？】",
 end/a65,Text,," Kio
 【No more...】"," Kio
-【没什么了。。】",,
+【没什么了。。】"," Kio
+【沒什麼了。。】",
 end/a66,Text,," ？？？
 【Ok.】"," ？？？
-【那好吧。】",,
+【那好吧。】"," ？？？
+【那好吧。】",
 end/a67,Text,," ？？？
 【Thank you for playing.】"," ？？？
-【感谢各位玩家的支持。】",,
+【感谢各位玩家的支持。】"," ？？？
+【感謝各位玩家的支持。】",
 end/a68,Text,," ？？？
 【I hope we can meet each other in a short future.】"," ？？？
-【有机会再见。】",,
+【有机会再见。】"," ？？？
+【有機會再見。】",
 end/a69,Text,," ？？？
 【Bye Bye.】"," ？？？
-【拜拜～】",,
-menus/hidden 0,Text,,Find a hidden room(,发现了隐藏房间（,,
-menus/hidden 1,Text,,),）,,
+【拜拜～】"," ？？？
+【拜拜～】",
+menus/hidden 0,Text,,Find a hidden room(,发现了隐藏房间（,發現了隱藏房間（,
+menus/hidden 1,Text,,),）,）,
 i00/a0,Text,," Kio
 【Where am I?】"," Kio
-【这里是什么地方】",,
+【这里是什么地方】"," Kio
+【這裡是什麼地方】",
 i00/a2,Text,," Uncle
 【Welcome to sperm garden.】"," 隐藏阿叔
-【欢迎来到精液乐园～】",,
+【欢迎来到精液乐园～】"," 隱藏阿叔
+【歡迎來到精液樂園～】",
 i00/a3,Text,," Uncle
 【The white thing on the ground is sperm.】"," 隐藏阿叔
-【地上白色的都是精液哦～】",,
+【地上白色的都是精液哦～】"," 隱藏阿叔
+【地上白色的都是精液哦～】",
 i00/a4,Text,," Kio
 【........】"," Kio
-【。\0.5。\0.5。\0.5。\0.5。\0.5。】",,
+【。\0.5。\0.5。\0.5。\0.5。\0.5。】"," Kio
+【。\0.5。\0.5。\0.5。\0.5。\0.5。】",
 i02/a,Text,," 杀生地藏
 【For arts. For human dream and hope.】"," 杀生地藏
-【为了艺术，为了人类的梦想和希望。】",,
+【为了艺术，为了人类的梦想和希望。】"," 殺生地藏
+【為了藝術，為了人類的夢想和希望。】",
 i02/b,Text,," 老司机
 【Ah ah ah ha ha ha...】"," 老司机
-【呵呵呵23333333333】",,
+【呵呵呵23333333333】"," 老司機
+【呵呵呵23333333333】",
 i02/c0,Text,," Fiodo
 【Protect dixk.】"," Fiodo
-【要爱护丁丁哟】",,
+【要爱护丁丁哟】"," Fiodo
+【要愛護丁丁喲】",
 i02/c1,Text,," Fiodo
 【I am a justic Futa with love!】"," Fiodo
-【我是爱与正义的futa喵小么！】",,
+【我是爱与正义的futa喵小么！】"," Fiodo
+【我是愛與正義的futa喵小麼！】",
 i02/c2,Text,," Fiodo
 【I love my live and vv.】"," Fiodo
-【爱生活爱vv】",,
+【爱生活爱vv】"," Fiodo
+【愛生活愛vv】",
 i02/c3,Text,," Fiodo
 【Futa is soft..】"," Fiodo
-【futa兽软软哒～】",,
+【futa兽软软哒～】"," Fiodo
+【futa獸軟軟噠～】",
 i02/c4,Text,," Fiodo
 【My magic dixk can not wait any more!】"," Fiodo
-【我的魔法大棒已经饥渴难耐了！】",,
+【我的魔法大棒已经饥渴难耐了！】"," Fiodo
+【我的魔法大棒已經饑渴難耐了！】",
 i02/c5,Text,," Fiodo
 【Don't give me any clothes to wear!】"," Fiodo
-【喵喵喵～别给我穿衣服啦！】",,
+【喵喵喵～别给我穿衣服啦！】"," Fiodo
+【喵喵喵～別給我穿衣服啦！】",
 i02/c6,Text,," Fiodo
 【Don't tap me!】"," Fiodo
-【别点我啦～喵】",,
+【别点我啦～喵】"," Fiodo
+【別點我啦～喵】",
 i02/c7,Text,," Fiodo
 【Anything else want from me?】"," Fiodo
-【还想听我说什么嘛！】",,
+【还想听我说什么嘛！】"," Fiodo
+【還想聽我說什麼嘛！】",
 i02/c8,Text,," Fiodo
 【Great! Nothing!】"," Fiodo
-【好吧！再告诉你一下老司机和鱼总都是大变态！】",,
+【好吧！再告诉你一下老司机和鱼总都是大变态！】"," Fiodo
+【好吧！再告訴你一下老司機和魚總都是大變態！】",
 i02/c9,Text,," Fiodo
 【I am talking bullshit...】"," Fiodo
-【再点就没收你的丁丁变成futa兽哦！】",,
+【再点就没收你的丁丁变成futa兽哦！】"," Fiodo
+【再點就沒收你的丁丁變成futa獸哦！】",
 i02/d,Text,," 萌尽
 【I'd like to play 50 times of H-game everyday.】"," 萌尽
-【记得做每天50发撸的练习哦！】",,
+【记得做每天50发撸的练习哦！】"," 萌盡
+【記得做每天50發擼的練習哦！】",
 i02/e,Text,," 氓牛
 【Hello guys.】"," 氓牛
-【大家好，我是氓牛。】",,
+【大家好，我是氓牛。】"," 氓牛
+【大家好，我是氓牛。】",
 i02/f,Text,," 面具子
 【My work is pure fighting.】"," 面具子
-【我做的作品是纯正的格斗。】",,
+【我做的作品是纯正的格斗。】"," 面具子
+【我做的作品是純正的格鬥。】",
 i02/g,Text,," 风魔无下限
 【Give me a hug baby.】"," 风魔无下限
-【来，到蜀黍怀里动。】",,
+【来，到蜀黍怀里动。】"," 風魔無下限
+【來，到蜀黍懷裡動。】",
 i02/h0,Text,," Mvv
 【Hello I am mvv!】"," Mvv
-【我是打工中的妹抖薇薇安！】",,
+【我是打工中的妹抖薇薇安！】"," Mvv
+【我是打工中的妹抖薇薇安！】",
 i02/h1,Text,," Mvv
 【My interest is wearing like a maid.】"," Mvv
-【其实穿女仆装只是个人兴趣。】",,
+【其实穿女仆装只是个人兴趣。】"," Mvv
+【其實穿女僕裝只是個人興趣。】",
 i02/h2,Text,," Mvv
 【I love my live.】"," Mvv
-【爱生活爱小么。】",,
+【爱生活爱小么。】"," Mvv
+【愛生活愛小麼。】",
 i02/h3,Text,," Mvv
 【Do you want an H18 book?】"," Mvv
-【客官，要本子吗？】",,
+【客官，要本子吗？】"," Mvv
+【客官，要本子嗎？】",
 i02/h4,Text,," Mvv
 【Ha ha · _ ·】"," Mvv
-【矜持· _ ·】",,
+【矜持· _ ·】"," Mvv
+【矜持· _ ·】",
 i02/h5,Text,," Mvv
 【I am lovely!】"," Mvv
-【好想和小么么么哒！】",,
+【好想和小么么么哒！】"," Mvv
+【好想和小麼麼麼噠！】",
 i02/h6,Text,," Mvv
 【I am going to draw some H18 paintings.】"," Mvv
-【C90想画米琳达·白兰丁尼的薄本。】",,
+【C90想画米琳达·白兰丁尼的薄本。】"," Mvv
+【C90想畫米琳達·白蘭丁尼的薄本。】",
 i02/h7,Text,," Mvv
 【But I haven't begun drawing anything today.】"," Mvv
-【今天稿子又没画完，但是依然露出了迷之淡定的笑容。】",,
+【今天稿子又没画完，但是依然露出了迷之淡定的笑容。】"," Mvv
+【今天稿子又沒畫完，但是依然露出了迷之淡定的笑容。】",
 i02/h8,Text,," Mvv
 【No worries. Just smile to the editor.】"," Mvv
-【卖女儿，联系电话138********】",,
+【卖女儿，联系电话138********】"," Mvv
+【賣女兒，聯繫電話138********】",
 i02/h9,Text,," Mvv
 【Because he is an idot.】"," Mvv
-【我跟你们讲，鱼总地下城wifi信号特别好。】",,
+【我跟你们讲，鱼总地下城wifi信号特别好。】"," Mvv
+【我跟你們講，魚總地下城wifi信號特別好。】",
 i02/i,Text,," Sky freedom
 【He he.】"," Sky freedom
-【哼哼】",,
+【哼哼】"," Sky freedom
+【哼哼】",
 i02/j,Text,," 鱼总
 【I am a kind and pure fish.】"," 鱼总
-【我是纯洁善良的水瓶座】",,
+【我是纯洁善良的水瓶座】"," 魚總
+【我是純潔善良的水瓶座】",
 i02/j1,Text,," 鱼总
 【Please love me more.】"," 鱼总
-【别逼我退群】",,
+【别逼我退群】"," 魚總
+【別逼我退群】",
 i02/j2,Text,," 鱼总
 【I am good at drawing beatiful ladies.】"," 鱼总
-【我擅长用拘束的方式展现女性的曲线美哦~】",,
+【我擅长用拘束的方式展现女性的曲线美哦~】"," 魚總
+【我擅長用拘束的方式展現女性的曲線美哦~】",
 i02/j3,Text,," 鱼总
 【Of course my drawing is pure as well.】"," 鱼总
-【嗨~ 大家好 我是纯洁的鱼总】",,
+【嗨~ 大家好 我是纯洁的鱼总】"," 魚總
+【嗨~ 大家好 我是純潔的魚總】",
 i02/j4,Text,," 鱼总
 【However I'd like to live in the river.】"," 鱼总
-【人是不需要为这种事情感到羞耻的】",,
+【人是不需要为这种事情感到羞耻的】"," 魚總
+【人是不需要為這種事情感到羞恥的】",
 i02/j5,Text,," 鱼总
 【In fact I am not able to talk.】"," 鱼总
-【我可不像某渣一样不讲道义！】",,
+【我可不像某渣一样不讲道义！】"," 魚總
+【我可不像某渣一樣不講道義！】",
 i02/j6,Text,," 鱼总
 【Why do you try to talk to a fish?】"," 鱼总
-【大便渣！去死吧！】",,
+【大便渣！去死吧！】"," 魚總
+【大便渣！去死吧！】",
 i02/j7,Text,," 鱼总
 【Are you a fool?】"," 鱼总
-【大家好，我是新锐清纯派画师鱼总！】",,
+【大家好，我是新锐清纯派画师鱼总！】"," 魚總
+【大家好，我是新銳清純派畫師魚總！】",
 i02/j8,Text,," 鱼总
 【Please calm down. Don't place me on a fired pan...】"," 鱼总
-【一切灵感来自生活。】",,
+【一切灵感来自生活。】"," 魚總
+【一切靈感來自生活。】",
 i03/a0,Text,," 渗透之C菌
 【I am on the live at twixh.】"," 渗透之C菌
-【我在做直播呢。】",,
+【我在做直播呢。】"," 滲透之C菌
+【我在做直播呢。】",
 i03/a1,Text,," 渗透之C菌
 【Please don't brother me.】"," 渗透之C菌
-【请不要干扰我好吗？】",,
+【请不要干扰我好吗？】"," 滲透之C菌
+【請不要干擾我好嗎？】",
 i03/a2,Text,," 渗透之C菌
 【Leave me alone.】"," 渗透之C菌
-【如果没事的话请你快点滚。】",,
+【如果没事的话请你快点滚。】"," 滲透之C菌
+【如果沒事的話請你快點滾。】",
 i04/0,Text,," 孙渣
 【I am lazy....】"," 孙渣
-【好\0.2~\0.2~\0.2~\0.2~\0.2懒\0.2~\0.2~\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2】",,
+【好\0.2~\0.2~\0.2~\0.2~\0.2懒\0.2~\0.2~\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2】"," 孫渣
+【好\0.2~\0.2~\0.2~\0.2~\0.2懶\0.2~\0.2~\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2】",
 i04/1,Text,," 孙渣
 【Everything is trouble....】"," 孙渣
-【好\0.2~\0.2~\0.2~\0.2麻\0.2~\0.2~\0.2烦\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2~\0.2】",,
+【好\0.2~\0.2~\0.2~\0.2麻\0.2~\0.2~\0.2烦\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2~\0.2】"," 孫渣
+【好\0.2~\0.2~\0.2~\0.2麻\0.2~\0.2~\0.2煩\0.2~\0.2~\0.2~\0.2哦\0.2~\0.2~\0.2~\0.2】",
 i05/0,Text,," Stan酱
 【Hello. I am stan!】"," Stan酱
-【嗨，大家好，我是Stan！】",,
+【嗨，大家好，我是Stan！】"," Stan醬
+【嗨，大家好，我是Stan！】",
 i05/1,Text,," Stan酱
 【Thank you for supporting.】"," Stan酱
-【嗯…片子我会努力产的，感谢一路支持我！】",,
+【嗯…片子我会努力产的，感谢一路支持我！】"," Stan醬
+【嗯…片子我會努力產的，感謝一路支持我！】",
 i05/2,Text,," Stan酱
 【I will post my photos more than before.】"," Stan酱
-【如果你喜欢不上我。】",,
+【如果你喜欢不上我。】"," Stan醬
+【如果你喜歡不上我。】",
 i05/3,Text,," Stan酱
 【Please notice my Sina Weibo.】"," Stan酱
-【或者可以继续留意一下我呀。】",,
+【或者可以继续留意一下我呀。】"," Stan醬
+【或者可以繼續留意一下我呀。】",
 i05/4,Text,," Stan酱
 【I am sure you will like me :)】"," Stan酱
-【说不定有一天你会喜欢我呢嘻嘻哈哈哈】",,
+【说不定有一天你会喜欢我呢嘻嘻哈哈哈】"," Stan醬
+【說不定有一天你會喜歡我呢嘻嘻哈哈哈】",
 i05/5,Text,," Stan酱
 【I wish you happy everyday.】"," Stan酱
-【祝你们健康快乐！】",,
+【祝你们健康快乐！】"," Stan醬
+【祝你們健康快樂！】",
 i05/6,Text,," Stan酱
 【By Stan.】"," Stan酱
-【由一只屎蛋变成彩蛋的留言。】",,
+【由一只屎蛋变成彩蛋的留言。】"," Stan醬
+【由一隻屎蛋變成彩蛋的留言。】",
 i05/7,Text,," Kio
 【I..I am your big fan. May I have one of your photo?】"," Kio
-【我我我是你的忠实粉丝，能给我一张签名照不？】",,
+【我我我是你的忠实粉丝，能给我一张签名照不？】"," Kio
+【我我我是你的忠實粉絲，能給我一張簽名照不？】",
 i05/8,Text,," Stan酱
 【Of course. Here you are.】"," Stan酱
-【好的，请稍等一下。】",,
+【好的，请稍等一下。】"," Stan醬
+【好的，請稍等一下。】",
 i05/9,Text,," Kio
 【Thank you very much.】"," Kio
-【谢谢，我会珍惜的。】",,
+【谢谢，我会珍惜的。】"," Kio
+【謝謝，我會珍惜的。】",
 i05/10,Text,," Stan酱
 【You are welcome.】"," Stan酱
-【不客气。】",,
-i05/a,Text,,Get a photo of godness,获得了女神的签名照,,
+【不客气。】"," Stan醬
+【不客氣。】",
+i05/a,Text,,Get a photo of godness,获得了女神的签名照,獲得了女神的簽名照,
 i06/a0,Text,," 鳄鱼同学
 【Hello everyone.】"," 鳄鱼同学
-【大家好，我是鳄鱼同学。】",,
+【大家好，我是鳄鱼同学。】"," 鱷魚同學
+【大家好，我是鱷魚同學。】",
 i06/a1,Text,," 鳄鱼同学
 【Please come to check out my Sina Weibo.】"," 鳄鱼同学
-【我的微博也是叫鳄鱼同学哦！】",,
+【我的微博也是叫鳄鱼同学哦！】"," 鱷魚同學
+【我的微博也是叫鱷魚同學哦！】",
 i06/a2,Text,," 鳄鱼同学
 【Thank you!!】"," 鳄鱼同学
-【谢谢大家的支持！！】",,
+【谢谢大家的支持！！】"," 鱷魚同學
+【謝謝大家的支持！！】",
 i06/b,Text,," 半个大叔
 【I don't seem to have been so fat before.】"," 半个大叔
-【我好像从来都没有这么胖过。】",,
+【我好像从来都没有这么胖过。】"," 半個大叔
+【我好像從來都沒有這麼胖過。】",
 i07/0,Text,," 千岛酱
 【Hello, I am Qiandao.】"," 千岛酱
-【大家好，我是千岛酱。】",,
+【大家好，我是千岛酱。】"," 千島醬
+【大家好，我是千島醬。】",
 i07/1,Text,," 千岛酱
 【Because I was fighting outside the school.】"," 千岛酱
-【这里是广告时间。】",,
+【这里是广告时间。】"," 千島醬
+【這裡是廣告時間。】",
 i07/2,Text,," 千岛酱
 【I was put in jail here.】"," 千岛酱
-【我的微博是千千岛岛酱酱。】",,
+【我的微博是千千岛岛酱酱。】"," 千島醬
+【我的微博是千千島島醬醬。】",
 i07/3,Text,," 千岛酱
 【However I am happy now.】"," 千岛酱
-【淘宝店的店名叫做史悲。】",,
+【淘宝店的店名叫做史悲。】"," 千島醬
+【淘寶店的店名叫做史悲。】",
 i07/4,Text,," 千岛酱
 【The reason is that I don't have to study!! Cheers!!】"," 千岛酱
-【谢谢大家支持。】",,
+【谢谢大家支持。】"," 千島醬
+【謝謝大家支持。】",
 i08/0,Text,," 史悲
 【....】"," 史悲
-【。。。。。】",,
+【。。。。。】"," 史悲
+【。。。。。】",
 i08/1,Text,," 史悲
 【Congratulations! You found this place.】"," 史悲
-【恭喜你，找到这个房间。】",,
+【恭喜你，找到这个房间。】"," 史悲
+【恭喜你，找到這個房間。】",
 i08/2,Text,," 史悲
 【I am Space, producer of this game.】"," 史悲
-【真的感谢你支持这款游戏。】",,
+【真的感谢你支持这款游戏。】"," 史悲
+【真的感謝你支持這款遊戲。】",
 i08/3,Text,," 史悲
 【When I making this game I do worry.】"," 史悲
-【我在制作的时候经常担心。。】",,
+【我在制作的时候经常担心。。】"," 史悲
+【我在製作的時候經常擔心。。】",
 i08/4,Text,," 史悲
 【Worry about will anyone play this game?】"," 史悲
-【到底会不会有人能坚持通关。】",,
+【到底会不会有人能坚持通关。】"," 史悲
+【到底會不會有人能堅持通關。】",
 i08/5,Text,," 史悲
 【Is it a boring game?】"," 史悲
-【首先担心自己这个游戏会不会很无聊。】",,
+【首先担心自己这个游戏会不会很无聊。】"," 史悲
+【首先擔心自己這個遊戲會不會很無聊。】",
 i08/6,Text,," 史悲
 【Is there someone give up playing halfway?】"," 史悲
-【会不会很多人中途就放弃不玩下去。】",,
+【会不会很多人中途就放弃不玩下去。】"," 史悲
+【會不會很多人中途就放棄不玩下去。】",
 i08/7,Text,," 史悲
 【So that they don't get to the ending.】"," 史悲
-【那么我后面制作的功夫不就白费了？】",,
+【那么我后面制作的功夫不就白费了？】"," 史悲
+【那麼我後面製作的功夫不就白費了？】",
 i08/8,Text,," 史悲
 【However I don't hope my game is too simple to go throught.】"," 史悲
-【但是又不想制作得太简单，所以各种犹豫。】",,
+【但是又不想制作得太简单，所以各种犹豫。】"," 史悲
+【但是又不想製作得太簡單，所以各種猶豫。】",
 i08/9,Text,," 史悲
 【Anyway thank you for support.】"," 史悲
-【总之就是感谢大家支持，谢谢！！！】",,
+【总之就是感谢大家支持，谢谢！！！】"," 史悲
+【總之就是感謝大家支持，謝謝！！！】",
 i08/10,Text,," 史悲
 【I hope that I can make a next version of this game if there will be any chance.】"," 史悲
-【如果有机会的话，真的很想做下一个作品。】",,
+【如果有机会的话，真的很想做下一个作品。】"," 史悲
+【如果有機會的話，真的很想做下一個作品。】",
 i08/11,Text,," 史悲
 【Goodbye buddy.】"," 史悲
-【再见！】",,
+【再见！】"," 史悲
+【再見！】",
 i09/a0,Text,," Kio
 【Wow! A handome guy!】"," Kio
-【有帅哥。。？】",,
+【有帅哥。。？】"," Kio
+【有帥哥。。？】",
 i09/a1,Text,," Light
 【........】"," Light
-【。。。。。。】",,
+【。。。。。。】"," Light
+【。。。。。。】",
 i09/a2,Text,," Kio
 【What is on your head?】"," Kio
-【头上顶着的那个是啥？】",,
+【头上顶着的那个是啥？】"," Kio
+【頭上頂著的那個是啥？】",
 i09/a4,Text,," Kio
 【Why can you focus on using computer in such a dangerous world?】"," Kio
-【在这个充满危机的世界里还能专心玩电脑啊？】",,
+【在这个充满危机的世界里还能专心玩电脑啊？】"," Kio
+【在這個充滿危機的世界裡還能專心玩電腦啊？】",
 i09/a6,Text,," Kio
 【Please don't be so cool....】"," Kio
-【帅哥别那么高冷。。】",,
+【帅哥别那么高冷。。】"," Kio
+【帥哥別那麼高冷。。】",
 i09/a8,Text,," Kio
 【Do you feel shy when girls talk to you?】"," Kio
-【莫非你其实是个害怕和女生说话的宅男？】",,
+【莫非你其实是个害怕和女生说话的宅男？】"," Kio
+【莫非你其實是個害怕和女生說話的宅男？】",
 i09/a10,Text,," Kio
 【Hahaha.. You feel shy. I am sure.】"," Kio
-【哈哈。。宅男。。哈哈哈。。。】",,
+【哈哈。。宅男。。哈哈哈。。。】"," Kio
+【哈哈。。宅男。。哈哈哈。。。】",
 i09/a11,Text,," Light
 【Don't you see I am busy now!?】"," Light
-【没看见我在忙么！！！！？】",,
+【没看见我在忙么！！！！？】"," Light
+【沒看見我在忙麼！！！！？】",
 i09/a12,Text,," Kio
 【......】"," Kio
-【。。。。。。。。】",,
+【。。。。。。。。】"," Kio
+【。。。。。。。。】",
 i09/a13,Text,," Light
 【Have you met any programmer before!!?】"," Light
-【没见过程序员么！！！？】",,
+【没见过程序员么！！！？】"," Light
+【沒見過程式師麼！！！？】",
 i09/a14,Text,," Kio
 【Pro....pro what?】"," Kio
-【程序猿！？什么生物？】",,
+【程序猿！？什么生物？】"," Kio
+【程式猿！？什麼生物？】",
 i09/a15,Text,," Light
 【Programmer!! I am a programmer!!】"," Light
-【是员啊！是员！】",,
+【是员啊！是员！】"," Light
+【是員啊！是員！】",
 i09/a16,Text,," Light
 【This is a game. Right?】"," Light
-【这个世界是个游戏对吧？】",,
+【这个世界是个游戏对吧？】"," Light
+【這個世界是個遊戲對吧？】",
 i09/a17,Text,," Light
 【Who made the game? I did!】"," Light
-【游戏怎么来的？是程序员造的！】",,
+【游戏怎么来的？是程序员造的！】"," Light
+【遊戲怎麼來的？是程式師造的！】",
 i09/a18,Text,," Light
 【I made the wall! I made the room!】"," Light
-【这面墙是我造的！这个房间是我造的！】",,
+【这面墙是我造的！这个房间是我造的！】"," Light
+【這面牆是我造的！這個房間是我造的！】",
 i09/a19,Text,," Light
 【I made you walk! I made you talk!】"," Light
-【你怎么走进来是我造的！你走多快是我造的！你说了啥话都是我造的！！】",,
+【你怎么走进来是我造的！你走多快是我造的！你说了啥话都是我造的！！】"," Light
+【你怎麼走進來是我造的！你走多快是我造的！你說了啥話都是我造的！！】",
 i09/a20,Text,," Light
 【I have to sit and watching you. Once I make any mistake you will die!】"," Light
-【我还得坐在这里管理着你们，一个出错的话你可能就无缘无故死掉了！】",,
+【我还得坐在这里管理着你们，一个出错的话你可能就无缘无故死掉了！】"," Light
+【我還得坐在這裡管理著你們，一個出錯的話你可能就無緣無故死掉了！】",
 i09/a21,Text,," Kio
 【Well, I always die....】"," Kio
-【。。。。。我确实会无缘无故的死得不明不白。。。】",,
+【。。。。。我确实会无缘无故的死得不明不白。。。】"," Kio
+【。。。。。我確實會無緣無故的死得不明不白。。。】",
 i09/a22,Text,," Light
 【Sorry...】"," Light
-【要你管。。。】",,
+【要你管。。。】"," Light
+【要你管。。。】",
 i09/a23,Text,," Light
 【I apologize for my rudeness.】"," Light
-【不好意思情绪有点激动。。。】",,
+【不好意思情绪有点激动。。。】"," Light
+【不好意思情緒有點激動。。。】",
 i09/a24,Text,," Kio
 【I understand that I disturb you.】"," Kio
-【理解理解，是我小女生有点烦人而已。】",,
+【理解理解，是我小女生有点烦人而已。】"," Kio
+【理解理解，是我小女生有點煩人而已。】",
 i09/a25,Text,," Light
 【It doesn't matter.】"," Light
-【倒不是烦人，毕竟你怎么说话都是我安排的。】",,
+【倒不是烦人，毕竟你怎么说话都是我安排的。】"," Light
+【倒不是煩人，畢竟你怎麼說話都是我安排的。】",
 i09/a26,Text,," Light
 【However, as a programmer, at most time I don't have meals regularly.】"," Light
-【只是我在这里端坐了差不多一个小时了，有点饿。】",,
+【只是我在这里端坐了差不多一个小时了，有点饿。】"," Light
+【只是我在這裡端坐了差不多一個小時了，有點餓。】",
 i09/a27,Text,," Light
 【And now I feel hungry.】"," Light
-【程序员就是会忙得连饭都顾不上吃了。。。。】",,
+【程序员就是会忙得连饭都顾不上吃了。。。。】"," Light
+【程式師就是會忙得連飯都顧不上吃了。。。。】",
 i09/a28,Text,," Kio
 【....(To much talking)】"," Kio
-【。。。。。（话真多啊，怎么不留一口气暖肚）】",,
+【。。。。。（话真多啊，怎么不留一口气暖肚）】"," Kio
+【。。。。。（話真多啊，怎麼不留一口氣暖肚）】",
 i09/a29,Text,," Light
 【Do you have any spicy food? Would you pleased bring some to me?】"," Light
-【对了你能带点东西给我吃吗？最近喜欢吃辣的。】",,
+【对了你能带点东西给我吃吗？最近喜欢吃辣的。】"," Light
+【對了你能帶點東西給我吃嗎？最近喜歡吃辣的。】",
 i09/a30,Text,," Kio
 【Yes I will. (Who cares?)】"," Kio
-【我考虑考虑。（话痨闭嘴）】",,
+【我考虑考虑。（话痨闭嘴）】"," Kio
+【我考慮考慮。（話癆閉嘴）】",
 i09/b0,Text,," Light
 【Do you bring some spicy food to me?】"," Light
-【带了啥东西来吃？有辣的么？】",,
+【带了啥东西来吃？有辣的么？】"," Light
+【帶了啥東西來吃？有辣的麼？】",
 i09/b1,Text,," Kio
 【No. (Who has this thing?)】"," Kio
-【我找找看啊。（谁会有这种东西啊？）】",,
+【我找找看啊。（谁会有这种东西啊？）】"," Kio
+【我找找看啊。（誰會有這種東西啊？）】",
 i09/c0,Text,," Light
 【Wow... This thing...】"," Light
-【哇。。这个。。。。】",,
+【哇。。这个。。。。】"," Light
+【哇。。這個。。。。】",
 i09/c1,Text,," Light
 【Delicious!!】"," Light
-【好吃！！！】",,
+【好吃！！！】"," Light
+【好吃！！！】",
 i09/c2,Text,," Light
 【It's my first time to eat this.】"," Light
-【第一次吃啊，这辣味道，刚刚好！！】",,
+【第一次吃啊，这辣味道，刚刚好！！】"," Light
+【第一次吃啊，這辣味道，剛剛好！！】",
 i09/c3,Text,," Light
 【I can't stop!】"," Light
-【嗯。。嗯。。。。停不下来！！】",,
+【嗯。。嗯。。。。停不下来！！】"," Light
+【嗯。。嗯。。。。停不下來！！】",
 i09/c4,Text,," Light
 【Um!!!!!! Um um!!!!】"," Light
-【嗯！！！！！！嗯嗯嗯嗯。。。】",,
+【嗯！！！！！！嗯嗯嗯嗯。。。】"," Light
+【嗯！！！！！！嗯嗯嗯嗯。。。】",
 i09/c5,Text,," Light
 【I feel good now.】"," Light
-【感觉舒服多了。】",,
-i09/h,Text,,Get master's blessing,获得了支配者的祝福,,
+【感觉舒服多了。】"," Light
+【感覺舒服多了。】",
+i09/h,Text,,Get master's blessing,获得了支配者的祝福,獲得了支配者的祝福,
 i09/d0,Text,," Kio
 【What is that on your head?】"," Kio
-【头顶的东西能摘下来不？】",,
+【头顶的东西能摘下来不？】"," Kio
+【頭頂的東西能摘下來不？】",
 i09/d1,Text,," Light
 【No idea. You can ask Space.】"," Light
-【别问我，问史悲。】",,
+【别问我，问史悲。】"," Light
+【別問我，問史悲。】",
 i09/d2,Text,," Kio
 【Space? Sounds like a fool.】"," Kio
-【屎碑？跟你刚才给我的东西有关联的？】",,
+【屎碑？跟你刚才给我的东西有关联的？】"," Kio
+【屎碑？跟你剛才給我的東西有關聯的？】",
 i09/d3,Text,," Light
 【You are clever.】"," Light
-【什么都瞒不过你。】",,
+【什么都瞒不过你。】"," Light
+【什麼都瞞不過你。】",
 i10/a,Text,," 大宝
 【He is an idot.】"," 大宝
-【会长是智障。】",,
+【会长是智障。】"," 大寶
+【會長是智障。】",
 i10/b0,Text,," 会长
 【I have two stories. Which one would you like to hear?】"," 会长
-【现在我有两个八卦，你要听哪个？】",,
+【现在我有两个八卦，你要听哪个？】"," 會長
+【現在我有兩個八卦，你要聽哪個？】",
 i10/b1,Text,," 会长
 【I have told you.】"," 会长
-【我已经告诉你了。】",,
+【我已经告诉你了。】"," 會長
+【我已經告訴你了。】",
 i10/c,Text,,"A.About a handsome guy
 B.About Space","A.关于吴彦祖的八卦
-B.关于史悲的八卦",,
+B.关于史悲的八卦","A.關於吳彥祖的八卦
+B.關於史悲的八卦",
 i10/b2,Text,," 会长
 【Well, That 's me.】"," 会长
-【原来你这么想知道关于我的八卦？？】",,
+【原来你这么想知道关于我的八卦？？】"," 會長
+【原來你這麼想知道關於我的八卦？？】",
 i10/b3,Text,," 会长
 【I tell you.】"," 会长
-【我告诉你。】",,
+【我告诉你。】"," 會長
+【我告訴你。】",
 i10/b4,Text,," 会长
 【Space wants to sleep with me.】"," 会长
-【其实史悲的梦想是操吴亦凡！】",,
+【其实史悲的梦想是操吴亦凡！】"," 會長
+【其實史悲的夢想是操吳亦凡！】",
 i11/sa0,Text,," 三口
 【Hello guys.】"," 三口
-【你好，我叫三口】",,
+【你好，我叫三口】"," 三口
+【你好，我叫三口】",
 i11/sa1,Text,," 三口
 【******】"," 三口
-【口艾口牙口畏】",,
+【口艾口牙口畏】"," 三口
+【口艾口牙口畏】",
 i11/sa2,Text,," 三口
 【*********】"," 三口
-【燃指组成员】",,
+【燃指组成员】"," 三口
+【燃指組成員】",
 i11/sa3,Text,," 三口
 【I finish my introduction.】"," 三口
-【我的梦想是做一条咸鱼。】",,
+【我的梦想是做一条咸鱼。】"," 三口
+【我的夢想是做一條鹹魚。】",
 i11/en,Text,," EN
 【(  ＾-＾)Fuck you！】"," EN
-【(  ＾-＾)Fuck you！】",,
+【(  ＾-＾)Fuck you！】"," EN
+【(  ＾-＾)Fuck you！】",
 i11/50,Text,," 九日五花肉
 【Hey guys.】"," 九日五花肉
-【你好，我是九日五花肉。】",,
+【你好，我是九日五花肉。】"," 九日五花肉
+【你好，我是九日五花肉。】",
 i11/51,Text,," 九日五花肉
 【I love EN!!】"," 九日五花肉
-【我爱EN！！！！！！！】",,
+【我爱EN！！！！！！！】"," 九日五花肉
+【我愛EN！！！！！！！】",
 i11/52,Text,," 九日五花肉
 【I want to stand next to EN!!】"," 九日五花肉
-【我站在EN旁边！！！！】",,
+【我站在EN旁边！！！！】"," 九日五花肉
+【我站在EN旁邊！！！！】",
 i11/54,Text,," 九日五花肉
 【Bye.】"," 九日五花肉
-【再见。】",,
+【再见。】"," 九日五花肉
+【再見。】",
 i11/m,Text,," 啃了个鸡
 【Have you seen my pick?】"," 啃了个鸡
-【你看到了我的拨片了吗？】",,
+【你看到了我的拨片了吗？】"," 啃了個雞
+【你看到了我的撥片了嗎？】",
 i11/m0,Text,," 大梦梦
 【Hi girl. Smile.】"," 大梦梦
-【妞儿，给爷笑一个~】",,
+【妞儿，给爷笑一个~】"," 大夢夢
+【妞兒，給爺笑一個~】",
 i11/m1,Text,," 大梦梦
 【You don't smile? I smile.】"," 大梦梦
-【妞儿不笑，爷笑~】",,
+【妞儿不笑，爷笑~】"," 大夢夢
+【妞兒不笑，爺笑~】",
 i11/m2,Text,," 大梦梦
 【Cheers.】"," 大梦梦
-【嘻嘻嘻嘻嘻嘻嘻嘻~】",,
+【嘻嘻嘻嘻嘻嘻嘻嘻~】"," 大夢夢
+【嘻嘻嘻嘻嘻嘻嘻嘻~】",
 i11/p0,Text,," 小p
 【Why do you park here?】"," 小p
-【慢着~！为什么在这里停车~！】",,
+【慢着~！为什么在这里停车~！】"," 小p
+【慢著~！為什麼在這裡停車~！】",
 i11/p1,Text,," 小p
 【No. Here is not a parking lot!】"," 小p
-【不对~！这里不是停车场~！】",,
+【不对~！这里不是停车场~！】"," 小p
+【不對~！這裡不是停車場~！】",
 i11/p2,Text,," 小P
 【Please don't....Ah... Um...】"," 小P
-【我才不是停车牌~！】",,
+【我才不是停车牌~！】"," 小P
+【我才不是停車牌~！】",
 i11/x,Text,," 小坞帅
 【Magic girl!】"," 小坞帅
-【魔法小辣鸡】",,
+【魔法小辣鸡】"," 小塢帥
+【魔法小辣雞】",
 i11/y,Text,," 影猫
 【Delay no more! (Cantonese)】"," 影猫
-【叼！讲呢D】",,
+【叼！讲呢D】"," 影貓
+【叼！講呢D】",
 i11/y1,Text,," 影猫
 【My car is good!!】"," 影猫
-【车匙代号OSR-005，经典值得信赖。】",,
+【车匙代号OSR-005，经典值得信赖。】"," 影貓
+【車匙代號OSR-005，經典值得信賴。】",
 i11/y2,Text,," 影猫
 【I love Nintendo.】"," 影猫
-【我爱任天堂。】",,
+【我爱任天堂。】"," 影貓
+【我愛任天堂。】",
 i11/t0,Text,," 茶田曙迹
 【I like beef!】"," 茶田曙迹
-【喜欢牛肉！】",,
+【喜欢牛肉！】"," 茶田曙跡
+【喜歡牛肉！】",
 i11/t1,Text,," 茶田曙迹
 【I want beef...】"," 茶田曙迹
-【想吃牛肉。。。】",,
+【想吃牛肉。。。】"," 茶田曙跡
+【想吃牛肉。。。】",
 i11/pe,Text,," penn
 【I wish I have a good luck.】"," penn
-【希望最近可以好运些。】",,
+【希望最近可以好运些。】"," penn
+【希望最近可以好運些。】",
 i11/j0,Text,," Jor
 【I am waiting for Kio.】"," Jor
-【我在等一个叫Kio的人。】",,
+【我在等一个叫Kio的人。】"," Jor
+【我在等一個叫Kio的人。】",
 i11/j1,Text,," Jor
 【Space said Kio is able to get me out of here.】"," Jor
-【史悲说她可以带我离开这里。】",,
-savepants/f03,Text,,Behind school,学校后面,,
-menus/q,Text,,Quit to the title?,要退出游戏吗？,,
+【史悲说她可以带我离开这里。】"," Jor
+【史悲說她可以帶我離開這裡。】",
+savepants/f03,Text,,Behind school,学校后面,學校後面,
+menus/q,Text,,Quit to the title?,要退出游戏吗？,要退出遊戲嗎？,
 d04/lock,Text,," Kio
 【It's locked.】"," Kio
-【门锁上了，打不开。】",,
-menus/inven full,Text,,Inventory is full,物品栏满了,,
-menus/locker full,Text,,Locker is full,仓库满了,,
+【门锁上了，打不开。】"," Kio
+【門鎖上了，打不開。】",
+menus/inven full,Text,,Inventory is full,物品栏满了,物品欄滿了,
+menus/locker full,Text,,Locker is full,仓库满了,倉庫滿了,
 e03h/0,Text,," Kio
 【This place?】"," Kio
-【这。。。。。。这里！？】",,
+【这。。。。。。这里！？】"," Kio
+【這。。。。。。這裡！？】",
 e03h/1,Text,," Kio
 【A distorted room!?】"," Kio
-【怎么会有这样的地方！？！？】",,
+【怎么会有这样的地方！？！？】"," Kio
+【怎麼會有這樣的地方！？！？】",
 e03h/2,Text,," Kio
 【What the hell is it!?】"," Kio
-【是。。是什么鬼？！】",,
+【是。。是什么鬼？！】"," Kio
+【是。。是什麼鬼？！】",
 d03/lock,Text,," Kio
 【It's locked. I think I have to find a key to open it.】"," Kio
-【被锁上了，需要钥匙才能打开。】",,
-d03/use key,Text,,Use the key to open?,要使用住宅钥匙打开吗？,,
-savepants/b07,Text,,Yard,庭院,,
-savepants/b11,Text,,West library,图书馆西侧,,
+【被锁上了，需要钥匙才能打开。】"," Kio
+【被鎖上了，需要鑰匙才能打開。】",
+d03/use key,Text,,Use the key to open?,要使用住宅钥匙打开吗？,要使用住宅鑰匙打開嗎？,
+savepants/b07,Text,,Yard,庭院,庭院,
+savepants/b11,Text,,West library,图书馆西侧,圖書館西側,
 i03/ball,Text,," Kio
 【A Poke ball?】"," Kio
-【一个精灵球？】",,
-savepants/b02,Text,,Library,图书馆大厅,,
-savepants/a10,Text,,Exit,地牢出口,,
-savepants/ji he,Text,,Office,机核网,,
-pic2/title,Sprite,,英文版标题,合成 1_00130,,
-pic2/c maping,Texture,,诅咒的地图2,诅咒的地图,,
+【一个精灵球？】"," Kio
+【一個精靈球？】",
+savepants/b02,Text,,Library,图书馆大厅,圖書館大廳,
+savepants/a10,Text,,Exit,地牢出口,地牢出口,
+savepants/ji he,Text,,Office,机核网,機核網,
+pic2/title,Sprite,,英文版标题,合成 1_00130,合成 1_00130,
+pic2/c maping,Texture,,诅咒的地图2,诅咒的地图,诅咒的地图,
 pic2/b book,Text,,"Hints
 How to prevent the enemies being revived.
 
@@ -3019,15 +3948,30 @@ Otherwise the enemies will be revived, if you don't kill them all.","《说明�
 同样道理，
 
 如果有三只怪物，那就必须要三只全部杀掉
-怪物才不会刷新。",,
-ending,Sprite,,制作名单滚动2,制作名单滚动,,
+怪物才不会刷新。","《說明書》
+如何完全殺掉遊戲裡的怪物。
+例如在一個房間裡面，出現兩隻怪物，當時
+只殺死其中一隻的時候離開房間，再進去。
+怪物會重新刷新。
+
+如果想要把他們完全殺掉。
+必須要把兩隻怪物都殺掉。
+
+同樣道理，
+
+如果有三隻怪物，那就必須要三隻全部殺掉
+怪物才不會刷新。",
+ending,Sprite,,制作名单滚动2,制作名单滚动,制作名单滚动,
 e02/l0,Text,," Kio
 【This door seems like that it can only be opened by an ID card.】"," Kio
-【嗯？不是用钥匙的门】",,
+【嗯？不是用钥匙的门】"," Kio
+【嗯？不是用鑰匙的門】",
 e02/l1,Text,," Kio
 【I have to look for that kind of thing.】"," Kio
-【好像是需要用磁卡打开。】",,
+【好像是需要用磁卡打开。】"," Kio
+【好像是需要用磁卡打開。】",
 f03/don't go back,Text,," Kio
 【Please don't go back...】"," Kio
-【不想回头了。】",,
-e02/to open?,Text,,Try the ID card to open?,要使用磁卡开门吗？,,
+【不想回头了。】"," Kio
+【不想回頭了。】",
+e02/to open?,Text,,Try the ID card to open?,要使用磁卡开门吗？,要使用磁卡開門嗎？,
