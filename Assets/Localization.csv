@@ -3462,7 +3462,7 @@ i02/j8,Text,," 鱼总
 【一切灵感来自生活。】"," 魚總
 【一切靈感來自生活。】",
 i03/a0,Text,," 渗透之C菌
-【I am on the live at twixh.】"," 渗透之C菌
+【I am on stream.】"," 渗透之C菌
 【我在做直播呢。】"," 滲透之C菌
 【我在做直播呢。】",
 i03/a1,Text,," 渗透之C菌
@@ -3975,3 +3975,15 @@ f03/don't go back,Text,," Kio
 【不想回头了。】"," Kio
 【不想回頭了。】",
 e02/to open?,Text,,Try the ID card to open?,要使用磁卡开门吗？,要使用磁卡開門嗎？,
+logo/warning,Text,,"The events, characters and organizations depcted in this game fortunately are fictious. 
+Any similarity to actual persons, liveing or dead, locales or to actual histrorical events, is purely coincidental.
+
+Some parts of this game may be considered violent ot cruel.
+This game contains scenes of explicit violenve and gore.
+Not appropriate for people with heart diseases.","本游戏中涉及到人名，地名等内容纯属虚构
+如有雷同实属巧合
+
+本游戏含有暴力，血腥等可能造成不安的内容
+游戏过程中，心脏病患者及身心状态不稳定者请特别注意",,
+logo/con hint,Sprite,,操作指南 英语,操作指南,操作指南,操作指南 英语
+entrance/return,Text,,K/Back,K/返回,K/返回,

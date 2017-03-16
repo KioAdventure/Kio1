@@ -4113,28 +4113,34 @@ public class iTween : MonoBehaviour{
 		*/
 		
 		//apply:
-		if(GetComponent(typeof(GUITexture))){
+		if (GetComponent (typeof(GUITexture))) {
 			//guiTexture.color=colors[2];
-			GetComponent<GUITexture>().color=colors[0,2];
-		}else if(GetComponent(typeof(GUIText))){
+			GetComponent<GUITexture> ().color = colors [0, 2];
+		} else if (GetComponent (typeof(GUIText))) {
 			//guiText.material.color=colors[2];
-			GetComponent<GUIText>().material.color=colors[0,2];
-		}else if(GetComponent<Renderer>()){
+			GetComponent<GUIText> ().material.color = colors [0, 2];
+		} else if (GetComponent<Renderer> ()) {
 			//renderer.material.color=colors[2];
-			for (int i = 0; i < colors.GetLength(0); i++) {
-				var renderer=GetComponent<Renderer>();
-				if(renderer is SpriteRenderer){
-					var c=colors[i,2];
-					(renderer as SpriteRenderer).color=c;
-				}else{
-				GetComponent<Renderer>().materials[i].SetColor(namedcolorvalue.ToString(),colors[i,2]);
+			for (int i = 0; i < colors.GetLength (0); i++) {
+				var renderer = GetComponent<Renderer> ();
+				if (renderer is SpriteRenderer) {
+					var c = colors [i, 2];
+					(renderer as SpriteRenderer).color = c;
+				} else {
+					GetComponent<Renderer> ().materials [i].SetColor (namedcolorvalue.ToString (), colors [i, 2]);
 				}
 			}
-		}else if(GetComponent<Image>()){
-			Image im=GetComponent<Image>();
-			for (int i = 0; i < colors.GetLength(0); i++) {
-			var c=colors[i,2];
-				im.color=c;
+		} else if (GetComponent<Image> ()) {
+			Image im = GetComponent<Image> ();
+			for (int i = 0; i < colors.GetLength (0); i++) {
+				var c = colors [i, 2];
+				im.color = c;
+			}
+		} else if (GetComponent<Text>()) {
+			Text txt = GetComponent<Text> ();
+			for (int i = 0; i < colors.GetLength (0); i++) {
+				var c = colors [i, 2];
+				txt.color = c;
 			}
 		}
 		else if(GetComponent<Light>()){

@@ -139,7 +139,7 @@ MonoBehaviour:
   - {fileID: 114000013231244746}
   MasterBankRef: {fileID: 114000014244960974}
   StringsBankRef: {fileID: 114000010048213444}
-  stringsBankWriteTime: 636156030590455111
+  stringsBankWriteTime: 636252781314620029
   cacheVersion: 2
 --- !u!114 &114000010016110610
 MonoBehaviour:
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: E:\documents\Artworks\kio\kio tones 1.0.5\Desktop\Master Bank.strings.bank
-  lastModified: 636156030590455111
+  lastModified: 636252781314620029
   LoadResult: 0
   FileSizes:
   - Name: 
@@ -755,7 +755,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000014217773778}
+  - {fileID: 114730732440091240}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000010204375278
@@ -1443,7 +1443,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000010334955640}
+  - {fileID: 114724666535580502}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000010401966894
@@ -4215,7 +4215,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000010973548664}
+  - {fileID: 114611915649220068}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000011501472088
@@ -9253,7 +9253,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 1
   Parameters:
-  - {fileID: 114000014133641622}
+  - {fileID: 114517808201108678}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000013445133700
@@ -10099,7 +10099,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 1
   Parameters:
-  - {fileID: 114000010204375278}
+  - {fileID: 114581341866423080}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000013763704352
@@ -10986,7 +10986,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000011565899760}
+  - {fileID: 114644343896958048}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000014039624080
@@ -11607,7 +11607,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: E:\documents\Artworks\kio\kio tones 1.0.5\Desktop\Master Bank.bank
-  lastModified: 636156031165628009
+  lastModified: 636252781350982109
   LoadResult: 0
   FileSizes:
   - Name: 
@@ -11790,3 +11790,93 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
+--- !u!114 &114517808201108678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Parameter bullet
+  Min: 0
+  Max: 10
+  Default: 0
+--- !u!114 &114581341866423080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Parameter 1
+  Min: 0
+  Max: 1
+  Default: 0.18500002
+--- !u!114 &114611915649220068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: volume
+  Min: 0
+  Max: 1
+  Default: 0
+--- !u!114 &114644343896958048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: H_give out
+  Min: 0
+  Max: 8
+  Default: 0
+--- !u!114 &114724666535580502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: distance
+  Min: 0
+  Max: 10
+  Default: 0
+--- !u!114 &114730732440091240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: distance
+  Min: 0
+  Max: 1
+  Default: 0

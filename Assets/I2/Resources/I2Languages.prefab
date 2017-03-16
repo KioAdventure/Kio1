@@ -14261,7 +14261,7 @@ MonoBehaviour:
     TermType: 0
     Description: 
     Languages:
-    - " \u6E17\u900F\u4E4BC\u83CC\n\u3010I am on the live at twixh.\u3011"
+    - " \u6E17\u900F\u4E4BC\u83CC\n\u3010I am on stream.\u3011"
     - " \u6E17\u900F\u4E4BC\u83CC\n\u3010\u6211\u5728\u505A\u76F4\u64AD\u5462\u3002\u3011"
     - " \u6EF2\u900F\u4E4BC\u83CC\n\u3010\u6211\u5728\u505A\u76F4\u64AD\u5462\u3002\u3011"
     - 
@@ -16146,6 +16146,52 @@ MonoBehaviour:
     - 
     - 
     Flags: 00000000
+  - Term: logo/warning
+    TermType: 0
+    Description: 
+    Languages:
+    - "The events, characters and organizations depcted in this game fortunately are
+      fictious. \nAny similarity to actual persons, liveing or dead, locales or to
+      actual histrorical events, is purely coincidental.\n\nSome parts of this game
+      may be considered violent ot cruel.\nThis game contains scenes of explicit violenve
+      and gore.\nNot appropriate for people with heart diseases."
+    - "\u672C\u6E38\u620F\u4E2D\u6D89\u53CA\u5230\u4EBA\u540D\uFF0C\u5730\u540D\u7B49\u5185\u5BB9\u7EAF\u5C5E\u865A\u6784\n\u5982\u6709\u96F7\u540C\u5B9E\u5C5E\u5DE7\u5408\n\n\u672C\u6E38\u620F\u542B\u6709\u66B4\u529B\uFF0C\u8840\u8165\u7B49\u53EF\u80FD\u9020\u6210\u4E0D\u5B89\u7684\u5185\u5BB9\n\u6E38\u620F\u8FC7\u7A0B\u4E2D\uFF0C\u5FC3\u810F\u75C5\u60A3\u8005\u53CA\u8EAB\u5FC3\u72B6\u6001\u4E0D\u7A33\u5B9A\u8005\u8BF7\u7279\u522B\u6CE8\u610F"
+    - 
+    - 
+    Languages_Touch:
+    - 
+    - 
+    - 
+    - 
+    Flags: 00000000
+  - Term: logo/con hint
+    TermType: 5
+    Description: 
+    Languages:
+    - "\u64CD\u4F5C\u6307\u5357 \u82F1\u8BED"
+    - "\u64CD\u4F5C\u6307\u5357"
+    - "\u64CD\u4F5C\u6307\u5357"
+    - "\u64CD\u4F5C\u6307\u5357 \u82F1\u8BED"
+    Languages_Touch:
+    - 
+    - 
+    - 
+    - 
+    Flags: 00000000
+  - Term: entrance/return
+    TermType: 0
+    Description: 
+    Languages:
+    - K/Back
+    - "K/\u8FD4\u56DE"
+    - "K/\u8FD4\u56DE"
+    - 
+    Languages_Touch:
+    - 
+    - 
+    - 
+    - 
+    Flags: 00000000
   mLanguages:
   - Name: English
     Code: en
@@ -16164,6 +16210,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 895b9703bf9ca134999ec5aacbdc6ee2, type: 3}
   - {fileID: 21300000, guid: 3d7f8f31764e37b4e803a20180b38da3, type: 3}
   - {fileID: 21300000, guid: 3558526fe23957e45b718c915c21f242, type: 3}
+  - {fileID: 21300000, guid: 2b34980574a1d2741b7b2113ffb8d89b, type: 3}
+  - {fileID: 21300000, guid: 4d24632b330afb540818e7785970d732, type: 3}
   NeverDestroy: 1
   UserAgreesToHaveItOnTheScene: 0
   UserAgreesToHaveItInsideThePluginsFolder: 0
