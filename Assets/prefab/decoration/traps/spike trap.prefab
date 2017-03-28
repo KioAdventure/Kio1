@@ -5,17 +5,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 480246}
-  - 212: {fileID: 21246930}
-  - 95: {fileID: 9554460}
-  - 61: {fileID: 6141556}
-  - 114: {fileID: 11419464}
-  - 114: {fileID: 11458220}
-  - 114: {fileID: 11481184}
-  - 114: {fileID: 11417270}
-  - 50: {fileID: 5038872}
+  - component: {fileID: 480246}
+  - component: {fileID: 21246930}
+  - component: {fileID: 9554460}
+  - component: {fileID: 6141556}
+  - component: {fileID: 11419464}
+  - component: {fileID: 11458220}
+  - component: {fileID: 11481184}
+  - component: {fileID: 11417270}
+  - component: {fileID: 5038872}
   m_Layer: 0
   m_Name: spike trap
   m_TagString: layer
@@ -32,23 +32,26 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.456, y: -0.394, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &5038872
 Rigidbody2D:
-  serializedVersion: 2
+  serializedVersion: 4
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 138418}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_IsKinematic: 1
+  m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -101,9 +104,11 @@ MonoBehaviour:
   CollisionTag: 
   AllowFadeout: 1
   TriggerOnce: 0
-  minDistance: 1
-  maxDistance: 1.2
+  Preload: 0
   Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!114 &11419464
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -250,6 +255,7 @@ MonoBehaviour:
         colorIndex: 0
       actionData:
         actionNames:
+        - HutongGames.PlayMaker.Actions.SubmitAchievement
         - HutongGames.PlayMaker.Actions.FMODPlayEventEmitter
         - HutongGames.PlayMaker.Actions.SetBoolValue
         - HutongGames.PlayMaker.Actions.SetBoolValue
@@ -267,10 +273,11 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 0101010101010101
-        actionIsOpen: 0101010101010101
-        actionStartIndex: 000000000300000006000000090000000e000000100000001300000016000000
-        actionHashCodes: f86c7d0027fbe10327fbe103081bbf059bd6f8019ff80c024d51cf0409faa102
+        - 
+        actionEnabled: 010101010101010101
+        actionIsOpen: 010101010101010101
+        actionStartIndex: 000000000100000004000000070000000a0000000f000000110000001400000017000000
+        actionHashCodes: 86c18d02f86c7d0027fbe10327fbe103081bbf059bd6f8019ff80c024d51cf0409faa102
         unityObjectParams:
         - {fileID: 11417270}
         fsmGameObjectParams:
@@ -378,7 +385,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 0
         - useVariable: 0
           name: 
           tooltip: 
@@ -412,13 +419,14 @@ MonoBehaviour:
         - check pass
         - 
         - 
-        byteData: 000000000000
+        byteData: 0b000000000000000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 14000000050000000100000011000000110000000100000011000000110000000100000014000000120000001200000010000000010000001400000012000000130000000f00000011000000130000001300000001000000100000001000000017000000170000001700000001000000
+        paramDataType: 0700000014000000050000000100000011000000110000000100000011000000110000000100000014000000120000001200000010000000010000001400000012000000130000000f00000011000000130000001300000001000000100000001000000017000000170000001700000001000000
         paramName:
+        - achievementID
         - gameObject
         - emitter
         - getSoundFromSelf
@@ -447,8 +455,8 @@ MonoBehaviour:
         - lessThan
         - greaterThan
         - everyFrame
-        paramDataPos: 00000000000000000000000000000000010000000100000002000000030000000200000001000000000000000100000000000000030000000200000002000000000000000000000004000000010000000200000004000000010000000200000000000000010000000200000005000000
-        paramByteDataSize: 00000000000000000100000000000000000000000100000000000000000000000100000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000001000000
+        paramDataPos: 0000000000000000000000000400000000000000010000000500000002000000030000000600000001000000000000000100000000000000070000000200000002000000000000000000000004000000010000000200000008000000010000000200000000000000010000000200000009000000
+        paramByteDataSize: 0400000000000000000000000100000000000000000000000100000000000000000000000100000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000001000000
     - name: filp
       description: 
       colorIndex: 0
@@ -801,7 +809,7 @@ MonoBehaviour:
     watermark: 
     password: 
     locked: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -860,17 +868,22 @@ SpriteRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
-  m_SubsetIndices: 
-  m_StaticBatchRoot: {fileID: 0}
-  m_UseLightProbes: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89

@@ -1,15 +1,15 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!29 &1
-SceneSettings:
+OcclusionCullingSettings:
   m_ObjectHideFlags: 0
-  m_PVSData: 
-  m_PVSObjectsArray: []
-  m_PVSPortalsArray: []
+  serializedVersion: 2
   m_OcclusionBakeSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -79,25 +79,26 @@ NavMeshSettings:
   m_ObjectHideFlags: 0
   m_BuildSettings:
     serializedVersion: 2
+    agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
     agentSlope: 45
     agentClimb: 0.4
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
-    accuratePlacement: 0
     minRegionArea: 2
-    cellSize: 0.16666667
     manualCellSize: 0
+    cellSize: 0.16666667
+    accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
 --- !u!1 &142847231
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 142847232}
+  - component: {fileID: 142847232}
   m_Layer: 17
   m_Name: human (1)
   m_TagString: Untagged
@@ -114,7 +115,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 2003731430}
   - {fileID: 1003445695}
@@ -122,6 +122,7 @@ Transform:
   - {fileID: 1868686603}
   m_Father: {fileID: 1384051529}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &192652980
 Prefab:
   m_ObjectHideFlags: 0
@@ -129,6 +130,74 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.events.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.variableCategoryIDs.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.byteData.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionNames.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.customNames.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionIsOpen.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.stringParams.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionEnabled.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmFloatParams.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionHashCodes.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionStartIndex.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramByteDataSize.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 418384, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
       propertyPath: m_LocalPosition.x
       value: -0.027
@@ -192,7 +261,7 @@ Prefab:
     - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
       propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[0].gameObject.gameObject.value
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1870286381}
     - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
       propertyPath: fsm.states.Array.data[4].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
       value: 
@@ -201,6 +270,258 @@ Prefab:
       propertyPath: fsm.states.Array.data[4].actionData.fsmEventTargetParams.Array.data[0].gameObject.gameObject.value
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionNames.Array.data[0]
+      value: HutongGames.PlayMaker.Actions.SendEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionNames.Array.data[1]
+      value: HutongGames.PlayMaker.Actions.SetFsmInt
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionNames.Array.data[2]
+      value: HutongGames.PlayMaker.Actions.SendEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionEnabled.Array.data[2]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionIsOpen.Array.data[2]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionStartIndex.Array.data[1]
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionStartIndex.Array.data[2]
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionHashCodes.Array.data[0]
+      value: 79391070
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionHashCodes.Array.data[1]
+      value: 96410376
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.actionHashCodes.Array.data[2]
+      value: 79391070
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[0].target
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[0].gameObject.ownerOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[0].gameObject.gameObject.useVariable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[0].gameObject.gameObject.name
+      value: ach
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[1].target
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[1].gameObject.ownerOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[1].gameObject.gameObject.useVariable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmEventTargetParams.Array.data[1].gameObject.gameObject.name
+      value: die mask
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.stringParams.Array.data[0]
+      value: quit
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.stringParams.Array.data[1]
+      value: move on
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[0]
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[1]
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[2]
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[3]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[4]
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[5]
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[6]
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[7]
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[9]
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[10]
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[11]
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataType.Array.data[12]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[0]
+      value: eventTarget
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[1]
+      value: sendEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[2]
+      value: delay
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[3]
+      value: everyFrame
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[4]
+      value: gameObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[5]
+      value: fsmName
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[6]
+      value: variableName
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[7]
+      value: setValue
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[9]
+      value: eventTarget
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[10]
+      value: sendEvent
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[11]
+      value: delay
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramName.Array.data[12]
+      value: everyFrame
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[2]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[6]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[9]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[10]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[11]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramDataPos.Array.data[12]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramByteDataSize.Array.data[3]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramByteDataSize.Array.data[4]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.states.Array.data[3].actionData.paramByteDataSize.Array.data[12]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[0].name
+      value: ach
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[1].name
+      value: object
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[1].value
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[2].useVariable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[2].name
+      value: prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[2].value
+      value: 
+      objectReference: {fileID: 189684, guid: 08c41849c71809342acaee3b618104f6, type: 2}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.events.Array.data[2].name
+      value: quit
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.events.Array.data[3].name
+      value: stand
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.events.Array.data[3].isGlobal
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11415020, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
+      propertyPath: fsm.variables.gameObjectVariables.Array.data[0].value
+      value: 
+      objectReference: {fileID: 1870286381}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 48bdecdee9e14d24297e897c2d55fce3, type: 2}
   m_IsPrefabParent: 0
@@ -209,10 +530,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 519820824}
-  - 212: {fileID: 519820825}
+  - component: {fileID: 519820824}
+  - component: {fileID: 519820825}
   m_Layer: 0
   m_Name: cover
   m_TagString: Untagged
@@ -229,10 +550,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1384051529}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &519820825
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -247,7 +568,9 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -255,7 +578,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedWireframeHidden: 1
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -271,14 +594,14 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 760202397}
-  - 212: {fileID: 760202396}
-  - 61: {fileID: 760202395}
-  - 114: {fileID: 760202394}
-  - 61: {fileID: 760202399}
-  - 114: {fileID: 760202398}
+  - component: {fileID: 760202397}
+  - component: {fileID: 760202396}
+  - component: {fileID: 760202395}
+  - component: {fileID: 760202394}
+  - component: {fileID: 760202399}
+  - component: {fileID: 760202398}
   m_Layer: 18
   m_Name: "\u9AB7\u9AC5"
   m_TagString: layer
@@ -327,7 +650,9 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -335,7 +660,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedWireframeHidden: 1
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -355,10 +680,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.272, y: -0.097, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &760202398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -706,6 +1031,7 @@ MonoBehaviour:
         colorIndex: 0
       actionData:
         actionNames:
+        - HutongGames.PlayMaker.Actions.SendEvent
         - HutongGames.PlayMaker.Actions.SetBoolValue
         - HutongGames.PlayMaker.Actions.SetBoolValue
         - HutongGames.PlayMaker.Actions.ActivateGameObject
@@ -713,10 +1039,11 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 010101
-        actionStartIndex: 000000000300000006000000
-        actionHashCodes: 27fbe10327fbe103b2cf1000
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 0000000004000000070000000a000000
+        actionHashCodes: 5e69bb0427fbe10327fbe103b2cf1000
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -731,7 +1058,39 @@ MonoBehaviour:
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
-        fsmEventTargetParams: []
+        fsmEventTargetParams:
+        - target: 1
+          excludeSelf:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          gameObject:
+            ownerOption: 1
+            gameObject:
+              useVariable: 1
+              name: ach
+              tooltip: 
+              showInInspector: 0
+              networkSync: 0
+              value: {fileID: 1870286381}
+          fsmName:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 
+          sendToChildren:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          fsmComponent: {fileID: 0}
         fsmPropertyParams: []
         layoutOptionParams: []
         fsmStringParams: []
@@ -739,7 +1098,13 @@ MonoBehaviour:
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
-        fsmFloatParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 1
@@ -783,14 +1148,19 @@ MonoBehaviour:
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
-        byteData: 00000000
+        stringParams:
+        - move on
+        byteData: 0000000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 1100000011000000010000001100000011000000010000001400000011000000110000000100000001000000
+        paramDataType: 1f000000170000000f000000010000001100000011000000010000001100000011000000010000001400000011000000110000000100000001000000
         paramName:
+        - eventTarget
+        - sendEvent
+        - delay
+        - everyFrame
         - boolVariable
         - boolValue
         - everyFrame
@@ -802,8 +1172,8 @@ MonoBehaviour:
         - recursive
         - resetOnExit
         - everyFrame
-        paramDataPos: 0000000001000000000000000200000003000000010000000000000004000000050000000200000003000000
-        paramByteDataSize: 0000000000000000010000000000000000000000010000000000000000000000000000000100000001000000
+        paramDataPos: 000000000000000000000000000000000000000001000000010000000200000003000000020000000000000004000000050000000300000004000000
+        paramByteDataSize: 000000000000000000000000010000000000000000000000010000000000000000000000010000000000000000000000000000000100000001000000
     - name: get text
       description: 
       colorIndex: 0
@@ -1327,6 +1697,12 @@ MonoBehaviour:
       quaternionVariables: []
       gameObjectVariables:
       - useVariable: 1
+        name: ach
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {fileID: 1870286381}
+      - useVariable: 1
         name: parent
         tooltip: 
         showInInspector: 0
@@ -1382,7 +1758,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 1
@@ -1473,10 +1849,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1002073226}
-  - 61: {fileID: 1002073227}
+  - component: {fileID: 1002073226}
+  - component: {fileID: 1002073227}
   m_Layer: 15
   m_Name: GameObject
   m_TagString: Untagged
@@ -1493,10 +1869,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.028, y: 0.964, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1727657202}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1002073227
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1516,10 +1892,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1003445695}
-  - 61: {fileID: 1003445696}
+  - component: {fileID: 1003445695}
+  - component: {fileID: 1003445696}
   m_Layer: 17
   m_Name: GameObject (2)
   m_TagString: Untagged
@@ -1536,10 +1912,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.009, y: 0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 142847232}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1003445696
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1601,10 +1977,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1239429885}
-  - 61: {fileID: 1239429886}
+  - component: {fileID: 1239429885}
+  - component: {fileID: 1239429886}
   m_Layer: 15
   m_Name: GameObject (4)
   m_TagString: Untagged
@@ -1621,10 +1997,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.851, y: -0.935, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1727657202}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1239429886
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1644,10 +2020,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1251144079}
-  - 61: {fileID: 1251144080}
+  - component: {fileID: 1251144079}
+  - component: {fileID: 1251144080}
   m_Layer: 15
   m_Name: GameObject (3)
   m_TagString: Untagged
@@ -1664,10 +2040,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.295, y: -0.935, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1727657202}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1251144080
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1687,10 +2063,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1257944101}
-  - 61: {fileID: 1257944102}
+  - component: {fileID: 1257944101}
+  - component: {fileID: 1257944102}
   m_Layer: 17
   m_Name: GameObject (3)
   m_TagString: Untagged
@@ -1707,10 +2083,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.295, y: -0.935, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 142847232}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1257944102
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1730,10 +2106,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1384051529}
-  - 212: {fileID: 1384051528}
+  - component: {fileID: 1384051529}
+  - component: {fileID: 1384051528}
   m_Layer: 0
   m_Name: "\u9AB7\u9AC5\u623F\u95F4"
   m_TagString: Untagged
@@ -1755,7 +2131,9 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1763,7 +2141,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedWireframeHidden: 1
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1783,22 +2161,22 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 519820824}
   - {fileID: 1727657202}
   - {fileID: 142847232}
   m_Father: {fileID: 0}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1436650395
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1436650397}
-  - 114: {fileID: 1436650396}
+  - component: {fileID: 1436650397}
+  - component: {fileID: 1436650396}
   m_Layer: 0
   m_Name: PlayMakerGUI
   m_TagString: Untagged
@@ -1834,21 +2212,21 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1588220096
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1588220099}
-  - 61: {fileID: 1588220098}
-  - 114: {fileID: 1588220097}
-  - 114: {fileID: 1588220100}
+  - component: {fileID: 1588220099}
+  - component: {fileID: 1588220098}
+  - component: {fileID: 1588220097}
+  - component: {fileID: 1588220100}
   m_Layer: 0
   m_Name: door
   m_TagString: Untagged
@@ -2410,10 +2788,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.275, y: -1.091, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1588220100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2431,18 +2809,20 @@ MonoBehaviour:
   CollisionTag: 
   AllowFadeout: 1
   TriggerOnce: 0
-  minDistance: 1
-  maxDistance: 1.2
+  Preload: 0
   Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: -1
+  OverrideMaxDistance: -1
 --- !u!1 &1718905762
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1718905763}
-  - 61: {fileID: 1718905764}
+  - component: {fileID: 1718905763}
+  - component: {fileID: 1718905764}
   m_Layer: 15
   m_Name: GameObject (2)
   m_TagString: Untagged
@@ -2459,10 +2839,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.009, y: 0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1727657202}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1718905764
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2482,9 +2862,9 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1727657202}
+  - component: {fileID: 1727657202}
   m_Layer: 15
   m_Name: human
   m_TagString: Untagged
@@ -2501,7 +2881,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1002073226}
   - {fileID: 1929762760}
@@ -2510,15 +2889,16 @@ Transform:
   - {fileID: 1239429885}
   m_Father: {fileID: 1384051529}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1868686602
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1868686603}
-  - 61: {fileID: 1868686604}
+  - component: {fileID: 1868686603}
+  - component: {fileID: 1868686604}
   m_Layer: 17
   m_Name: GameObject (4)
   m_TagString: Untagged
@@ -2535,10 +2915,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.851, y: -0.935, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 142847232}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1868686604
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2553,15 +2933,291 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
+--- !u!1 &1870286381
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1870286383}
+  - component: {fileID: 1870286382}
+  m_Layer: 0
+  m_Name: achievement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1870286382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1870286381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1384774831, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fsm:
+    dataVersion: 2
+    usedInTemplate: {fileID: 0}
+    name: FSM
+    startState: State 1
+    states:
+    - name: State 1
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 50
+        y: 132
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: move on
+          isSystemEvent: 0
+          isGlobal: 1
+        toState: State 2
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames: []
+        customNames: []
+        actionEnabled: 
+        actionIsOpen: 
+        actionStartIndex: 
+        actionHashCodes: 
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 
+        paramName: []
+        paramDataPos: 
+        paramByteDataSize: 
+    - name: State 2
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: quit
+          isSystemEvent: 0
+          isGlobal: 1
+        toState: submit
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames: []
+        customNames: []
+        actionEnabled: 
+        actionIsOpen: 
+        actionStartIndex: 
+        actionHashCodes: 
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 
+        paramName: []
+        paramDataPos: 
+        paramByteDataSize: 
+    - name: submit
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 476
+        y: 108
+        width: 100
+        height: 16
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions: []
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.SubmitAchievement
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 86c18d02
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 18000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 07000000
+        paramName:
+        - achievementID
+        paramDataPos: 00000000
+        paramByteDataSize: 04000000
+    events:
+    - name: FINISHED
+      isSystemEvent: 1
+      isGlobal: 0
+    - name: move on
+      isSystemEvent: 0
+      isGlobal: 1
+    - name: quit
+      isSystemEvent: 0
+      isGlobal: 1
+    globalTransitions: []
+    variables:
+      floatVariables: []
+      intVariables: []
+      boolVariables: []
+      stringVariables: []
+      vector2Variables: []
+      vector3Variables: []
+      colorVariables: []
+      rectVariables: []
+      quaternionVariables: []
+      gameObjectVariables: []
+      objectVariables: []
+      materialVariables: []
+      textureVariables: []
+      arrayVariables: []
+      enumVariables: []
+      categories:
+      - 
+      variableCategoryIDs: 
+    description: 
+    docUrl: 
+    showStateLabel: 1
+    maxLoopCount: 0
+    watermark: 
+    password: 
+    locked: 0
+    preprocessed: 0
+    ExposedEvents: []
+    RestartOnEnable: 1
+    EnableDebugFlow: 0
+    EnableBreakpoints: 1
+    activeStateName: 
+    mouseEvents: 0
+    handleTriggerEnter: 0
+    handleTriggerExit: 0
+    handleTriggerStay: 0
+    handleCollisionEnter: 0
+    handleCollisionExit: 0
+    handleCollisionStay: 0
+    handleOnGUI: 0
+    handleFixedUpdate: 0
+    handleApplicationEvents: 0
+  fsmTemplate: {fileID: 0}
+  eventHandlerComponentsAdded: 0
+--- !u!4 &1870286383
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1870286381}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.32244807, y: 1.535583, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1929762759
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1929762760}
-  - 61: {fileID: 1929762761}
+  - component: {fileID: 1929762760}
+  - component: {fileID: 1929762761}
   m_Layer: 15
   m_Name: GameObject (1)
   m_TagString: Untagged
@@ -2578,10 +3234,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.949, y: 0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 1727657202}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1929762761
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2601,10 +3257,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 1966020583}
-  - 114: {fileID: 1966020582}
+  - component: {fileID: 1966020583}
+  - component: {fileID: 1966020582}
   m_Layer: 0
   m_Name: room
   m_TagString: Untagged
@@ -2928,19 +3584,19 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.04051794, y: -0.5915521, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2003731429
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 2003731430}
-  - 61: {fileID: 2003731431}
+  - component: {fileID: 2003731430}
+  - component: {fileID: 2003731431}
   m_Layer: 17
   m_Name: GameObject (1)
   m_TagString: Untagged
@@ -2957,10 +3613,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.949, y: 0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 142847232}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2003731431
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3022,13 +3678,13 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 2127998896}
-  - 20: {fileID: 2127998895}
-  - 92: {fileID: 2127998894}
-  - 124: {fileID: 2127998893}
-  - 81: {fileID: 2127998892}
+  - component: {fileID: 2127998896}
+  - component: {fileID: 2127998895}
+  - component: {fileID: 2127998894}
+  - component: {fileID: 2127998893}
+  - component: {fileID: 2127998892}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3100,7 +3756,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
