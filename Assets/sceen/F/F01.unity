@@ -11392,9 +11392,9 @@ MonoBehaviour:
         stringValues: []
         vector4Values: []
         objectReferences:
-        - {fileID: 0}
-        - {fileID: 0}
-        - {fileID: 0}
+        - {fileID: 2126655313}
+        - {fileID: 1023756666}
+        - {fileID: 1381129414}
       enumVariables: []
       categories:
       - 
@@ -16867,6 +16867,10 @@ Prefab:
     - {fileID: 11427432, guid: 975a13a9d08333d4e826a9afae9d2adb, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 975a13a9d08333d4e826a9afae9d2adb, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1023756666 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 184538, guid: 975a13a9d08333d4e826a9afae9d2adb, type: 2}
+  m_PrefabInternal: {fileID: 1003236479}
 --- !u!1 &1084689339
 GameObject:
   m_ObjectHideFlags: 0
@@ -17587,6 +17591,10 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
+--- !u!1 &1381129414 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 170642, guid: 975a13a9d08333d4e826a9afae9d2adb, type: 2}
+  m_PrefabInternal: {fileID: 1003236479}
 --- !u!1 &1419058048
 GameObject:
   m_ObjectHideFlags: 0
@@ -23203,6 +23211,10 @@ Transform:
   m_Father: {fileID: 1103051192}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2126655313 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 112410, guid: 975a13a9d08333d4e826a9afae9d2adb, type: 2}
+  m_PrefabInternal: {fileID: 1003236479}
 --- !u!1 &2130979960 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 171394, guid: 386164f9b3dd02247a0882d7bfebba8c, type: 2}
