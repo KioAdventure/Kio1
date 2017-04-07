@@ -39468,7 +39468,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        byteData: 010000150000000001
+        byteData: 010000150000000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
