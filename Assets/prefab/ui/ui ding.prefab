@@ -39707,7 +39707,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0
+          value: 16
         - useVariable: 1
           name: 
           tooltip: 
