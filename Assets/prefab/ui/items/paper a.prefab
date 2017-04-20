@@ -5,14 +5,14 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22490970}
-  - 222: {fileID: 22201528}
-  - 114: {fileID: 11485146}
-  - 114: {fileID: 11437336}
-  - 114: {fileID: 11406518}
-  - 114: {fileID: 11466464}
+  - component: {fileID: 22490970}
+  - component: {fileID: 22201528}
+  - component: {fileID: 11485146}
+  - component: {fileID: 11437336}
+  - component: {fileID: 11406518}
+  - component: {fileID: 11466464}
   m_Layer: 5
   m_Name: paper a
   m_TagString: Untagged
@@ -25,11 +25,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22492974}
-  - 222: {fileID: 22216810}
-  - 114: {fileID: 11477528}
+  - component: {fileID: 22492974}
+  - component: {fileID: 22216810}
+  - component: {fileID: 11477528}
   m_Layer: 5
   m_Name: number
   m_TagString: Untagged
@@ -857,7 +857,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: item hint/ox tank
+          value: item hint/paper a
         - useVariable: 1
           name: hint
           tooltip: 
@@ -1063,8 +1063,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 483
-        y: 183
+        x: 463
+        y: 200
         width: 100
         height: 32
       isBreakpoint: 0
@@ -2096,11 +2096,11 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 22492974}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2115,10 +2115,10 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 22490970}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 15.1, y: -24.5}

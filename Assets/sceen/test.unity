@@ -1160,11 +1160,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11408422, guid: 2ee215420ba65c94baaa2e13fde2dd54, type: 2}
       propertyPath: fsm.variables.arrayVariables.Array.data[62].intValues.Array.data[1]
-      value: 0
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 11408422, guid: 2ee215420ba65c94baaa2e13fde2dd54, type: 2}
       propertyPath: fsm.variables.arrayVariables.Array.data[62].intValues.Array.data[0]
-      value: 25
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 11408422, guid: 2ee215420ba65c94baaa2e13fde2dd54, type: 2}
       propertyPath: fsm.states.Array.data[19].actionData.fsmVarParams.Array.data[0].intValue

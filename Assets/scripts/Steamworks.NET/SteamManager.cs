@@ -76,6 +76,7 @@ public class SteamManager : MonoBehaviour {
 			// remove steam_appid.txt from the game depot. eg: "(AppId_t)480" or "new AppId_t(480)".
 			// See the Valve documentation for more information: https://partner.steamgames.com/documentation/drm#FAQ
 			if (SteamAPI.RestartAppIfNecessary(new AppId_t(612070))) {
+//			if (SteamAPI.RestartAppIfNecessary(AppId_t.Invalid)) {
 				Application.Quit();
 				return;
 			}
