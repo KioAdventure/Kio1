@@ -5,6 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/sceen/test.unity
   - enabled: 1
     path: Assets/sceen/logo.unity
   - enabled: 1
@@ -175,8 +177,6 @@ EditorBuildSettings:
     path: Assets/sceen/C/tx2.unity
   - enabled: 1
     path: Assets/sceen/A/A16.unity
-  - enabled: 0
-    path: Assets/sceen/test.unity
   - enabled: 1
     path: Assets/sceen/G/Gice.unity
   - enabled: 1
